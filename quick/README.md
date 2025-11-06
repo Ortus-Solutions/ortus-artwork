@@ -31,9 +31,6 @@ Example: `quick-logo-full-dark-M.svg`
 
 ## 🎨 Color Palette  
 
-## 🎨 Color Palette  
-**Ortus Brand Book 2025**
-
 <table>
   <tr>
     <th>Light</th>
