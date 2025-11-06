@@ -31,9 +31,6 @@ Example: `quick-logo-full-dark-M.svg`
 
 ## 🎨 Color Palette  
 
-## 🎨 Color Palette  
-**Ortus Brand Book 2025**
-
 <table>
   <tr>
     <th>Light</th>
@@ -52,9 +49,9 @@ Example: `quick-logo-full-dark-M.svg`
       <b>RGB:</b> 13, 135, 197
     </td>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/0C2340/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #0C2340<br>
-      <b>RGB:</b> 12, 35, 64
+      <img src="https://singlecolorimage.com/get/1D3366/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #1D3366<br>
+      <b>RGB:</b> 29, 51, 102
     </td>
   </tr>
 </table>
