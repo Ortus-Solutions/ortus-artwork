@@ -1,6 +1,6 @@
 # ColdBox
 
-Official logo repository for **ColdBox** — part of the COLDBOX Ecosystem from the Ortus Solutions brand family.
+Official logo repository for **ColdBox** — from the Ortus Solutions brand family.
 
 ---
 
