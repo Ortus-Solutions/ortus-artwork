@@ -39,19 +39,19 @@ Example: coldbox-logo-full-dark-M.svg
   </tr>
   <tr>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/5AC8FA/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #5AC8FA<br>
-      <b>RGB:</b> 90, 200, 250
+      <img src="https://singlecolorimage.com/get/33CFFF/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #33CFFF<br>
+      <b>RGB:</b> 51, 207, 255
     </td>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/007AFF/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #007AFF<br>
-      <b>RGB:</b> 0, 122, 255
+      <img src="https://singlecolorimage.com/get/0D87C5/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #0D87C5<br>
+      <b>RGB:</b> 13, 135, 197
     </td>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/0C2340/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #0C2340<br>
-      <b>RGB:</b> 12, 35, 64
+      <img src="https://singlecolorimage.com/get/1D3366/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #1D3366<br>
+      <b>RGB:</b> 29, 51, 102
     </td>
   </tr>
 </table>
