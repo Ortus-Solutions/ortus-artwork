@@ -8,13 +8,13 @@ Official logo repository for **Quick** — part of the COLDBOX Ecosystem from th
 
 | Variant | Preview | Folder | Size |
 |----------|----------|--------|------|
-| **Full Color (Dark Text)** | ![Full Color Dark](./quick/SVG/quick-logo-full-dark-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-logo-full-dark-L.svg) • [M](./SVG/quick-logo-full-dark-M.svg) • [S](./SVG/quick-logo-full-dark-S.svg) |
-| **Full Color (White Text)** | ![Full Color Light](./quick/SVG/quick-logo-full-light-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-logo-full-light-L.svg) • [M](./SVG/quick-logo-full-light-M.svg) • [S](./SVG/quick-logo-full-light-S.svg) |
-| **Monochrome (Dark)** | ![Mono Dark](./quick/SVG/quick-logo-mono-dark-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-logo-mono-dark-L.svg) • [M](./SVG/quick-logo-mono-dark-M.svg) • [S](./SVG/quick-logo-mono-dark-S.svg) |
-| **Monochrome (White)** | ![Mono Light](./quick/SVG/quick-logo-mono-light-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-logo-mono-light-L.svg) • [M](./SVG/quick-logo-mono-light-M.svg) • [S](./SVG/quick-logo-mono-light-S.svg) |
-| **Icon – Full Color** | ![Icon Full](./quick/SVG/quick-icon-full-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-icon-full-L.svg) • [M](./SVG/quick-icon-full-M.svg) • [S](./SVG/quick-icon-full-S.svg) |
-| **Icon – Mono (Dark)** | ![Icon Mono Dark](./quick/SVG/quick-icon-mono-dark-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-icon-mono-dark-L.svg) • [M](./SVG/quick-icon-mono-dark-M.svg) • [S](./SVG/quick-icon-mono-dark-S.svg) |
-| **Icon – Mono (White)** | ![Icon Mono Light](./quick/SVG/quick-icon-mono-light-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-icon-mono-light-L.svg) • [M](./SVG/quick-icon-mono-light-M.svg) • [S](./SVG/quick-icon-mono-light-S.svg) |
+| **Full Color (Dark Text)** | ![Full Color Dark](./SVG/quick-logo-full-dark-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-logo-full-dark-L.svg) • [M](./SVG/quick-logo-full-dark-M.svg) • [S](./SVG/quick-logo-full-dark-S.svg) |
+| **Full Color (White Text)** | ![Full Color Light](./SVG/quick-logo-full-light-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-logo-full-light-L.svg) • [M](./SVG/quick-logo-full-light-M.svg) • [S](./SVG/quick-logo-full-light-S.svg) |
+| **Monochrome (Dark)** | ![Mono Dark](./SVG/quick-logo-mono-dark-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-logo-mono-dark-L.svg) • [M](./SVG/quick-logo-mono-dark-M.svg) • [S](./SVG/quick-logo-mono-dark-S.svg) |
+| **Monochrome (White)** | ![Mono Light](./SVG/quick-logo-mono-light-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-logo-mono-light-L.svg) • [M](./SVG/quick-logo-mono-light-M.svg) • [S](./SVG/quick-logo-mono-light-S.svg) |
+| **Icon – Full Color** | ![Icon Full](./SVG/quick-icon-full-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-icon-full-L.svg) • [M](./SVG/quick-icon-full-M.svg) • [S](./SVG/quick-icon-full-S.svg) |
+| **Icon – Mono (Dark)** | ![Icon Mono Dark](./SVG/quick-icon-mono-dark-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-icon-mono-dark-L.svg) • [M](./SVG/quick-icon-mono-dark-M.svg) • [S](./SVG/quick-icon-mono-dark-S.svg) |
+| **Icon – Mono (White)** | ![Icon Mono Light](./SVG/quick-icon-mono-light-L.svg) | [SVG](./SVG/) • [PNG](./PNG/) • [JPG](./JPG/) | [L](./SVG/quick-icon-mono-light-L.svg) • [M](./SVG/quick-icon-mono-light-M.svg) • [S](./SVG/quick-icon-mono-light-S.svg) |
 
 ---
 
