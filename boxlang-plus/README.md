@@ -1,6 +1,6 @@
 # BOXLANG Plus
 
-Official logo repository for **BoxLang Plus**, an enhanced edition of the BoxLang language offering premium and advanced features.
+Official logo repository for **BOXLANG Plus**, an enhanced edition of the BoxLang language offering premium and advanced features.
 
 ---
 
