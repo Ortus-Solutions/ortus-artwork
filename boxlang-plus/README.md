@@ -24,7 +24,7 @@ Official logo repository for **BOXLANG Plus**, an enhanced edition of the BoxLan
 - Use **Full Color (White Text)** for dark backgrounds.  
 - Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
 - File naming convention: **bxplus-[logo]-[variant]-[tone]-[size].[format]**  
-- **BoxLang Plus** shares its **icon set** (Full, Mono Dark, Mono Light) with the main **BoxLang** product.
+- **BOXLANG Plus** shares its **icon set** (Full, Mono Dark, Mono Light) with the main **BoxLang** product.
 
 Example: `bxplus-logo-full-dark-M.svg`
 
