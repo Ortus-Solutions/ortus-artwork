@@ -1,6 +1,6 @@
 # BOXLANG Ultimate
 
-Official logo repository for **BOXLANG Ultimate** — part of the BOXLANG ecosystem from the Ortus Solutions brand family.
+Official logo repository for **BOXLANG Ultimate** — The enterprise edition offering premium support and advanced modules.
 
 ---
 
