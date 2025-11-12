@@ -1,6 +1,6 @@
-# FORGEBOX
+# ForgeBox
 
-Official logo repository for **FORGEBOX** — the package management and storage platform for the Modern CFML and Box ecosystem, by Ortus Solutions.
+Official logo repository for **ForgeBox** — the Ortus Solutions package management and storage platform for modern CFML and BOXLANG applications.
 
 ---
 
@@ -8,24 +8,20 @@ Official logo repository for **FORGEBOX** — the package management and storage
 
 | Variant | Preview | Files |
 |----------|----------|--------|
-| **Full Color (Dark Text)** | <img src="./SVG/forgebox-logo-full-dark-M.svg" alt="Full Color Dark" width="160"> | **SVG:** [Large](./SVG/forgebox-logo-full-dark-L.svg) • [Medium](./SVG/forgebox-logo-full-dark-M.svg) • [Small](./SVG/forgebox-logo-full-dark-S.svg)<br>**PNG:** [Large](./PNG/forgebox-logo-full-dark-L.png) • [Medium](./PNG/forgebox-logo-full-dark-M.png) • [Small](./PNG/forgebox-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/forgebox-logo-full-dark-L.jpg) • [Medium](./JPG/forgebox-logo-full-dark-M.jpg) • [Small](./JPG/forgebox-logo-full-dark-S.jpg) |
-| **Full Color (White Text)** | <img src="./SVG/forgebox-logo-full-light-M.svg" alt="Full Color Light" width="160"> | **SVG:** [Large](./SVG/forgebox-logo-full-light-L.svg) • [Medium](./SVG/forgebox-logo-full-light-M.svg) • [Small](./SVG/forgebox-logo-full-light-S.svg)<br>**PNG:** [Large](./PNG/forgebox-logo-full-light-L.png) • [Medium](./PNG/forgebox-logo-full-light-M.png) • [Small](./PNG/forgebox-logo-full-light-S.png)<br>**JPG:** [Large](./JPG/forgebox-logo-full-light-L.jpg) • [Medium](./JPG/forgebox-logo-full-light-M.jpg) • [Small](./JPG/forgebox-logo-full-light-S.jpg) |
-| **Monochrome (Dark)** | <img src="./SVG/forgebox-logo-mono-dark-M.svg" alt="Mono Dark" width="160"> | **SVG:** [Large](./SVG/forgebox-logo-mono-dark-L.svg) • [Medium](./SVG/forgebox-logo-mono-dark-M.svg) • [Small](./SVG/forgebox-logo-mono-dark-S.svg)<br>**PNG:** [Large](./PNG/forgebox-logo-mono-dark-L.png) • [Medium](./PNG/forgebox-logo-mono-dark-M.png) • [Small](./PNG/forgebox-logo-mono-dark-S.png)<br>**JPG:** [Large](./JPG/forgebox-logo-mono-dark-L.jpg) • [Medium](./JPG/forgebox-logo-mono-dark-M.jpg) • [Small](./JPG/forgebox-logo-mono-dark-S.jpg) |
-| **Monochrome (White)** | <img src="./SVG/forgebox-logo-mono-light-M.svg" alt="Mono Light" width="160"> | **SVG:** [Large](./SVG/forgebox-logo-mono-light-L.svg) • [Medium](./SVG/forgebox-logo-mono-light-M.svg) • [Small](./SVG/forgebox-logo-mono-light-S.svg)<br>**PNG:** [Large](./PNG/forgebox-logo-mono-light-L.png) • [Medium](./PNG/forgebox-logo-mono-light-M.png) • [Small](./PNG/forgebox-logo-mono-light-S.png)<br>**JPG:** [Large](./JPG/forgebox-logo-mono-light-L.jpg) • [Medium](./JPG/forgebox-logo-mono-light-M.jpg) • [Small](./JPG/forgebox-logo-mono-light-S.jpg) |
-| **Icon – Full Color** | <img src="./SVG/forgebox-icon-full-M.svg" alt="Icon Full" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-full-L.svg) • [Medium](./SVG/forgebox-icon-full-M.svg) • [Small](./SVG/forgebox-icon-full-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-full-L.png) • [Medium](./PNG/forgebox-icon-full-M.png) • [Small](./PNG/forgebox-icon-full-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-full-L.jpg) • [Medium](./JPG/forgebox-icon-full-M.jpg) • [Small](./JPG/forgebox-icon-full-S.jpg) |
-| **Icon – Mono (Dark)** | <img src="./SVG/forgebox-icon-mono-dark-M.svg" alt="Icon Mono Dark" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-mono-dark-L.svg) • [Medium](./SVG/forgebox-icon-mono-dark-M.svg) • [Small](./SVG/forgebox-icon-mono-dark-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-dark-L.png) • [Medium](./PNG/forgebox-icon-mono-dark-M.png) • [Small](./PNG/forgebox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-mono-dark-L.jpg) • [Medium](./JPG/forgebox-icon-mono-dark-M.jpg) • [Small](./JPG/forgebox-icon-mono-dark-S.jpg) |
-| **Icon – Mono (White)** | <img src="./SVG/forgebox-icon-mono-light-M.svg" alt="Icon Mono Light" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-mono-light-L.svg) • [Medium](./SVG/forgebox-icon-mono-light-M.svg) • [Small](./SVG/forgebox-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-light-L.png) • [Medium](./PNG/forgebox-icon-mono-light-M.png) • [Small](./PNG/forgebox-icon-mono-light-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-mono-light-L.jpg) • [Medium](./JPG/forgebox-icon-mono-light-M.jpg) • [Small](./JPG/forgebox-icon-mono-light-S.jpg) |
+| **Full Logo** | <img src="./SVG/forgebox-logo-full-M.svg" alt="ForgeBox Full Logo" width="160"> | **SVG:** [Large](./SVG/forgebox-logo-full-L.svg) • [Medium](./SVG/forgebox-logo-full-M.svg) • [Small](./SVG/forgebox-logo-full-S.svg)<br>**PNG:** [Large](./PNG/forgebox-logo-full-L.png) • [Medium](./PNG/forgebox-logo-full-M.png) • [Small](./PNG/forgebox-logo-full-S.png)<br>**JPG:** [Large](./JPG/forgebox-logo-full-L.jpg) • [Medium](./JPG/forgebox-logo-full-M.jpg) • [Small](./JPG/forgebox-logo-full-S.jpg) |
+| **Icon – Full Color** | <img src="./SVG/forgebox-icon-full-M.svg" alt="ForgeBox Icon Full" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-full-L.svg) • [Medium](./SVG/forgebox-icon-full-M.svg) • [Small](./SVG/forgebox-icon-full-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-full-L.png) • [Medium](./PNG/forgebox-icon-full-M.png) • [Small](./PNG/forgebox-icon-full-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-full-L.jpg) • [Medium](./JPG/forgebox-icon-full-M.jpg) • [Small](./JPG/forgebox-icon-full-S.jpg) |
+| **Icon – Mono (Dark)** | <img src="./SVG/forgebox-icon-mono-dark-M.svg" alt="ForgeBox Icon Mono Dark" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-mono-dark-L.svg) • [Medium](./SVG/forgebox-icon-mono-dark-M.svg) • [Small](./SVG/forgebox-icon-mono-dark-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-dark-L.png) • [Medium](./PNG/forgebox-icon-mono-dark-M.png) • [Small](./PNG/forgebox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-mono-dark-L.jpg) • [Medium](./JPG/forgebox-icon-mono-dark-M.jpg) • [Small](./JPG/forgebox-icon-mono-dark-S.jpg) |
+| **Icon – Mono (Light)** | <img src="./SVG/forgebox-icon-mono-light-M.svg" alt="ForgeBox Icon Mono Light" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-mono-light-L.svg) • [Medium](./SVG/forgebox-icon-mono-light-M.svg) • [Small](./SVG/forgebox-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-light-L.png) • [Medium](./PNG/forgebox-icon-mono-light-M.png) • [Small](./PNG/forgebox-icon-mono-light-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-mono-light-L.jpg) • [Medium](./JPG/forgebox-icon-mono-light-M.jpg) • [Small](./JPG/forgebox-icon-mono-light-S.jpg) |
 
 ---
 
 ## 📝 Notes
 
-- Use **Full Color (Dark Text)** for light backgrounds.  
-- Use **Full Color (White Text)** for dark backgrounds.  
-- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
-- File naming convention: **forgebox-[logo|icon]-[variant]-[tone]-[size].[format]**
+- Use **Full Logo** for standard branding and marketing materials.  
+- Use **Icon** versions when a simplified or compact representation is required.  
+- File naming convention: **forgebox-[logo|icon]-[variant]-[size].[format]**
 
-Example: `forgebox-logo-full-dark-M.svg`
+Example: `forgebox-logo-full-M.svg`
 
 ---
 
