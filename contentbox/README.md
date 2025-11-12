@@ -35,14 +35,14 @@ Example: `contentbox-logo-full-M.svg`
   </tr>
   <tr>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/33CFFF/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #33CFFF<br>
-      <b>RGB:</b> 51, 207, 255
+      <img src="https://singlecolorimage.com/get/7DFF6B/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #7DFF6B<br>
+      <b>RGB:</b> 125, 255, 107
     </td>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/0D87C5/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #0D87C5<br>
-      <b>RGB:</b> 13, 135, 197
+      <img src="https://singlecolorimage.com/get/0B826F/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #0B826F<br>
+      <b>RGB:</b> 11, 130, 111
     </td>
     <td align="center">
       <img src="https://singlecolorimage.com/get/343433/100x100" width="100" height="100" style="border-radius:8px;"><br>
