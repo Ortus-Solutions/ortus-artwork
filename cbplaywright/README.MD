@@ -1,8 +1,8 @@
-# CBPPLAYWRIGHT
+# CBPLAYWRIGHT
 
-**CBPPLAYWRIGHT** is a browser automation and end-to-end testing solution within the CB ecosystem, designed to streamline UI testing, workflow validation, and cross-platform quality assurance.
+**CBPLAYWRIGHT** is a browser automation and end-to-end testing engine within the CB ecosystem, built to enable reliable UI testing, workflow automation, and cross-browser validation for modern applications.
 
-This repository contains the official CBPPLAYWRIGHT logo and icon assets for use across product interfaces, documentation, marketing materials, and integration resources.
+This repository contains the official CBPLAYWRIGHT logo and icon assets for use across product interfaces, documentation, marketing materials, and integration resources.
 
 ---
 
@@ -10,10 +10,10 @@ This repository contains the official CBPPLAYWRIGHT logo and icon assets for use
 
 | Variant | Preview | Files |
 |----------|----------|--------|
-| Logo – Full | <img src="./PNG/cbpplaywright-logo-full-M.png" width="160"/> | [SVG L](./SVG/cbpplaywright-logo-full-L.svg) · [SVG M](./SVG/cbpplaywright-logo-full-M.svg) · [SVG S](./SVG/cbpplaywright-logo-full-S.svg)<br>[PNG L](./PNG/cbpplaywright-logo-full-L.png) · [PNG M](./PNG/cbpplaywright-logo-full-M.png) · [PNG S](./PNG/cbpplaywright-logo-full-S.png)<br>[JPG L](./JPG/cbpplaywright-logo-full-L.jpg) · [JPG M](./JPG/cbpplaywright-logo-full-M.jpg) · [JPG S](./JPG/cbpplaywright-logo-full-S.jpg) |
-| Icon – Full | <img src="./PNG/cbpplaywright-icon-full-M.png" width="160"/> | [SVG L](./SVG/cbpplaywright-icon-full-L.svg) · [SVG M](./SVG/cbpplaywright-icon-full-M.svg) · [SVG S](./SVG/cbpplaywright-icon-full-S.svg)<br>[PNG L](./PNG/cbpplaywright-icon-full-L.png) · [PNG M](./PNG/cbpplaywright-icon-full-M.png) · [PNG S](./PNG/cbpplaywright-icon-full-S.png)<br>[JPG L](./JPG/cbpplaywright-icon-full-L.jpg) · [JPG M](./JPG/cbpplaywright-icon-full-M.jpg) · [JPG S](./JPG/cbpplaywright-icon-full-S.jpg) |
-| Icon – Mono Dark | <img src="./PNG/cbpplaywright-icon-mono-dark-M.png" width="160"/> | [SVG L](./SVG/cbpplaywright-icon-mono-dark-L.svg) · [SVG M](./SVG/cbpplaywright-icon-mono-dark-M.svg) · [SVG S](./SVG/cbpplaywright-icon-mono-dark-S.svg)<br>[PNG L](./PNG/cbpplaywright-icon-mono-dark-L.png) · [PNG M](./PNG/cbpplaywright-icon-mono-dark-M.png) · [PNG S](./PNG/cbpplaywright-icon-mono-dark-S.png)<br>[JPG L](./JPG/cbpplaywright-icon-mono-dark-L.jpg) · [JPG M](./JPG/cbpplaywright-icon-mono-dark-M.jpg) · [JPG S](./JPG/cbpplaywright-icon-mono-dark-S.jpg) |
-| Icon – Mono Light | <img src="./PNG/cbpplaywright-icon-mono-light-M.png" width="160"/> | [SVG L](./SVG/cbpplaywright-icon-mono-light-L.svg) · [SVG M](./SVG/cbpplaywright-icon-mono-light-M.svg) · [SVG S](./SVG/cbpplaywright-icon-mono-light-S.svg)<br>[PNG L](./PNG/cbpplaywright-icon-mono-light-L.png) · [PNG M](./PNG/cbpplaywright-icon-mono-light-M.png) · [PNG S](./PNG/cbpplaywright-icon-mono-light-S.png)<br>[JPG L](./JPG/cbpplaywright-icon-mono-light-L.jpg) · [JPG M](./JPG/cbpplaywright-icon-mono-light-M.jpg) · [JPG S](./JPG/cbpplaywright-icon-mono-light-S.jpg) |
+| Logo – Full | <img src="./PNG/cbplaywright-logo-full-M.png" width="160"/> | [SVG L](./SVG/cbplaywright-logo-full-L.svg) · [SVG M](./SVG/cbplaywright-logo-full-M.svg) · [SVG S](./SVG/cbplaywright-logo-full-S.svg)<br>[PNG L](./PNG/cbplaywright-logo-full-L.png) · [PNG M](./PNG/cbplaywright-logo-full-M.png) · [PNG S](./PNG/cbplaywright-logo-full-S.png)<br>[JPG L](./JPG/cbplaywright-logo-full-L.jpg) · [JPG M](./JPG/cbplaywright-logo-full-M.jpg) · [JPG S](./JPG/cbplaywright-logo-full-S.jpg) |
+| Icon – Full | <img src="./PNG/cbplaywright-icon-full-M.png" width="160"/> | [SVG L](./SVG/cbplaywright-icon-full-L.svg) · [SVG M](./SVG/cbplaywright-icon-full-M.svg) · [SVG S](./SVG/cbplaywright-icon-full-S.svg)<br>[PNG L](./PNG/cbplaywright-icon-full-L.png) · [PNG M](./PNG/cbplaywright-icon-full-M.png) · [PNG S](./PNG/cbplaywright-icon-full-S.png)<br>[JPG L](./JPG/cbplaywright-icon-full-L.jpg) · [JPG M](./JPG/cbplaywright-icon-full-M.jpg) · [JPG S](./JPG/cbplaywright-icon-full-S.jpg) |
+| Icon – Mono Dark | <img src="./PNG/cbplaywright-icon-mono-dark-M.png" width="160"/> | [SVG L](./SVG/cbplaywright-icon-mono-dark-L.svg) · [SVG M](./SVG/cbplaywright-icon-mono-dark-M.svg) · [SVG S](./SVG/cbplaywright-icon-mono-dark-S.svg)<br>[PNG L](./PNG/cbplaywright-icon-mono-dark-L.png) · [PNG M](./PNG/cbplaywright-icon-mono-dark-M.png) · [PNG S](./PNG/cbplaywright-icon-mono-dark-S.png)<br>[JPG L](./JPG/cbplaywright-icon-mono-dark-L.jpg) · [JPG M](./JPG/cbplaywright-icon-mono-dark-M.jpg) · [JPG S](./JPG/cbplaywright-icon-mono-dark-S.jpg) |
+| Icon – Mono Light | <img src="./PNG/cbplaywright-icon-mono-light-M.png" width="160"/> | [SVG L](./SVG/cbplaywright-icon-mono-light-L.svg) · [SVG M](./SVG/cbplaywright-icon-mono-light-M.svg) · [SVG S](./SVG/cbplaywright-icon-mono-light-S.svg)<br>[PNG L](./PNG/cbplaywright-icon-mono-light-L.png) · [PNG M](./PNG/cbplaywright-icon-mono-light-M.png) · [PNG S](./PNG/cbplaywright-icon-mono-light-S.png)<br>[JPG L](./JPG/cbplaywright-icon-mono-light-L.jpg) · [JPG M](./JPG/cbplaywright-icon-mono-light-M.jpg) · [JPG S](./JPG/cbplaywright-icon-mono-light-S.jpg) |
 
 ---
 
@@ -21,7 +21,7 @@ This repository contains the official CBPPLAYWRIGHT logo and icon assets for use
 
 - Folders included: `SVG`, `PNG`, `JPG`
 - File naming convention:  
-  `cbpplaywright-[logo|icon]-[variant]-[tone]-[size].[format]`
+  `cbplaywright-[logo|icon]-[variant]-[tone]-[size].[format]`
 - Sizes available: **L**, **M**, **S**
 - Use **SVG** whenever possible for scalability and best quality.
 - Use **PNG** for digital applications.
