@@ -2,8 +2,6 @@
 
 **CBPLAYWRIGHT** is a browser automation and end-to-end testing engine within the CB ecosystem, built to enable reliable UI testing, workflow automation, and cross-browser validation for modern applications.
 
-This repository contains the official CBPLAYWRIGHT logo and icon assets for use across product interfaces, documentation, marketing materials, and integration resources.
-
 ---
 
 ## 🖼️ Logo Variants
