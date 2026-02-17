@@ -156,43 +156,12 @@ Make sure the `fonts.zip` file is located at the same level as this `README.md`.
 
 # LOGOS
 
-<table>
-<tr>
-<th>Variant</th>
-<th>Preview</th>
-<th>Files</th>
-</tr>
+| Variant | Preview | Download |
+|----------|----------|-----------|
+| **Logo-Full** | <img src="Logo/PNG/ortus20yr-logo-full-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-full-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-full-M.svg) • [Small](Logo/SVG/ortus20yr-logo-full-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-full-L.png) • [Medium](Logo/PNG/ortus20yr-logo-full-M.png) • [Small](Logo/PNG/ortus20yr-logo-full-S.png)<br/><br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-full-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-full-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-full-S.jpg) |
+| **Logo-Mono-Dark** | <img src="Logo/PNG/ortus20yr-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-mono-dark-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-mono-dark-M.svg) • [Small](Logo/SVG/ortus20yr-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-dark-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-dark-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-dark-S.png)<br/><br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-mono-dark-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-mono-dark-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-mono-dark-S.jpg) |
+| **Logo-Mono-Light** | <img src="Logo/PNG/ortus20yr-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-mono-light-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-mono-light-M.svg) • [Small](Logo/SVG/ortus20yr-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-light-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-light-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-light-S.png) |
 
-<tr>
-<td align="center">
-Logo – Full
-</td>
-
-<td align="center">
-<img src="Logo/PNG/ortus20yr-logo-full-M.png" width="160"/><br/>
-<b>20 Year Anniversary</b>
-</td>
-
-<td align="center">
-
-<b>SVG</b>  
-<a href="Logo/SVG/ortus20yr-logo-full-L.svg">SVG L</a> · 
-<a href="Logo/SVG/ortus20yr-logo-full-M.svg">SVG M</a> · 
-<a href="Logo/SVG/ortus20yr-logo-full-S.svg">SVG S</a>  
-
-<b>PNG</b>  
-<a href="Logo/PNG/ortus20yr-logo-full-L.png">PNG L</a> · 
-<a href="Logo/PNG/ortus20yr-logo-full-M.png">PNG M</a> · 
-<a href="Logo/PNG/ortus20yr-logo-full-S.png">PNG S</a>  
-
-<b>JPG</b>  
-<a href="Logo/JPG/ortus20yr-logo-full-L.jpg">JPG L</a> · 
-<a href="Logo/JPG/ortus20yr-logo-full-M.jpg">JPG M</a> · 
-<a href="Logo/JPG/ortus20yr-logo-full-S.jpg">JPG S</a>  
-
-</td>
-</tr>
-</table>
 
 ---
 
