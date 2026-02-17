@@ -5,13 +5,6 @@ This repository contains approved brand assets for dashboards, internal systems,
 
 ---
 
-## 🎨 Brand Overview
-
-CBTASKS HQ represents productivity, structure, and operational clarity.  
-Use the appropriate logo variant depending on background and contrast requirements.
-
----
-
 ## 🖼️ Logo Variants
 
 | Variant | Preview | Files |
