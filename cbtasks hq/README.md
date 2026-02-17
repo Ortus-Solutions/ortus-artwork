@@ -1,7 +1,6 @@
 # CBTASKS HQ
 
-Official logo assets for **CBTASKS HQ**, the centralized task management and operational coordination platform within the CB ecosystem.  
-This repository contains approved brand assets for dashboards, internal systems, documentation, and operational workflows.
+**CBTASKS HQ** is the centralized task management and productivity hub within the Ortus Solutions ecosystem, designed to streamline team workflows, track progress, and enhance collaboration across projects.
 
 ---
 
@@ -16,22 +15,36 @@ This repository contains approved brand assets for dashboards, internal systems,
 
 ---
 
-## 📁 Folder Structure
+## 📝 Notes
 
-SVG/  
-PNG/  
-JPG/
-
----
-
-## ✅ Usage Guidelines
-
-- Prefer **SVG** for product interfaces and dashboards.
-- Use **PNG** for documentation and presentations.
-- Use **JPG** only when required for compatibility (not available for Icon – Full and Icon – Mono Light).
-- Maintain proper spacing and do not alter proportions or colors.
-- Do not modify or distort the logo.
+- Folders included: `SVG`, `PNG`, `JPG`
+- File naming convention:  
+  `cbtaskshq-[logo|icon]-[variant]-[tone]-[size].[format]`
+- Sizes available: **L**, **M**, **S**
+- Use **SVG** whenever possible for scalability and best quality.
+- Use **PNG** for digital applications.
+- Use **JPG** only when required for compatibility (except Mono Light, which does not include JPG versions).
 
 ---
 
-© CB Ecosystem – CBTASKS HQ Brand Assets
+## 🎨 Color Palette
+
+<table>
+<tr>
+<td align="center">
+<img src="https://singlecolorimage.com/get/33CFFF/100x100"/><br/>
+<b>Light</b><br/>
+#33CFFF
+</td>
+<td align="center">
+<img src="https://singlecolorimage.com/get/0D87C5/100x100"/><br/>
+<b>Med</b><br/>
+#0D87C5
+</td>
+<td align="center">
+<img src="https://singlecolorimage.com/get/343433/100x100"/><br/>
+<b>Dark</b><br/>
+#343433
+</td>
+</tr>
+</table>
