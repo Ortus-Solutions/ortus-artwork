@@ -176,19 +176,19 @@ Logo – Full
 <td align="center">
 
 <b>SVG</b>  
-<a href="/Logo/SVG/ortus20yr-logo-full-L.svg">SVG L</a> · 
-<a href="./Logo/SVG/ortus20yr-logo-full-M.svg">SVG M</a> · 
-<a href="./Logo/SVG/ortus20yr-logo-full-S.svg">SVG S</a>  
+<a href="Logo/SVG/ortus20yr-logo-full-L.svg">SVG L</a> · 
+<a href="Logo/SVG/ortus20yr-logo-full-M.svg">SVG M</a> · 
+<a href="Logo/SVG/ortus20yr-logo-full-S.svg">SVG S</a>  
 
 <b>PNG</b>  
-<a href="./Logo/PNG/ortus20yr-logo-full-L.png">PNG L</a> · 
-<a href="./Logo/PNG/ortus20yr-logo-full-M.png">PNG M</a> · 
-<a href="./Logo/PNG/ortus20yr-logo-full-S.png">PNG S</a>  
+<a href="Logo/PNG/ortus20yr-logo-full-L.png">PNG L</a> · 
+<a href="Logo/PNG/ortus20yr-logo-full-M.png">PNG M</a> · 
+<a href="Logo/PNG/ortus20yr-logo-full-S.png">PNG S</a>  
 
 <b>JPG</b>  
-<a href="./Logo/JPG/ortus20yr-logo-full-L.jpg">JPG L</a> · 
-<a href="./Logo/JPG/ortus20yr-logo-full-M.jpg">JPG M</a> · 
-<a href="./Logo/JPG/ortus20yr-logo-full-S.jpg">JPG S</a>  
+<a href="Logo/JPG/ortus20yr-logo-full-L.jpg">JPG L</a> · 
+<a href="Logo/JPG/ortus20yr-logo-full-M.jpg">JPG M</a> · 
+<a href="Logo/JPG/ortus20yr-logo-full-S.jpg">JPG S</a>  
 
 </td>
 </tr>
