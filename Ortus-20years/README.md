@@ -1,9 +1,10 @@
-# Ortus Solutions & ColdBox  
-## 20 Year Anniversary Brand Assets (2025)
+# 20 Year Anniversary Brand Assets (2025)
 
 This repository serves as the central source of truth for all official assets related to the **Ortus Solutions and ColdBox 20 Year Anniversary campaign**.
 
 It includes logos, visual systems, templates, and supporting materials to maintain consistency, clarity, and brand integrity across all digital and print touchpoints during the anniversary year.
+
+---
 
 # LOGOS
 
@@ -13,8 +14,6 @@ It includes logos, visual systems, templates, and supporting materials to mainta
 | **Logo-Mono-Dark** | <img src="Logo/PNG/ortus20yr-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-mono-dark-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-mono-dark-M.svg) • [Small](Logo/SVG/ortus20yr-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-dark-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-dark-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-dark-S.png)<br/><br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-mono-dark-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-mono-dark-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-mono-dark-S.jpg) |
 | **Logo-Mono-Light** | <img src="Logo/PNG/ortus20yr-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-mono-light-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-mono-light-M.svg) • [Small](Logo/SVG/ortus20yr-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-light-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-light-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-light-S.png) |
 
-
----
 
 ## 📝 Notes
 
@@ -53,7 +52,6 @@ Sizes available: **L, M, S**
 | Body Primary     | Poppins Regular  | Light  | #565973    |
 | Body Secondary   | Poppins Regular  | Light  | #9397AD    |
 
----
 
 ## Web Embed (Google Fonts)
 
@@ -81,8 +79,6 @@ Add this inside the `<head>` of your HTML:
 }
 ```
 
----
-
 ## Local Font Download
 
 If you prefer self-hosting the typography, download it here:
@@ -94,8 +90,6 @@ Make sure the `fonts.zip` file is located at the same level as this `README.md`.
 ---
 
 # COLOR PALETTE
-
----
 
 ## GREEN (ORTUS)
 
@@ -133,8 +127,6 @@ Make sure the `fonts.zip` file is located at the same level as this `README.md`.
 | 0%   | #A9DD2F  | color-ortus-light-100 |
 | 72%  | #2DBA95  | color-ortus-med-100   |
 
----
-
 ## BLUE (COLDBOX)
 
 ## Light
@@ -170,7 +162,6 @@ Make sure the `fonts.zip` file is located at the same level as this `README.md`.
 |------|----------|-----------|
 | 28%  | #33CFFF  | color-coldbox-light-100 |
 | 100% | #0D87C5  | color-coldbox-med-100   |
----
 
 # Usage Guidelines
 
