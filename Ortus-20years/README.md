@@ -5,6 +5,34 @@ This repository serves as the central source of truth for all official assets re
 
 It includes logos, visual systems, templates, and supporting materials to maintain consistency, clarity, and brand integrity across all digital and print touchpoints during the anniversary year.
 
+# LOGOS
+
+| Variant | Preview | Download |
+|----------|----------|-----------|
+| **Logo-Full** | <img src="Logo/PNG/ortus20yr-logo-full-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-full-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-full-M.svg) • [Small](Logo/SVG/ortus20yr-logo-full-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-full-L.png) • [Medium](Logo/PNG/ortus20yr-logo-full-M.png) • [Small](Logo/PNG/ortus20yr-logo-full-S.png)<br/><br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-full-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-full-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-full-S.jpg) |
+| **Logo-Mono-Dark** | <img src="Logo/PNG/ortus20yr-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-mono-dark-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-mono-dark-M.svg) • [Small](Logo/SVG/ortus20yr-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-dark-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-dark-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-dark-S.png)<br/><br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-mono-dark-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-mono-dark-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-mono-dark-S.jpg) |
+| **Logo-Mono-Light** | <img src="Logo/PNG/ortus20yr-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-mono-light-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-mono-light-M.svg) • [Small](Logo/SVG/ortus20yr-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-light-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-light-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-light-S.png) |
+
+
+---
+
+## 📝 Notes
+
+Folders included: **SVG, PNG, JPG**
+
+File naming convention:
+
+```
+ortus20yr-logo-full-[size].[format]
+```
+
+Sizes available: **L, M, S**
+
+- Use **SVG** whenever possible for scalability and best quality.
+- Use **PNG** for digital applications.
+- Use **JPG** only when required for compatibility.
+- This repository includes only the **Full Logo version** (no icon variant).
+
 ---
 
 # FONT
@@ -151,36 +179,6 @@ Make sure the `fonts.zip` file is located at the same level as this `README.md`.
 - Maintain gradient stop percentages as defined.
 - Respect theme-specific typography and color pairings.
 - Ensure accessibility contrast compliance when combining text and background colors.
-
----
-
-# LOGOS
-
-| Variant | Preview | Download |
-|----------|----------|-----------|
-| **Logo-Full** | <img src="Logo/PNG/ortus20yr-logo-full-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-full-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-full-M.svg) • [Small](Logo/SVG/ortus20yr-logo-full-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-full-L.png) • [Medium](Logo/PNG/ortus20yr-logo-full-M.png) • [Small](Logo/PNG/ortus20yr-logo-full-S.png)<br/><br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-full-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-full-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-full-S.jpg) |
-| **Logo-Mono-Dark** | <img src="Logo/PNG/ortus20yr-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-mono-dark-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-mono-dark-M.svg) • [Small](Logo/SVG/ortus20yr-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-dark-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-dark-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-dark-S.png)<br/><br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-mono-dark-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-mono-dark-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-mono-dark-S.jpg) |
-| **Logo-Mono-Light** | <img src="Logo/PNG/ortus20yr-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](Logo/SVG/ortus20yr-logo-mono-light-L.svg) • [Medium](Logo/SVG/ortus20yr-logo-mono-light-M.svg) • [Small](Logo/SVG/ortus20yr-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-light-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-light-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-light-S.png) |
-
-
----
-
-## 📝 Notes
-
-Folders included: **SVG, PNG, JPG**
-
-File naming convention:
-
-```
-ortus20yr-logo-full-[size].[format]
-```
-
-Sizes available: **L, M, S**
-
-- Use **SVG** whenever possible for scalability and best quality.
-- Use **PNG** for digital applications.
-- Use **JPG** only when required for compatibility.
-- This repository includes only the **Full Logo version** (no icon variant).
 
 ---
 
