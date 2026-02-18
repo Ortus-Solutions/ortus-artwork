@@ -80,7 +80,6 @@ If you prefer self-hosting the typography, download it here:
 
 👉 [Download fonts.zip](./fonts.zip)
 
-Make sure the `fonts.zip` file is located at the same level as this `README.md`.
 
 ---
 
