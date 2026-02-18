@@ -43,11 +43,6 @@ Sizes available: **L, M, S**
 | Title / Header   | Poppins Bold     | Dark   | #FFFFFF    |
 | Body Primary     | Poppins Regular  | Dark   | #EFF2FC    |
 | Body Secondary   | Poppins Regular  | Dark   | #9397AD    |
-
-## Light Theme
-
-| Function         | Font             | Theme | Text Color |
-|------------------|------------------|--------|------------|
 | Title / Header   | Poppins Bold     | Light  | #0B0F19    |
 | Body Primary     | Poppins Regular  | Light  | #565973    |
 | Body Secondary   | Poppins Regular  | Light  | #9397AD    |
