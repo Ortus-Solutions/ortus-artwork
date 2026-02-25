@@ -7,11 +7,11 @@ This package contains the primary logo variations and icon assets for use across
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Files |
-|----------|----------|--------|
-| Logo – Full Light | <img src="./PNG/itb-logo-full-light-M.png" width="160"/> | [SVG L](./SVG/itb-logo-full-light-L.svg) · [SVG M](./SVG/itb-logo-full-light-M.svg) · [SVG S](./SVG/itb-logo-full-light-S.svg)<br>[PNG L](./PNG/itb-logo-full-light-L.png) · [PNG M](./PNG/itb-logo-full-light-M.png) · [PNG S](./PNG/itb-logo-full-light-S.png)<br>[JPG L](./JPG/itb-logo-full-light-L.jpg) · [JPG M](./JPG/itb-logo-full-light-M.jpg) · [JPG S](./JPG/itb-logo-full-light-S.jpg) |
-| Logo – Full Dark | <img src="./PNG/itb-logo-full-dark-M.png" width="160"/> | [SVG L](./SVG/itb-logo-full-dark-L.svg) · [SVG M](./SVG/itb-logo-full-dark-M.svg) · [SVG S](./SVG/itb-logo-full-dark-S.svg)<br>[PNG L](./PNG/itb-logo-full-dark-L.png) · [PNG M](./PNG/itb-logo-full-dark-M.png) · [PNG S](./PNG/itb-logo-full-dark-S.png) |
-| Icon – Full | <img src="./PNG/itb-icon-full-M.png" width="160"/> | [SVG L](./SVG/itb-icon-full-L.svg) · [SVG M](./SVG/itb-icon-full-M.svg) · [SVG S](./SVG/itb-icon-full-S.svg)<br>[PNG L](./PNG/itb-icon-full-L.png) · [PNG M](./PNG/itb-icon-full-M.png) · [PNG S](./PNG/itb-icon-full-S.png)<br>[JPG L](./JPG/itb-icon-full-L.jpg) · [JPG M](./JPG/itb-icon-full-M.jpg) · [JPG S](./JPG/itb-icon-full-S.jpg) |
+| Variant | Preview | Download |
+|----------|----------|-----------|
+| **Logo – Full Light** | <img src="./PNG/itb-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/itb-logo-full-light-L.svg) • [Medium](./SVG/itb-logo-full-light-M.svg) • [Small](./SVG/itb-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/itb-logo-full-light-L.png) • [Medium](./PNG/itb-logo-full-light-M.png) • [Small](./PNG/itb-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/itb-logo-full-light-L.jpg) • [Medium](./JPG/itb-logo-full-light-M.jpg) • [Small](./JPG/itb-logo-full-light-S.jpg) |
+| **Logo – Full Dark** | <img src="./PNG/itb-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/itb-logo-full-dark-L.svg) • [Medium](./SVG/itb-logo-full-dark-M.svg) • [Small](./SVG/itb-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/itb-logo-full-dark-L.png) • [Medium](./PNG/itb-logo-full-dark-M.png) • [Small](./PNG/itb-logo-full-dark-S.png) |
+| **Icon – Full** | <img src="./PNG/itb-icon-full-M.png" width="140"/> | **SVG:** [Large](./SVG/itb-icon-full-L.svg) • [Medium](./SVG/itb-icon-full-M.svg) • [Small](./SVG/itb-icon-full-S.svg)<br/><br/>**PNG:** [Large](./PNG/itb-icon-full-L.png) • [Medium](./PNG/itb-icon-full-M.png) • [Small](./PNG/itb-icon-full-S.png)<br/><br/>**JPG:** [Large](./JPG/itb-icon-full-L.jpg) • [Medium](./JPG/itb-icon-full-M.jpg) • [Small](./JPG/itb-icon-full-S.jpg) |
 
 ---
 
