@@ -6,14 +6,12 @@
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Files |
-|----------|----------|--------|
-| Logo – Full | <img src="./PNG/cbsecurity-logo-full-M.png" width="160"/> | [SVG L](./SVG/cbsecurity-logo-full-L.svg) · [SVG M](./SVG/cbsecurity-logo-full-M.svg) · [SVG S](./SVG/cbsecurity-logo-full-S.svg)<br>[PNG L](./PNG/cbsecurity-logo-full-L.png) · [PNG M](./PNG/cbsecurity-logo-full-M.png) · [PNG S](./PNG/cbsecurity-logo-full-S.png)<br>[JPG L](./JPG/cbsecurity-logo-full-L.jpg) · [JPG M](./JPG/cbsecurity-logo-full-M.jpg) · [JPG S](./JPG/cbsecurity-logo-full-S.jpg) |
-| Icon – Full | <img src="./PNG/cbsecurity-icon-full-M.png" width="160"/> | [SVG L](./SVG/cbsecurity-icon-full-L.svg) · [SVG M](./SVG/cbsecurity-icon-full-M.svg) · [SVG S](./SVG/cbsecurity-icon-full-S.svg)<br>[PNG L](./PNG/cbsecurity-icon-full-L.png) · [PNG M](./PNG/cbsecurity-icon-full-M.png) · [PNG S](./PNG/cbsecurity-icon-full-S.png)<br>[JPG L](./JPG/cbsecurity-icon-full-L.jpg) · [JPG M](./JPG/cbsecurity-icon-full-M.jpg) · [JPG S](./JPG/cbsecurity-icon-full-S.jpg) |
-| Icon – Mono Dark | <img src="./PNG/cbsecurity-icon-mono-dark-M.png" width="160"/> | [SVG L](./SVG/cbsecurity-icon-mono-dark-L.svg) · [SVG M](./SVG/cbsecurity-icon-mono-dark-M.svg) · [SVG S](./SVG/cbsecurity-icon-mono-dark-S.svg)<br>[PNG L](./PNG/cbsecurity-icon-mono-dark-L.png) · [PNG M](./PNG/cbsecurity-icon-mono-dark-M.png) · [PNG S](./PNG/cbsecurity-icon-mono-dark-S.png)<br>[JPG L](./JPG/cbsecurity-icon-mono-dark-L.jpg) · [JPG M](./JPG/cbsecurity-icon-mono-dark-M.jpg) · [JPG S](./JPG/cbsecurity-icon-mono-dark-S.jpg) |
-| Icon – Mono Light | <img src="./PNG/cbsecurity-icon-mono-light-M.png" width="160"/> | [SVG L](./SVG/cbsecurity-icon-mono-light-L.svg) · [SVG M](./SVG/cbsecurity-icon-mono-light-M.svg) · [SVG S](./SVG/cbsecurity-icon-mono-light-S.svg)<br>[PNG L](./PNG/cbsecurity-icon-mono-light-L.png) · [PNG M](./PNG/cbsecurity-icon-mono-light-M.png) · [PNG S](./PNG/cbsecurity-icon-mono-light-S.png) |
-
-
+| Variant | Preview | Download |
+|----------|----------|---------|
+| Logo – Full | <img src="./PNG/cbsecurity-logo-full-M.png" width="160"/> | **SVG:** [Large](./SVG/cbsecurity-logo-full-L.svg) • [Medium](./SVG/cbsecurity-logo-full-M.svg) • [Small](./SVG/cbsecurity-logo-full-S.svg)<br>**PNG:** [Large](./PNG/cbsecurity-logo-full-L.png) • [Medium](./PNG/cbsecurity-logo-full-M.png) • [Small](./PNG/cbsecurity-logo-full-S.png)<br>**JPG:** [Large](./JPG/cbsecurity-logo-full-L.jpg) • [Medium](./JPG/cbsecurity-logo-full-M.jpg) • [Small](./JPG/cbsecurity-logo-full-S.jpg) |
+| Icon – Full | <img src="./PNG/cbsecurity-icon-full-M.png" width="160"/> | **SVG:** [Large](./SVG/cbsecurity-icon-full-L.svg) • [Medium](./SVG/cbsecurity-icon-full-M.svg) • [Small](./SVG/cbsecurity-icon-full-S.svg)<br>**PNG:** [Large](./PNG/cbsecurity-icon-full-L.png) • [Medium](./PNG/cbsecurity-icon-full-M.png) • [Small](./PNG/cbsecurity-icon-full-S.png)<br>**JPG:** [Large](./JPG/cbsecurity-icon-full-L.jpg) • [Medium](./JPG/cbsecurity-icon-full-M.jpg) • [Small](./JPG/cbsecurity-icon-full-S.jpg) |
+| Icon – Mono Dark | <img src="./PNG/cbsecurity-icon-mono-dark-M.png" width="160"/> | **SVG:** [Large](./SVG/cbsecurity-icon-mono-dark-L.svg) • [Medium](./SVG/cbsecurity-icon-mono-dark-M.svg) • [Small](./SVG/cbsecurity-icon-mono-dark-S.svg)<br>**PNG:** [Large](./PNG/cbsecurity-icon-mono-dark-L.png) • [Medium](./PNG/cbsecurity-icon-mono-dark-M.png) • [Small](./PNG/cbsecurity-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/cbsecurity-icon-mono-dark-L.jpg) • [Medium](./JPG/cbsecurity-icon-mono-dark-M.jpg) • [Small](./JPG/cbsecurity-icon-mono-dark-S.jpg) |
+| Icon – Mono Light | <img src="./PNG/cbsecurity-icon-mono-light-M.png" width="160"/> | **SVG:** [Large](./SVG/cbsecurity-icon-mono-light-L.svg) • [Medium](./SVG/cbsecurity-icon-mono-light-M.svg) • [Small](./SVG/cbsecurity-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/cbsecurity-icon-mono-light-L.png) • [Medium](./PNG/cbsecurity-icon-mono-light-M.png) • [Small](./PNG/cbsecurity-icon-mono-light-S.png) |
 
 
 ---
