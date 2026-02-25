@@ -5,13 +5,12 @@
 ---
 
 ## 🖼️ Logo Variants
-
-| Variant | Preview | Files |
-|----------|----------|--------|
-| Logo – Full | <img src="./PNG/cbtaskshq-logo-full-M.png" width="160"/> | [SVG L](./SVG/cbtaskshq-logo-full-L.svg) · [SVG M](./SVG/cbtaskshq-logo-full-M.svg) · [SVG S](./SVG/cbtaskshq-logo-full-S.svg)<br>[PNG L](./PNG/cbtaskshq-logo-full-L.png) · [PNG M](./PNG/cbtaskshq-logo-full-M.png) · [PNG S](./PNG/cbtaskshq-logo-full-S.png)<br>[JPG L](./JPG/cbtaskshq-logo-full-L.jpg) · [JPG M](./JPG/cbtaskshq-logo-full-M.jpg) · [JPG S](./JPG/cbtaskshq-logo-full-S.jpg) |
-| Icon – Full | <img src="./PNG/cbtaskshq-icon-full-M.png" width="160"/> | [SVG L](./SVG/cbtaskshq-icon-full-L.svg) · [SVG M](./SVG/cbtaskshq-icon-full-M.svg) · [SVG S](./SVG/cbtaskshq-icon-full-S.svg)<br>[PNG L](./PNG/cbtaskshq-icon-full-L.png) · [PNG M](./PNG/cbtaskshq-icon-full-M.png) · [PNG S](./PNG/cbtaskshq-icon-full-S.png) |
-| Icon – Mono Dark | <img src="./PNG/cbtaskshq-icon-mono-dark-M.png" width="160"/> | [SVG L](./SVG/cbtaskshq-icon-mono-dark-L.svg) · [SVG M](./SVG/cbtaskshq-icon-mono-dark-M.svg) · [SVG S](./SVG/cbtaskshq-icon-mono-dark-S.svg)<br>[PNG L](./PNG/cbtaskshq-icon-mono-dark-L.png) · [PNG M](./PNG/cbtaskshq-icon-mono-dark-M.png) · [PNG S](./PNG/cbtaskshq-icon-mono-dark-S.png)<br>[JPG L](./JPG/cbtaskshq-icon-mono-dark-L.jpg) · [JPG M](./JPG/cbtaskshq-icon-mono-dark-M.jpg) · [JPG S](./JPG/cbtaskshq-icon-mono-dark-S.jpg) |
-| Icon – Mono Light | <img src="./PNG/cbtaskshq-icon-mono-light-M.png" width="160"/> | [SVG L](./SVG/cbtaskshq-icon-mono-light-L.svg) · [SVG M](./SVG/cbtaskshq-icon-mono-light-M.svg) · [SVG S](./SVG/cbtaskshq-icon-mono-light-S.svg)<br>[PNG L](./PNG/cbtaskshq-icon-mono-light-L.png) · [PNG M](./PNG/cbtaskshq-icon-mono-light-M.png) · [PNG S](./PNG/cbtaskshq-icon-mono-light-S.png) |
+| Variant | Preview | Download |
+|---------|---------|---------|
+| Logo – Full | <img src="./PNG/cbtaskshq-logo-full-M.png" width="140"/> | **SVG:** [Large](./SVG/cbtaskshq-logo-full-L.svg) • [Medium](./SVG/cbtaskshq-logo-full-M.svg) • [Small](./SVG/cbtaskshq-logo-full-S.svg)<br>**PNG:** [Large](./PNG/cbtaskshq-logo-full-L.png) • [Medium](./PNG/cbtaskshq-logo-full-M.png) • [Small](./PNG/cbtaskshq-logo-full-S.png)<br>**JPG:** [Large](./JPG/cbtaskshq-logo-full-L.jpg) • [Medium](./JPG/cbtaskshq-logo-full-M.jpg) • [Small](./JPG/cbtaskshq-logo-full-S.jpg) |
+| Icon – Full | <img src="./PNG/cbtaskshq-icon-full-M.png" width="140"/> | **SVG:** [Large](./SVG/cbtaskshq-icon-full-L.svg) • [Medium](./SVG/cbtaskshq-icon-full-M.svg) • [Small](./SVG/cbtaskshq-icon-full-S.svg)<br>**PNG:** [Large](./PNG/cbtaskshq-icon-full-L.png) • [Medium](./PNG/cbtaskshq-icon-full-M.png) • [Small](./PNG/cbtaskshq-icon-full-S.png)|
+| Icon – Mono Dark | <img src="./PNG/cbtaskshq-icon-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/cbtaskshq-icon-mono-dark-L.svg) • [Medium](./SVG/cbtaskshq-icon-mono-dark-M.svg) • [Small](./SVG/cbtaskshq-icon-mono-dark-S.svg)<br>**PNG:** [Large](./PNG/cbtaskshq-icon-mono-dark-L.png) • [Medium](./PNG/cbtaskshq-icon-mono-dark-M.png) • [Small](./PNG/cbtaskshq-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/cbtaskshq-icon-mono-dark-L.jpg) • [Medium](./JPG/cbtaskshq-icon-mono-dark-M.jpg) • [Small](./JPG/cbtaskshq-icon-mono-dark-S.jpg) |
+| Icon – Mono Light | <img src="./PNG/cbtaskshq-icon-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/cbtaskshq-icon-mono-light-L.svg) • [Medium](./SVG/cbtaskshq-icon-mono-light-M.svg) • [Small](./SVG/cbtaskshq-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/cbtaskshq-icon-mono-light-L.png) • [Medium](./PNG/cbtaskshq-icon-mono-light-M.png) • [Small](./PNG/cbtaskshq-icon-mono-light-S.png) |
 
 ---
 
