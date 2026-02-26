@@ -6,7 +6,7 @@ Official logo repository for **CommandBox PRO**, the enterprise edition of Comma
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Files |
+| Variant | Preview | Download |
 |----------|----------|--------|
 | **Full Color (Dark Text)** | <img src="./SVG/commandboxpro-logo-full-dark-M.svg" alt="Full Color Dark" width="160"> | **SVG:** [Large](./SVG/commandboxpro-logo-full-dark-L.svg) • [Medium](./SVG/commandboxpro-logo-full-dark-M.svg) • [Small](./SVG/commandboxpro-logo-full-dark-S.svg)<br>**PNG:** [Large](./PNG/commandboxpro-logo-full-dark-L.png) • [Medium](./PNG/commandboxpro-logo-full-dark-M.png) • [Small](./PNG/commandboxpro-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/commandboxpro-logo-full-dark-L.jpg) • [Medium](./JPG/commandboxpro-logo-full-dark-M.jpg) • [Small](./JPG/commandboxpro-logo-full-dark-S.jpg) |
 | **Full Color (White Text)** | <img src="./SVG/commandboxpro-logo-full-light-M.svg" alt="Full Color Light" width="160"> | **SVG:** [Large](./SVG/commandboxpro-logo-full-light-L.svg) • [Medium](./SVG/commandboxpro-logo-full-light-M.svg) • [Small](./SVG/commandboxpro-logo-full-light-S.svg)<br>**PNG:** [Large](./PNG/commandboxpro-logo-full-light-L.png) • [Medium](./PNG/commandboxpro-logo-full-light-M.png) • [Small](./PNG/commandboxpro-logo-full-light-S.png)<br>|
