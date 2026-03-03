@@ -6,12 +6,12 @@ Official logo repository for **ForgeBox** — the Ortus Solutions package manage
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Files |
+| Variant | Preview | Download |
 |----------|----------|--------|
 | **Full Logo** | <img src="./SVG/forgebox-logo-full-M.svg" alt="ForgeBox Full Logo" width="160"> | **SVG:** [Large](./SVG/forgebox-logo-full-L.svg) • [Medium](./SVG/forgebox-logo-full-M.svg) • [Small](./SVG/forgebox-logo-full-S.svg)<br>**PNG:** [Large](./PNG/forgebox-logo-full-L.png) • [Medium](./PNG/forgebox-logo-full-M.png) • [Small](./PNG/forgebox-logo-full-S.png)<br>**JPG:** [Large](./JPG/forgebox-logo-full-L.jpg) • [Medium](./JPG/forgebox-logo-full-M.jpg) • [Small](./JPG/forgebox-logo-full-S.jpg) |
 | **Icon – Full Color** | <img src="./SVG/forgebox-icon-full-M.svg" alt="ForgeBox Icon Full" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-full-L.svg) • [Medium](./SVG/forgebox-icon-full-M.svg) • [Small](./SVG/forgebox-icon-full-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-full-L.png) • [Medium](./PNG/forgebox-icon-full-M.png) • [Small](./PNG/forgebox-icon-full-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-full-L.jpg) • [Medium](./JPG/forgebox-icon-full-M.jpg) • [Small](./JPG/forgebox-icon-full-S.jpg) |
 | **Icon – Mono (Dark)** | <img src="./SVG/forgebox-icon-mono-dark-M.svg" alt="ForgeBox Icon Mono Dark" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-mono-dark-L.svg) • [Medium](./SVG/forgebox-icon-mono-dark-M.svg) • [Small](./SVG/forgebox-icon-mono-dark-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-dark-L.png) • [Medium](./PNG/forgebox-icon-mono-dark-M.png) • [Small](./PNG/forgebox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-mono-dark-L.jpg) • [Medium](./JPG/forgebox-icon-mono-dark-M.jpg) • [Small](./JPG/forgebox-icon-mono-dark-S.jpg) |
-| **Icon – Mono (Light)** | <img src="./SVG/forgebox-icon-mono-light-M.svg" alt="ForgeBox Icon Mono Light" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-mono-light-L.svg) • [Medium](./SVG/forgebox-icon-mono-light-M.svg) • [Small](./SVG/forgebox-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-light-L.png) • [Medium](./PNG/forgebox-icon-mono-light-M.png) • [Small](./PNG/forgebox-icon-mono-light-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-mono-light-L.jpg) • [Medium](./JPG/forgebox-icon-mono-light-M.jpg) • [Small](./JPG/forgebox-icon-mono-light-S.jpg) |
+| **Icon – Mono (Light)** | <img src="./SVG/forgebox-icon-mono-light-M.svg" alt="ForgeBox Icon Mono Light" width="160"> | **SVG:** [Large](./SVG/forgebox-icon-mono-light-L.svg) • [Medium](./SVG/forgebox-icon-mono-light-M.svg) • [Small](./SVG/forgebox-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-light-L.png) • [Medium](./PNG/forgebox-icon-mono-light-M.png) • [Small](./PNG/forgebox-icon-mono-light-S.png) |
 
 ---
 
