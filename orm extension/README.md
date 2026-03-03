@@ -6,12 +6,13 @@
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Files |
-|----------|----------|--------|
-| Logo – Full | <img src="./PNG/ormextension-logo-full-M.png" width="160"/> | [SVG L](./SVG/ormextension-logo-full-L.svg) · [SVG M](./SVG/ormextension-logo-full-M.svg) · [SVG S](./SVG/ormextension-logo-full-S.svg)<br>[PNG L](./PNG/ormextension-logo-full-L.png) · [PNG M](./PNG/ormextension-logo-full-M.png) · [PNG S](./PNG/ormextension-logo-full-S.png)<br>[JPG L](./JPG/ormextension-logo-full-L.jpg) · [JPG M](./JPG/ormextension-logo-full-M.jpg) · [JPG S](./JPG/ormextension-logo-full-S.jpg) |
-| Icon – Full | <img src="./PNG/ormextension-icon-full-M.png" width="160"/> | [SVG L](./SVG/ormextension-icon-full-L.svg) · [SVG M](./SVG/ormextension-icon-full-M.svg) · [SVG S](./SVG/ormextension-icon-full-S.svg)<br>[PNG L](./PNG/ormextension-icon-full-L.png) · [PNG M](./PNG/ormextension-icon-full-M.png) · [PNG S](./PNG/ormextension-icon-full-S.png) |
-| Icon – Mono Dark | <img src="./PNG/ormextension-icon-mono-dark-M.png" width="160"/> | [SVG L](./SVG/ormextension-icon-mono-dark-L.svg) · [SVG M](./SVG/ormextension-icon-mono-dark-M.svg) · [SVG S](./SVG/ormextension-icon-mono-dark-S.svg)<br>[PNG L](./PNG/ormextension-icon-mono-dark-L.png) · [PNG M](./PNG/ormextension-icon-mono-dark-M.png) · [PNG S](./PNG/ormextension-icon-mono-dark-S.png)<br>[JPG L](./JPG/ormextension-icon-mono-dark-L.jpg) · [JPG M](./JPG/ormextension-icon-mono-dark-M.jpg) · [JPG S](./JPG/ormextension-icon-mono-dark-S.jpg) |
-| Icon – Mono Light | <img src="./PNG/ormextension-icon-mono-light-M.png" width="160"/> | [SVG L](./SVG/ormextension-icon-mono-light-L.svg) · [SVG M](./SVG/ormextension-icon-mono-light-M.svg) · [SVG S](./SVG/ormextension-icon-mono-light-S.svg)<br>[PNG L](./PNG/ormextension-icon-mono-light-L.png) · [PNG M](./PNG/ormextension-icon-mono-light-M.png) · [PNG S](./PNG/ormextension-icon-mono-light-S.png) |
+| Variant | Preview | Download |
+|----------|----------|----------|
+| Logo – Full | <img src="./PNG/ormextension-logo-full-M.png" width="160"/> | **SVG:** [Large](./SVG/ormextension-logo-full-L.svg) • [Medium](./SVG/ormextension-logo-full-M.svg) • [Small](./SVG/ormextension-logo-full-S.svg)<br>**PNG:** [Large](./PNG/ormextension-logo-full-L.png) • [Medium](./PNG/ormextension-logo-full-M.png) • [Small](./PNG/ormextension-logo-full-S.png)<br>**JPG:** [Large](./JPG/ormextension-logo-full-L.jpg) • [Medium](./JPG/ormextension-logo-full-M.jpg) • [Small](./JPG/ormextension-logo-full-S.jpg) |
+| Icon – Full | <img src="./PNG/ormextension-icon-full-M.png" width="160"/> | **SVG:** [Large](./SVG/ormextension-icon-full-L.svg) • [Medium](./SVG/ormextension-icon-full-M.svg) • [Small](./SVG/ormextension-icon-full-S.svg)<br>**PNG:** [Large](./PNG/ormextension-icon-full-L.png) • [Medium](./PNG/ormextension-icon-full-M.png) • [Small](./PNG/ormextension-icon-full-S.png) |
+| Icon – Mono Dark | <img src="./PNG/ormextension-icon-mono-dark-M.png" width="160"/> | **SVG:** [Large](./SVG/ormextension-icon-mono-dark-L.svg) • [Medium](./SVG/ormextension-icon-mono-dark-M.svg) • [Small](./SVG/ormextension-icon-mono-dark-S.svg)<br>**PNG:** [Large](./PNG/ormextension-icon-mono-dark-L.png) • [Medium](./PNG/ormextension-icon-mono-dark-M.png) • [Small](./PNG/ormextension-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/ormextension-icon-mono-dark-L.jpg) • [Medium](./JPG/ormextension-icon-mono-dark-M.jpg) • [Small](./JPG/ormextension-icon-mono-dark-S.jpg) |
+| Icon – Mono Light | <img src="./PNG/ormextension-icon-mono-light-M.png" width="160"/> | **SVG:** [Large](./SVG/ormextension-icon-mono-light-L.svg) • [Medium](./SVG/ormextension-icon-mono-light-M.svg) • [Small](./SVG/ormextension-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/ormextension-icon-mono-light-L.png) • [Medium](./PNG/ormextension-icon-mono-light-M.png) • [Small](./PNG/ormextension-icon-mono-light-S.png) |
+
 ---
 
 ## 📝 Notes
