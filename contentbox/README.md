@@ -6,12 +6,12 @@ Official logo repository for **ContentBox** — the modular CMS and blog platfor
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Files |
+| Variant | Preview | Download |
 |----------|----------|--------|
 | **Full Logo** | <img src="./SVG/contentbox-logo-full-M.svg" alt="ContentBox Full Logo" width="160"> | **SVG:** [Large](./SVG/contentbox-logo-full-L.svg) • [Medium](./SVG/contentbox-logo-full-M.svg) • [Small](./SVG/contentbox-logo-full-S.svg)<br>**PNG:** [Large](./PNG/contentbox-logo-full-L.png) • [Medium](./PNG/contentbox-logo-full-M.png) • [Small](./PNG/contentbox-logo-full-S.png)<br>**JPG:** [Large](./JPG/contentbox-logo-full-L.jpg) • [Medium](./JPG/contentbox-logo-full-M.jpg) • [Small](./JPG/contentbox-logo-full-S.jpg) |
 | **Icon – Full Color** | <img src="./SVG/contentbox-icon-full-M.svg" alt="ContentBox Icon Full" width="160"> | **SVG:** [Large](./SVG/contentbox-icon-full-L.svg) • [Medium](./SVG/contentbox-icon-full-M.svg) • [Small](./SVG/contentbox-icon-full-S.svg)<br>**PNG:** [Large](./PNG/contentbox-icon-full-L.png) • [Medium](./PNG/contentbox-icon-full-M.png) • [Small](./PNG/contentbox-icon-full-S.png)<br>**JPG:** [Large](./JPG/contentbox-icon-full-L.jpg) • [Medium](./JPG/contentbox-icon-full-M.jpg) • [Small](./JPG/contentbox-icon-full-S.jpg) |
 | **Icon – Mono (Dark)** | <img src="./SVG/contentbox-icon-mono-dark-M.svg" alt="ContentBox Icon Mono Dark" width="160"> | **SVG:** [Large](./SVG/contentbox-icon-mono-dark-L.svg) • [Medium](./SVG/contentbox-icon-mono-dark-M.svg) • [Small](./SVG/contentbox-icon-mono-dark-S.svg)<br>**PNG:** [Large](./PNG/contentbox-icon-mono-dark-L.png) • [Medium](./PNG/contentbox-icon-mono-dark-M.png) • [Small](./PNG/contentbox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/contentbox-icon-mono-dark-L.jpg) • [Medium](./JPG/contentbox-icon-mono-dark-M.jpg) • [Small](./JPG/contentbox-icon-mono-dark-S.jpg) |
-| **Icon – Mono (Light)** | <img src="./SVG/contentbox-icon-mono-light-M.svg" alt="ContentBox Icon Mono Light" width="160"> | **SVG:** [Large](./SVG/contentbox-icon-mono-light-L.svg) • [Medium](./SVG/contentbox-icon-mono-light-M.svg) • [Small](./SVG/contentbox-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/contentbox-icon-mono-light-L.png) • [Medium](./PNG/contentbox-icon-mono-light-M.png) • [Small](./PNG/contentbox-icon-mono-light-S.png)<br>**JPG:** [Large](./JPG/contentbox-icon-mono-light-L.jpg) • [Medium](./JPG/contentbox-icon-mono-light-M.jpg) • [Small](./JPG/contentbox-icon-mono-light-S.jpg) |
+| **Icon – Mono (Light)** | <img src="./SVG/contentbox-icon-mono-light-M.svg" alt="ContentBox Icon Mono Light" width="160"> | **SVG:** [Large](./SVG/contentbox-icon-mono-light-L.svg) • [Medium](./SVG/contentbox-icon-mono-light-M.svg) • [Small](./SVG/contentbox-icon-mono-light-S.svg)<br>**PNG:** [Large](./PNG/contentbox-icon-mono-light-L.png) • [Medium](./PNG/contentbox-icon-mono-light-M.png) • [Small](./PNG/contentbox-icon-mono-light-S.png)|
 
 ---
 
