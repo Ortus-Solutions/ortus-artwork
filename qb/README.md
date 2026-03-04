@@ -6,7 +6,7 @@ Official logo repository for **QB** — the fluent query builder and database ab
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Files |
+| Variant | Preview | Download |
 |----------|----------|--------|
 | **Full Color (Dark Text)** | <img src="./SVG/qb-logo-full-dark-M.svg" alt="Full Color Dark" width="160"> | **SVG:** [Large](./SVG/qb-logo-full-dark-L.svg) • [Medium](./SVG/qb-logo-full-dark-M.svg) • [Small](./SVG/qb-logo-full-dark-S.svg)<br>**PNG:** [Large](./PNG/qb-logo-full-dark-L.png) • [Medium](./PNG/qb-logo-full-dark-M.png) • [Small](./PNG/qb-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/qb-logo-full-dark-L.jpg) • [Medium](./JPG/qb-logo-full-dark-M.jpg) • [Small](./JPG/qb-logo-full-dark-S.jpg) |
 | **Full Color (White Text)** | <img src="./SVG/qb-logo-full-light-M.svg" alt="Full Color Light" width="160"> | **SVG:** [Large](./SVG/qb-logo-full-light-L.svg) • [Medium](./SVG/qb-logo-full-light-M.svg) • [Small](./SVG/qb-logo-full-light-S.svg)<br>**PNG:** [Large](./PNG/qb-logo-full-light-L.png) • [Medium](./PNG/qb-logo-full-light-M.png) • [Small](./PNG/qb-logo-full-light-S.png) |
