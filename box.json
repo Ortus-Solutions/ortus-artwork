@@ -1,0 +1,9 @@
+{
+    "name": "ortus-artwork",
+    "slug": "oba",
+    "type": "modules",
+    "version": "1.0.0",
+    "location": "modules",
+    "author": "Ortus Solutions",
+    "description": "Ortus branding assets and logo delivery module"
+}
