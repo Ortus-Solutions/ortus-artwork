@@ -1,18 +1,24 @@
 component {
 
-	property name="log" inject="logbox:logger:{this}";
+	property name="logoService" inject="LogoService@oba";
 
-	/**
-	 * Intercepts ContentBox content before rendering
-	 */
-	function cb_onContentRendering( event, interceptData ) {
+	function cbui_postPageDisplay( event, interceptData ){
 
-		// ContentBox passes the content in interceptData
-		var content = interceptData.content ?: "";
+		var page = interceptData.page;
+		var content = page.getContent();
 
-		// For now we only log to verify interceptor is running
-		log.info( "OBA LogoInterceptor triggered" );
+		var regex = "\{\{logo\s+product=""([^""]+)""\}\}";
+		var matches = reMatch( regex, content );
 
+		for ( var match in matches ){
+
+			var product = reReplace( match, regex, "\1" );
+			var html = logoService.resolveLogo( product );
+
+			content = replace( content, match, html, "all" );
+		}
+
+		page.setContent( content );
 	}
 
 }

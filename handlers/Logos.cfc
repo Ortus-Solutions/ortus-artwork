@@ -1,6 +1,5 @@
 component {
 
-```
 property name="logoService" inject="LogoService@ortus-artwork";
 
 /**
@@ -39,6 +38,6 @@ function show( event, rc, prc ){
 	);
 
 }
-```
+
 
 }

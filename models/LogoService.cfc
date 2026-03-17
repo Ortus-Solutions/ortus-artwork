@@ -1,6 +1,5 @@
 component singleton {
 
-```
 property name="moduleSettings" inject="coldbox:moduleSettings:ortus-artwork";
 
 /**
@@ -47,6 +46,13 @@ function getLogoPath(
 
 	return "";
 }
-```
+
+	function resolveLogo( required string product, string variant="default" ){
+
+		var url = "/modules/oba/assets/logos/#arguments.product#/#arguments.variant#.svg";
+
+		return '<img src="#url#" alt="#arguments.product# logo" />';
+	}
+
 
 }
