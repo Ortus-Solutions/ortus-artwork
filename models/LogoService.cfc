@@ -1,6 +1,6 @@
 component singleton {
 
-property name="moduleSettings" inject="coldbox:moduleSettings:ortus-artwork";
+property name="moduleSettings" inject="coldbox:moduleSettings:oba";
 
 /**
  * Returns the base path of the logos directory
