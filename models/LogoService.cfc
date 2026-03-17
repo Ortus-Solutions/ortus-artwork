@@ -47,11 +47,63 @@ function getLogoPath(
 	return "";
 }
 
-	function resolveLogo( required string product, string variant="default" ){
+	function resolveLogo(
+		required string product,
+		string type = "logo",
+		string variant = "full",
+		string size = "M",
+		string theme = "light", // light | dark | auto
+		string format = "svg"
+	){
 
-		var url = "/modules/oba/assets/logos/#arguments.product#/#arguments.variant#.svg";
+		var basePath = "/modules/oba/assets/logos/#arguments.product#";
 
-		return '<img src="#url#" alt="#arguments.product# logo" />';
+		// theme → tone (invertido)
+		var function resolveTone( theme ){
+			return ( theme == "dark" ) ? "light" : "dark";
+		}
+
+		// construir filename dinámico
+		var function buildFilename( tone="" ){
+
+			var parts = [
+				arguments.product,
+				arguments.type,
+				arguments.variant
+			];
+
+			// solo agregar tone si aplica
+			if ( arguments.variant == "mono" || arguments.type == "logo" ) {
+				arrayAppend( parts, tone );
+			}
+
+			arrayAppend( parts, arguments.size );
+
+			return arrayToList( parts, "-" ) & "." & arguments.format;
+		}
+
+		// AUTO THEME
+		if ( arguments.theme == "auto" ){
+
+			var lightTone = resolveTone( "light" );
+			var darkTone  = resolveTone( "dark" );
+
+			var lightFile = buildFilename( lightTone );
+			var darkFile  = buildFilename( darkTone );
+
+			return '
+			<picture>
+				<source srcset="#basePath#/SVG/#darkFile#" media="(prefers-color-scheme: dark)">
+				<img src="#basePath#/SVG/#lightFile#" alt="#arguments.product# logo">
+			</picture>
+			';
+		}
+
+		// MANUAL THEME
+		var tone = resolveTone( arguments.theme );
+		var file = buildFilename( tone );
+
+		return '<img src="#basePath#/SVG/#file#" alt="#arguments.product# logo">';
 	}
 
 
