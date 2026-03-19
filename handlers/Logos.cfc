@@ -1,6 +1,6 @@
 component {
 
-property name="logoService" inject="LogoService@ortus-artwork";
+property name="logoService" inject="LogoService@oba";
 
 /**
  * Default route

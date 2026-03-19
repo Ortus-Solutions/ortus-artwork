@@ -2,23 +2,37 @@ component {
 
 	property name="logoService" inject="LogoService@oba";
 
-	function cbui_postPageDisplay( event, interceptData ){
+	function cb_onContentRendering( event, interceptData ){
 
-		var page = interceptData.page;
-		var content = page.getContent();
+		var content = event.getValue( "renderedContent", "" );
 
-		var regex = "\{\{logo\s+product=""([^""]+)""\}\}";
-		var matches = reMatch( regex, content );
+		if ( !len( content ) ) {
+			return;
+		}
+
+		var shortcodeRegex = "\{\{logo\b[^}]*\}\}";
+		var matches = reMatch( shortcodeRegex, content );
 
 		for ( var match in matches ){
+			if ( !reFindNoCase( "\bproduct=\"[^\"]+\"", match ) ) {
+				continue;
+			}
 
-			var product = reReplace( match, regex, "\1" );
-			var html = logoService.resolveLogo( product );
+			var product = reReplaceNoCase( match, "^.*\bproduct=\"([^\"]+)\".*$", "\1" );
+			var theme   = "auto";
+
+			if ( reFindNoCase( "\btheme=\"[^\"]*\"", match ) ) {
+				theme = reReplaceNoCase( match, "^.*\btheme=\"([^\"]*)\".*$", "\1" );
+			}
+
+			var html = logoService.resolveLogo(
+				product = product,
+				theme   = len( trim( theme ) ) ? theme : "auto"
+			);
 
 			content = replace( content, match, html, "all" );
 		}
 
-		page.setContent( content );
+		event.setValue( "renderedContent", content );
 	}
-
 }
