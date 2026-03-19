@@ -51,59 +51,82 @@ function getLogoPath(
 		required string product,
 		string type = "logo",
 		string variant = "full",
+		string tone = "",
 		string size = "M",
-		string theme = "light", // light | dark | auto
-		string format = "svg"
+		string theme = "auto", // light | dark | auto
+		string format = "svg",
+		string cssClass = ""
 	){
 
-		var basePath = "/modules/oba/assets/logos/#arguments.product#";
+		var product = lCase( trim( arguments.product ) );
+		var type    = lCase( trim( arguments.type ) );
+		var variant = lCase( trim( arguments.variant ) );
+		var size    = uCase( trim( arguments.size ) );
+		var theme   = lCase( trim( arguments.theme ) );
+		var tone    = lCase( trim( arguments.tone ) );
+		var format  = lCase( trim( arguments.format ) );
+		var hasExplicitTone = len( tone );
+		var cssAttr = len( trim( arguments.cssClass ) ) ? ' class="#encodeForHTMLAttribute( trim( arguments.cssClass ) )#"' : "";
 
-		// theme → tone (invertido)
-		var function resolveTone( theme ){
-			return ( theme == "dark" ) ? "light" : "dark";
+		var basePath = "/modules/oba/assets/logos/#product#";
+
+		var function themeToTone( required string targetTheme ){
+			// In dark UI we use light logos, and vice versa.
+			return ( arguments.targetTheme == "dark" ) ? "light" : "dark";
 		}
 
-		// construir filename dinámico
-		var function buildFilename( tone="" ){
+		var function buildFilename( required string tone, boolean includeTone = true ){
+			var parts = [ product, type, variant ];
 
-			var parts = [
-				arguments.product,
-				arguments.type,
-				arguments.variant
-			];
-
-			// solo agregar tone si aplica
-			if ( arguments.variant == "mono" || arguments.type == "logo" ) {
-				arrayAppend( parts, tone );
+			if ( arguments.includeTone ) {
+				arrayAppend( parts, arguments.tone );
 			}
 
-			arrayAppend( parts, arguments.size );
+			arrayAppend( parts, size );
 
-			return arrayToList( parts, "-" ) & "." & arguments.format;
+			return arrayToList( parts, "-" ) & "." & format;
 		}
 
-		// AUTO THEME
-		if ( arguments.theme == "auto" ){
+		var function resolveFilename( required string tone ){
+			var conventionFile = buildFilename( tone = arguments.tone, includeTone = true );
+			var conventionPath = getAssetsPath() & "/#product#/SVG/#conventionFile#";
 
-			var lightTone = resolveTone( "light" );
-			var darkTone  = resolveTone( "dark" );
+			if ( fileExists( conventionPath ) ) {
+				return conventionFile;
+			}
 
-			var lightFile = buildFilename( lightTone );
-			var darkFile  = buildFilename( darkTone );
+			var legacyFile = buildFilename( tone = arguments.tone, includeTone = false );
+			var legacyPath = getAssetsPath() & "/#product#/SVG/#legacyFile#";
+
+			if ( fileExists( legacyPath ) ) {
+				return legacyFile;
+			}
+
+			return conventionFile;
+		}
+
+		if ( !len( tone ) ) {
+			tone = ( theme == "auto" ) ? themeToTone( "light" ) : themeToTone( theme );
+		}
+
+		if ( theme == "auto" && !hasExplicitTone ){
+			var lightTone = themeToTone( "light" );
+			var darkTone  = themeToTone( "dark" );
+
+			var lightFile = resolveFilename( lightTone );
+			var darkFile  = resolveFilename( darkTone );
 
 			return '
 			<picture>
 				<source srcset="#basePath#/SVG/#darkFile#" media="(prefers-color-scheme: dark)">
-				<img src="#basePath#/SVG/#lightFile#" alt="#arguments.product# logo">
+				<img src="#basePath#/SVG/#lightFile#" alt="#encodeForHTMLAttribute( product )# logo"#cssAttr#>
 			</picture>
 			';
 		}
 
-		// MANUAL THEME
-		var tone = resolveTone( arguments.theme );
-		var file = buildFilename( tone );
+		var file = resolveFilename( tone );
 
-		return '<img src="#basePath#/SVG/#file#" alt="#arguments.product# logo">';
+		return '<img src="#basePath#/SVG/#file#" alt="#encodeForHTMLAttribute( product )# logo"#cssAttr#>';
 	}
 
 

@@ -4,35 +4,58 @@ component {
 
 	function cb_onContentRendering( event, interceptData ){
 
-		var content = event.getValue( "renderedContent", "" );
+		var hasBuilder        = isStruct( arguments.interceptData ) && structKeyExists( arguments.interceptData, "builder" );
+		var hasRenderedString = isStruct( arguments.interceptData ) && structKeyExists( arguments.interceptData, "renderedContent" );
+		var content           = "";
 
-		if ( !len( content ) ) {
+		if ( hasBuilder ) {
+			content = arguments.interceptData.builder.toString();
+		} else if ( hasRenderedString ) {
+			content = arguments.interceptData.renderedContent;
+		} else {
+			return;
+		}
+
+		if ( !len( trim( content ) ) ) {
 			return;
 		}
 
 		var shortcodeRegex = '\{\{logo\b[^}]*\}\}';
-		var matches = reMatch( shortcodeRegex, content );
+		var matches        = reMatchNoCase( shortcodeRegex, content );
 
 		for ( var match in matches ){
 			if ( !reFindNoCase( '\bproduct="[^"]+"', match ) ) {
 				continue;
 			}
 
-			var product = reReplaceNoCase( match, '^.*\bproduct="([^"]+)".*$', '\1' );
-			var theme   = "auto";
-
-			if ( reFindNoCase( '\btheme="[^"]*"', match ) ) {
-				theme = reReplaceNoCase( match, '^.*\btheme="([^"]*)".*$', '\1' );
-			}
-
 			var html = logoService.resolveLogo(
-				product = product,
-				theme   = len( trim( theme ) ) ? theme : "auto"
+				product = parseAttr( match, "product" ),
+				type    = parseAttr( match, "type",    "logo" ),
+				variant = parseAttr( match, "variant", "full" ),
+				tone    = parseAttr( match, "tone",    "dark" ),
+				size    = parseAttr( match, "size",    "M" ),
+				theme   = parseAttr( match, "theme",   "" ),
+				class   = parseAttr( match, "class",   "" )
 			);
 
-			content = replace( content, match, html, "all" );
+			content = replaceNoCase( content, match, html, "all" );
 		}
 
-		event.setValue( "renderedContent", content );
+		if ( hasBuilder ) {
+			arguments.interceptData.builder.replace(
+				javacast( "int", 0 ),
+				arguments.interceptData.builder.length(),
+				content
+			);
+		} else {
+			arguments.interceptData.renderedContent = content;
+		}
+	}
+
+	private string function parseAttr( required string shortcode, required string attrName, string defaultValue="" ){
+		if ( reFindNoCase( '\b' & arguments.attrName & '="([^"]*)"', arguments.shortcode ) ) {
+			return trim( reReplaceNoCase( arguments.shortcode, '^.*\b' & arguments.attrName & '="([^"]*)".*$', '\1' ) );
+		}
+		return arguments.defaultValue;
 	}
 }
