@@ -10,19 +10,19 @@ component {
 			return;
 		}
 
-		var shortcodeRegex = "\{\{logo\b[^}]*\}\}";
+		var shortcodeRegex = '\{\{logo\b[^}]*\}\}';
 		var matches = reMatch( shortcodeRegex, content );
 
 		for ( var match in matches ){
-			if ( !reFindNoCase( "\bproduct=\"[^\"]+\"", match ) ) {
+			if ( !reFindNoCase( '\bproduct="[^"]+"', match ) ) {
 				continue;
 			}
 
-			var product = reReplaceNoCase( match, "^.*\bproduct=\"([^\"]+)\".*$", "\1" );
+			var product = reReplaceNoCase( match, '^.*\bproduct="([^"]+)".*$', '\1' );
 			var theme   = "auto";
 
-			if ( reFindNoCase( "\btheme=\"[^\"]*\"", match ) ) {
-				theme = reReplaceNoCase( match, "^.*\btheme=\"([^\"]*)\".*$", "\1" );
+			if ( reFindNoCase( '\btheme="[^"]*"', match ) ) {
+				theme = reReplaceNoCase( match, '^.*\btheme="([^"]*)".*$', '\1' );
 			}
 
 			var html = logoService.resolveLogo(
