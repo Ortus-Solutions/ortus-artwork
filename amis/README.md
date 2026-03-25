@@ -1,6 +1,5 @@
 # AMI – Ortus Solutions
 
-**AMI (Amazon Machine Images)** by Ortus Solutions provides pre-configured environments for rapid deployment across multiple platforms and operating systems.  
 This repository contains the official logo assets for AMI distributions including Azure, AWS, Windows, and Ubuntu.
 
 ---
@@ -11,9 +10,10 @@ This repository contains the official logo assets for AMI distributions includin
 
 | Variant | Preview | Download |
 |----------|----------|----------|
-| Full Light | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-azure-logo-full-light-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
-| Full Dark | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-azure-logo-full-dark-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
-| Mono Light | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-azure-logo-mono-light-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
+| Full Light | <img src="./PNG/ami-azure-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-azure-logo-full-light-L.svg) • [Medium](./SVG/ami-azure-logo-full-light-M.svg) • [Small](./SVG/ami-azure-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-azure-logo-full-light-L.png) • [Medium](./PNG/ami-azure-logo-full-light-M.png) • [Small](./PNG/ami-azure-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-azure-logo-full-light-L.jpg) • [Medium](./JPG/ami-azure-logo-full-light-M.jpg) • [Small](./JPG/ami-azure-logo-full-light-S.jpg) |
+| Full Dark | <img src="./PNG/ami-azure-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-azure-logo-full-dark-L.svg) • [Medium](./SVG/ami-azure-logo-full-dark-M.svg) • [Small](./SVG/ami-azure-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-azure-logo-full-dark-L.png) • [Medium](./PNG/ami-azure-logo-full-dark-M.png) • [Small](./PNG/ami-azure-logo-full-dark-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-azure-logo-full-dark-L.jpg) • [Medium](./JPG/ami-azure-logo-full-dark-M.jpg) • [Small](./JPG/ami-azure-logo-full-dark-S.jpg) |
+| Mono Light | <img src="./PNG/ami-azure-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-azure-logo-mono-light-L.svg) • [Medium](./SVG/ami-azure-logo-mono-light-M.svg) • [Small](./SVG/ami-azure-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-azure-logo-mono-light-L.png) • [Medium](./PNG/ami-azure-logo-mono-light-M.png) • [Small](./PNG/ami-azure-logo-mono-light-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-azure-logo-mono-light-L.jpg) • [Medium](./JPG/ami-azure-logo-mono-light-M.jpg) • [Small](./JPG/ami-azure-logo-mono-light-S.jpg) |
+| Mono Dark | <img src="./PNG/ami-azure-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-azure-logo-mono-dark-L.svg) • [Medium](./SVG/ami-azure-logo-mono-dark-M.svg) • [Small](./SVG/ami-azure-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-azure-logo-mono-dark-L.png) • [Medium](./PNG/ami-azure-logo-mono-dark-M.png) • [Small](./PNG/ami-azure-logo-mono-dark-S.png) |
 
 ---
 
@@ -21,9 +21,10 @@ This repository contains the official logo assets for AMI distributions includin
 
 | Variant | Preview | Download |
 |----------|----------|----------|
-| Full Light | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-aws-logo-full-light-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
-| Full Dark | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-aws-logo-full-dark-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
-| Mono Light | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-aws-logo-mono-light-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
+| Full Light | <img src="./PNG/ami-aws-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-aws-logo-full-light-L.svg) • [Medium](./SVG/ami-aws-logo-full-light-M.svg) • [Small](./SVG/ami-aws-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-aws-logo-full-light-L.png) • [Medium](./PNG/ami-aws-logo-full-light-M.png) • [Small](./PNG/ami-aws-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-aws-logo-full-light-L.jpg) • [Medium](./JPG/ami-aws-logo-full-light-M.jpg) • [Small](./JPG/ami-aws-logo-full-light-S.jpg) |
+| Full Dark | <img src="./PNG/ami-aws-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-aws-logo-full-dark-L.svg) • [Medium](./SVG/ami-aws-logo-full-dark-M.svg) • [Small](./SVG/ami-aws-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-aws-logo-full-dark-L.png) • [Medium](./PNG/ami-aws-logo-full-dark-M.png) • [Small](./PNG/ami-aws-logo-full-dark-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-aws-logo-full-dark-L.jpg) • [Medium](./JPG/ami-aws-logo-full-dark-M.jpg) • [Small](./JPG/ami-aws-logo-full-dark-S.jpg) |
+| Mono Light | <img src="./PNG/ami-aws-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-aws-logo-mono-light-L.svg) • [Medium](./SVG/ami-aws-logo-mono-light-M.svg) • [Small](./SVG/ami-aws-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-aws-logo-mono-light-L.png) • [Medium](./PNG/ami-aws-logo-mono-light-M.png) • [Small](./PNG/ami-aws-logo-mono-light-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-aws-logo-mono-light-L.jpg) • [Medium](./JPG/ami-aws-logo-mono-light-M.jpg) • [Small](./JPG/ami-aws-logo-mono-light-S.jpg) |
+| Mono Dark | <img src="./PNG/ami-aws-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-aws-logo-mono-dark-L.svg) • [Medium](./SVG/ami-aws-logo-mono-dark-M.svg) • [Small](./SVG/ami-aws-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-aws-logo-mono-dark-L.png) • [Medium](./PNG/ami-aws-logo-mono-dark-M.png) • [Small](./PNG/ami-aws-logo-mono-dark-S.png) |
 
 ---
 
@@ -31,9 +32,10 @@ This repository contains the official logo assets for AMI distributions includin
 
 | Variant | Preview | Download |
 |----------|----------|----------|
-| Full Light | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-windows-logo-full-light-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
-| Full Dark | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-windows-logo-full-dark-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
-| Mono Light | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-windows-logo-mono-light-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
+| Full Light | <img src="./PNG/ami-windows-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-windows-logo-full-light-L.svg) • [Medium](./SVG/ami-windows-logo-full-light-M.svg) • [Small](./SVG/ami-windows-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-windows-logo-full-light-L.png) • [Medium](./PNG/ami-windows-logo-full-light-M.png) • [Small](./PNG/ami-windows-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-windows-logo-full-light-L.jpg) • [Medium](./JPG/ami-windows-logo-full-light-M.jpg) • [Small](./JPG/ami-windows-logo-full-light-S.jpg) |
+| Full Dark | <img src="./PNG/ami-windows-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-windows-logo-full-dark-L.svg) • [Medium](./SVG/ami-windows-logo-full-dark-M.svg) • [Small](./SVG/ami-windows-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-windows-logo-full-dark-L.png) • [Medium](./PNG/ami-windows-logo-full-dark-M.png) • [Small](./PNG/ami-windows-logo-full-dark-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-windows-logo-full-dark-L.jpg) • [Medium](./JPG/ami-windows-logo-full-dark-M.jpg) • [Small](./JPG/ami-windows-logo-full-dark-S.jpg) |
+| Mono Light | <img src="./PNG/ami-windows-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-windows-logo-mono-light-L.svg) • [Medium](./SVG/ami-windows-logo-mono-light-M.svg) • [Small](./SVG/ami-windows-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-windows-logo-mono-light-L.png) • [Medium](./PNG/ami-windows-logo-mono-light-M.png) • [Small](./PNG/ami-windows-logo-mono-light-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-windows-logo-mono-light-L.jpg) • [Medium](./JPG/ami-windows-logo-mono-light-M.jpg) • [Small](./JPG/ami-windows-logo-mono-light-S.jpg) |
+| Mono Dark | <img src="./PNG/ami-windows-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-windows-logo-mono-dark-L.svg) • [Medium](./SVG/ami-windows-logo-mono-dark-M.svg) • [Small](./SVG/ami-windows-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-windows-logo-mono-dark-L.png) • [Medium](./PNG/ami-windows-logo-mono-dark-M.png) • [Small](./PNG/ami-windows-logo-mono-dark-S.png) |
 
 ---
 
@@ -41,18 +43,19 @@ This repository contains the official logo assets for AMI distributions includin
 
 | Variant | Preview | Download |
 |----------|----------|----------|
-| Full Light | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-ubuntu-logo-full-light-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
-| Full Dark | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-ubuntu-logo-full-dark-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
-| Mono Light | <img src="https://raw.githubusercontent.com/ortus-solutions/amis/main/amis/PNG/ami-ubuntu-logo-mono-light-M.png" width="140"/> | **SVG:** Large • Medium • Small<br/><br/>**PNG:** Large • Medium • Small<br/><br/>**JPG:** Large • Medium • Small |
+| Full Light | <img src="./PNG/ami-ubuntu-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-ubuntu-logo-full-light-L.svg) • [Medium](./SVG/ami-ubuntu-logo-full-light-M.svg) • [Small](./SVG/ami-ubuntu-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-ubuntu-logo-full-light-L.png) • [Medium](./PNG/ami-ubuntu-logo-full-light-M.png) • [Small](./PNG/ami-ubuntu-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-ubuntu-logo-full-light-L.jpg) • [Medium](./JPG/ami-ubuntu-logo-full-light-M.jpg) • [Small](./JPG/ami-ubuntu-logo-full-light-S.jpg) |
+| Full Dark | <img src="./PNG/ami-ubuntu-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-ubuntu-logo-full-dark-L.svg) • [Medium](./SVG/ami-ubuntu-logo-full-dark-M.svg) • [Small](./SVG/ami-ubuntu-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-ubuntu-logo-full-dark-L.png) • [Medium](./PNG/ami-ubuntu-logo-full-dark-M.png) • [Small](./PNG/ami-ubuntu-logo-full-dark-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-ubuntu-logo-full-dark-L.jpg) • [Medium](./JPG/ami-ubuntu-logo-full-dark-M.jpg) • [Small](./JPG/ami-ubuntu-logo-full-dark-S.jpg) |
+| Mono Light | <img src="./PNG/ami-ubuntu-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-ubuntu-logo-mono-light-L.svg) • [Medium](./SVG/ami-ubuntu-logo-mono-light-M.svg) • [Small](./SVG/ami-ubuntu-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-ubuntu-logo-mono-light-L.png) • [Medium](./PNG/ami-ubuntu-logo-mono-light-M.png) • [Small](./PNG/ami-ubuntu-logo-mono-light-S.png)<br/><br/>**JPG:** [Large](./JPG/ami-ubuntu-logo-mono-light-L.jpg) • [Medium](./JPG/ami-ubuntu-logo-mono-light-M.jpg) • [Small](./JPG/ami-ubuntu-logo-mono-light-S.jpg) |
+| Mono Dark | <img src="./PNG/ami-ubuntu-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/ami-ubuntu-logo-mono-dark-L.svg) • [Medium](./SVG/ami-ubuntu-logo-mono-dark-M.svg) • [Small](./SVG/ami-ubuntu-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/ami-ubuntu-logo-mono-dark-L.png) • [Medium](./PNG/ami-ubuntu-logo-mono-dark-M.png) • [Small](./PNG/ami-ubuntu-logo-mono-dark-S.png) |
 
 ---
 
 ## 📝 Notes
 
-- Folders: `SVG`, `PNG`, `JPG`  
-- Sizes: **L, M, S**  
-- Variants: Full Light, Full Dark, Mono Light  
-- **Mono Dark is not included**
+- Use **Full Color (Dark Text)** for light backgrounds.  
+- Use **Full Color (White Text)** for dark backgrounds.  
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+- File naming convention: **ami-[windows|ubuntu|aws|azure]-[logo|icon]-[variant]-[tone]-[size].[format]**
 
 ---
 
