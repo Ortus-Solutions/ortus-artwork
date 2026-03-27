@@ -8,10 +8,10 @@
 
 | Variant | Preview | Download |
 |----------|----------|----------|
-| **Full Light** | <img src="./PNG/bxmongo-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/bxmongo-logo-full-light-L.svg) • [Medium](./SVG/bxmongo-logo-full-light-M.svg) • [Small](./SVG/bxmongo-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxmongo-logo-full-light-L.png) • [Medium](./PNG/bxmongo-logo-full-light-M.png) • [Small](./PNG/bxmongo-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/bxmongo-logo-full-light-L.jpg) • [Medium](./JPG/bxmongo-logo-full-light-M.jpg) • [Small](./JPG/bxmongo-logo-full-light-S.jpg) |
-| **Full Dark** | <img src="./PNG/bxmongo-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/bxmongo-logo-full-dark-L.svg) • [Medium](./SVG/bxmongo-logo-full-dark-M.svg) • [Small](./SVG/bxmongo-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxmongo-logo-full-dark-L.png) • [Medium](./PNG/bxmongo-logo-full-dark-M.png) • [Small](./PNG/bxmongo-logo-full-dark-S.png) |
-| **Mono Light** | <img src="./PNG/bxmongo-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/bxmongo-logo-mono-light-L.svg) • [Medium](./SVG/bxmongo-logo-mono-light-M.svg) • [Small](./SVG/bxmongo-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxmongo-logo-mono-light-L.png) • [Medium](./PNG/bxmongo-logo-mono-light-M.png) • [Small](./PNG/bxmongo-logo-mono-light-S.png)<br/><br/>**JPG:** [Large](./JPG/bxmongo-logo-mono-light-L.jpg) • [Medium](./JPG/bxmongo-logo-mono-light-M.jpg) • [Small](./JPG/bxmongo-logo-mono-light-S.jpg) |
-| **Mono Dark** | <img src="./PNG/bxmongo-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/bxmongo-logo-mono-dark-L.svg) • [Medium](./SVG/bxmongo-logo-mono-dark-M.svg) • [Small](./SVG/bxmongo-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxmongo-logo-mono-dark-L.png) • [Medium](./PNG/bxmongo-logo-mono-dark-M.png) • [Small](./PNG/bxmongo-logo-mono-dark-S.png) |
+| **Full Light** | <img src="./PNG/bxmongodb-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/bxmongodb-logo-full-light-L.svg) • [Medium](./SVG/bxmongodb-logo-full-light-M.svg) • [Small](./SVG/bxmongodb-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxmongodb-logo-full-light-L.png) • [Medium](./PNG/bxmongodb-logo-full-light-M.png) • [Small](./PNG/bxmongodb-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/bxmongodb-logo-full-light-L.jpg) • [Medium](./JPG/bxmongodb-logo-full-light-M.jpg) • [Small](./JPG/bxmongodb-logo-full-light-S.jpg) |
+| **Full Dark** | <img src="./PNG/bxmongodb-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/bxmongodb-logo-full-dark-L.svg) • [Medium](./SVG/bxmongodb-logo-full-dark-M.svg) • [Small](./SVG/bxmongodb-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxmongodb-logo-full-dark-L.png) • [Medium](./PNG/bxmongodb-logo-full-dark-M.png) • [Small](./PNG/bxmongodb-logo-full-dark-S.png) |
+| **Mono Light** | <img src="./PNG/bxmongodb-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/bxmongodb-logo-mono-light-L.svg) • [Medium](./SVG/bxmongodb-logo-mono-light-M.svg) • [Small](./SVG/bxmongodb-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxmongodb-logo-mono-light-L.png) • [Medium](./PNG/bxmongodb-logo-mono-light-M.png) • [Small](./PNG/bxmongodb-logo-mono-light-S.png)<br/><br/>**JPG:** [Large](./JPG/bxmongodb-logo-mono-light-L.jpg) • [Medium](./JPG/bxmongodb-logo-mono-light-M.jpg) • [Small](./JPG/bxmongodb-logo-mono-light-S.jpg) |
+| **Mono Dark** | <img src="./PNG/bxmongodb-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/bxmongodb-logo-mono-dark-L.svg) • [Medium](./SVG/bxmongodb-logo-mono-dark-M.svg) • [Small](./SVG/bxmongodb-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxmongodb-logo-mono-dark-L.png) • [Medium](./PNG/bxmongodb-logo-mono-dark-M.png) • [Small](./PNG/bxmongodb-logo-mono-dark-S.png) |
 
 ---
 
@@ -20,7 +20,7 @@
 - Use Full Color (Dark Text) for light backgrounds.
 - Use Full Color (White Text) for dark backgrounds.
 - Use Monochrome versions when color use is restricted (e.g., single-color print or embossing).
-- Naming convention: `bxmongo-logo-[variant]-[size].[format]`
+- Naming convention: `bxmongodb-logo-[variant]-[size].[format]`
 
 ---
 
