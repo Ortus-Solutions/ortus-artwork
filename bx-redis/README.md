@@ -8,10 +8,10 @@
 
 | Variant | Preview | Download |
 |----------|----------|----------|
-| **Full Light** | <img src="./PNG/bx-redis-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/bx-redis-logo-full-light-L.svg) • [Medium](./SVG/bx-redis-logo-full-light-M.svg) • [Small](./SVG/bx-redis-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/bx-redis-logo-full-light-L.png) • [Medium](./PNG/bx-redis-logo-full-light-M.png) • [Small](./PNG/bx-redis-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/bx-redis-logo-full-light-L.jpg) • [Medium](./JPG/bx-redis-logo-full-light-M.jpg) • [Small](./JPG/bx-redis-logo-full-light-S.jpg) |
-| **Full Dark** | <img src="./PNG/bx-redis-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/bx-redis-logo-full-dark-L.svg) • [Medium](./SVG/bx-redis-logo-full-dark-M.svg) • [Small](./SVG/bx-redis-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/bx-redis-logo-full-dark-L.png) • [Medium](./PNG/bx-redis-logo-full-dark-M.png) • [Small](./PNG/bx-redis-logo-full-dark-S.png)<br/><br/>**JPG:** [Large](./JPG/bx-redis-logo-full-dark-L.jpg) • [Medium](./JPG/bx-redis-logo-full-dark-M.jpg) • [Small](./JPG/bx-redis-logo-full-dark-S.jpg) |
-| **Mono Light** | <img src="./PNG/bx-redis-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/bx-redis-logo-mono-light-L.svg) • [Medium](./SVG/bx-redis-logo-mono-light-M.svg) • [Small](./SVG/bx-redis-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/bx-redis-logo-mono-light-L.png) • [Medium](./PNG/bx-redis-logo-mono-light-M.png) • [Small](./PNG/bx-redis-logo-mono-light-S.png) |
-| **Mono Dark** | <img src="./PNG/bx-redis-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/bx-redis-logo-mono-dark-L.svg) • [Medium](./SVG/bx-redis-logo-mono-dark-M.svg) • [Small](./SVG/bx-redis-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/bx-redis-logo-mono-dark-L.png) • [Medium](./PNG/bx-redis-logo-mono-dark-M.png) • [Small](./PNG/bx-redis-logo-mono-dark-S.png) |
+| **Full Light** | <img src="./PNG/bxredis-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/bxredis-logo-full-light-L.svg) • [Medium](./SVG/bxredis-logo-full-light-M.svg) • [Small](./SVG/bxredis-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxredis-logo-full-light-L.png) • [Medium](./PNG/bxredis-logo-full-light-M.png) • [Small](./PNG/bxredis-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/bxredis-logo-full-light-L.jpg) • [Medium](./JPG/bxredis-logo-full-light-M.jpg) • [Small](./JPG/bxredis-logo-full-light-S.jpg) |
+| **Full Dark** | <img src="./PNG/bxredis-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/bxredis-logo-full-dark-L.svg) • [Medium](./SVG/bxredis-logo-full-dark-M.svg) • [Small](./SVG/bxredis-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxredis-logo-full-dark-L.png) • [Medium](./PNG/bxredis-logo-full-dark-M.png) • [Small](./PNG/bxredis-logo-full-dark-S.png)<br/><br/>**JPG:** [Large](./JPG/bxredis-logo-full-dark-L.jpg) • [Medium](./JPG/bxredis-logo-full-dark-M.jpg) • [Small](./JPG/bxredis-logo-full-dark-S.jpg) |
+| **Mono Light** | <img src="./PNG/bxredis-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/bxredis-logo-mono-light-L.svg) • [Medium](./SVG/bxredis-logo-mono-light-M.svg) • [Small](./SVG/bxredis-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxredis-logo-mono-light-L.png) • [Medium](./PNG/bxredis-logo-mono-light-M.png) • [Small](./PNG/bxredis-logo-mono-light-S.png) |
+| **Mono Dark** | <img src="./PNG/bxredis-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/bxredis-logo-mono-dark-L.svg) • [Medium](./SVG/bxredis-logo-mono-dark-M.svg) • [Small](./SVG/bxredis-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/bxredis-logo-mono-dark-L.png) • [Medium](./PNG/bxredis-logo-mono-dark-M.png) • [Small](./PNG/bxredis-logo-mono-dark-S.png) |
 
 ---
 
@@ -20,7 +20,7 @@
 - Use Full Color (Dark Text) for light backgrounds.
 - Use Full Color (White Text) for dark backgrounds.
 - Use Monochrome versions when color use is restricted (e.g., single-color print or embossing).
-- Naming convention: `bx-redis-logo-[variant]-[size].[format]`
+- Naming convention: `bxredis-logo-[variant]-[size].[format]`
 
 ---
 
