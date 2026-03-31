@@ -8,19 +8,29 @@
 
 | Variant | Preview | Download |
 |----------|----------|----------|
-| **Full Light** | <img src="./PNG/mod-logo-full-light-M.png" width="140"/> | **SVG:** [Large](./SVG/mod-logo-full-light-L.svg) • [Medium](./SVG/mod-logo-full-light-M.svg) • [Small](./SVG/mod-logo-full-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/mod-logo-full-light-L.png) • [Medium](./PNG/mod-logo-full-light-M.png) • [Small](./PNG/mod-logo-full-light-S.png)<br/><br/>**JPG:** [Large](./JPG/mod-logo-full-light-L.jpg) • [Medium](./JPG/mod-logo-full-light-M.jpg) • [Small](./JPG/mod-logo-full-light-S.jpg) |
-| **Full Dark** | <img src="./PNG/mod-logo-full-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/mod-logo-full-dark-L.svg) • [Medium](./SVG/mod-logo-full-dark-M.svg) • [Small](./SVG/mod-logo-full-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/mod-logo-full-dark-L.png) • [Medium](./PNG/mod-logo-full-dark-M.png) • [Small](./PNG/mod-logo-full-dark-S.png) |
-| **Mono Light** | <img src="./PNG/mod-logo-mono-light-M.png" width="140"/> | **SVG:** [Large](./SVG/mod-logo-mono-light-L.svg) • [Medium](./SVG/mod-logo-mono-light-M.svg) • [Small](./SVG/mod-logo-mono-light-S.svg)<br/><br/>**PNG:** [Large](./PNG/mod-logo-mono-light-L.png) • [Medium](./PNG/mod-logo-mono-light-M.png) • [Small](./PNG/mod-logo-mono-light-S.png)<br/><br/>**JPG:** [Large](./JPG/mod-logo-mono-light-L.jpg) • [Medium](./JPG/mod-logo-mono-light-M.jpg) • [Small](./JPG/mod-logo-mono-light-S.jpg) |
-| **Mono Dark** | <img src="./PNG/mod-logo-mono-dark-M.png" width="140"/> | **SVG:** [Large](./SVG/mod-logo-mono-dark-L.svg) • [Medium](./SVG/mod-logo-mono-dark-M.svg) • [Small](./SVG/mod-logo-mono-dark-S.svg)<br/><br/>**PNG:** [Large](./PNG/mod-logo-mono-dark-L.png) • [Medium](./PNG/mod-logo-mono-dark-M.png) • [Small](./PNG/mod-logo-mono-dark-S.png) |
+| Logo – Full Light | <img src="./PNG/mod-logo-full-light-M.png" width="160"/> | SVG: [Download](./SVG/mod-logo-full-light.svg)<br>**PNG:** [Large](./PNG/mod-logo-full-light-L.png) • [Medium](./PNG/mod-logo-full-light-M.png) • [Small](./PNG/mod-logo-full-light-S.png)<br>**JPG:** [Large](./JPG/mod-logo-full-light-L.jpg) • [Medium](./JPG/mod-logo-full-light-M.jpg) • [Small](./JPG/mod-logo-full-light-S.jpg) |
+| Logo – Mono Light | <img src="./PNG/mod-logo-mono-light-M.png" width="160"/> | SVG: [Download](./SVG/mod-logo-mono-light.svg)<br>**PNG:** [Large](./PNG/mod-logo-mono-light-L.png) • [Medium](./PNG/mod-logo-mono-light-M.png) • [Small](./PNG/mod-logo-mono-light-S.png)<br>**JPG:** [Large](./JPG/mod-logo-mono-light-L.jpg) • [Medium](./JPG/mod-logo-mono-light-M.jpg) • [Small](./JPG/mod-logo-mono-light-S.jpg) |
+| Logo – Full Dark | <img src="./PNG/mod-logo-full-dark-M.png" width="160"/> | SVG: [Download](./SVG/mod-logo-full-dark.svg)<br>**PNG:** [Large](./PNG/mod-logo-full-dark-L.png) • [Medium](./PNG/mod-logo-full-dark-M.png) • [Small](./PNG/mod-logo-full-dark-S.png) |
+| Logo – Mono Dark | <img src="./PNG/mod-logo-mono-dark-M.png" width="160"/> | SVG: [Download](./SVG/mod-logo-mono-dark.svg)<br>**PNG:** [Large](./PNG/mod-logo-mono-dark-L.png) • [Medium](./PNG/mod-logo-mono-dark-M.png) • [Small](./PNG/mod-logo-mono-dark-S.png)<br>**JPG:** [Large](./JPG/mod-logo-mono-dark-L.jpg) • [Medium](./JPG/mod-logo-mono-dark-M.jpg) • [Small](./JPG/mod-logo-mono-dark-S.jpg) |
+| Icon – Full Light | <img src="./PNG/mod-icon-full-light-M.png" width="160"/> | SVG: [Download](./SVG/mod-icon-full-light.svg)<br>**PNG:** [Large](./PNG/mod-icon-full-light-L.png) • [Medium](./PNG/mod-icon-full-light-M.png) • [Small](./PNG/mod-icon-full-light-S.png)<br>**JPG:** [Large](./JPG/mod-icon-full-light-L.jpg) • [Medium](./JPG/mod-icon-full-light-M.jpg) • [Small](./JPG/mod-icon-full-light-S.jpg) |
+| Icon – Mono Light | <img src="./PNG/mod-icon-mono-light-M.png" width="160"/> | SVG: [Download](./SVG/mod-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/mod-icon-mono-light-L.png) • [Medium](./PNG/mod-icon-mono-light-M.png) • [Small](./PNG/mod-icon-mono-light-S.png)<br>**JPG:** [Large](./JPG/mod-icon-mono-light-L.jpg) • [Medium](./JPG/mod-icon-mono-light-M.jpg) • [Small](./JPG/mod-icon-mono-light-S.jpg) |
+| Icon – Mono Dark | <img src="./PNG/mod-icon-mono-dark-M.png" width="160"/> | SVG: [Download](./SVG/mod-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/mod-icon-mono-dark-L.png) • [Medium](./PNG/mod-icon-mono-dark-M.png) • [Small](./PNG/mod-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/mod-icon-mono-dark-L.jpg) • [Medium](./JPG/mod-icon-mono-dark-M.jpg) • [Small](./JPG/mod-icon-mono-dark-S.jpg) |
 
 ---
 
 ## 📝 Notes
 
-- Use Full Color (Dark Text) for light backgrounds.
-- Use Full Color (White Text) for dark backgrounds.
-- Use Monochrome versions when color use is restricted (e.g., single-color print or embossing).
-- Naming convention: `mod-logo-[variant]-[size].[format]`
+- Folders included: `SVG`, `PNG`, `JPG`
+- Sizes available: **L**, **M**, **S**
+- Use **SVG** whenever possible for scalability and best quality.
+- Use **PNG** for digital applications.
+- Use **JPG** only when required for compatibility (except Mono Light, which does not include JPG versions).
+- File naming convention: `mod-[logo|icon]-[variant]-[tone]-[size].[format]`
+  
+Example: forgebox-logo-full-M.svg
+
+
+
 
 ---
 
@@ -31,7 +41,7 @@
     <th>Light</th>
     <th>Med</th>
     <th>Dark</th>
-    <th>Accent Base</th>
+    <th>Accent</th>
   </tr>
   <tr>
     <td align="center">
