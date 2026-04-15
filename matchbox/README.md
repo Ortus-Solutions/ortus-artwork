@@ -25,38 +25,39 @@ Official logo repository for **MatchBox**, built by Ortus Solutions.
 Example: `matchbox-logo-full-dark-M.svg`
 
 
----
-
 ## 🎨 Color Palette  
 
 <table>
   <tr>
-    <th>Light</th>
-    <th>Med</th>
+    <th>Main</th>
+    <th>Second</th>
+    <th>Accent</th>
     <th>Dark</th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/33CFFF/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #33CFFF<br>
-      <b>RGB:</b> 51, 207, 255
+      <img src="https://singlecolorimage.com/get/00FF78/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #00FF78<br>
+      <b>RGB:</b> 0, 255, 120
     </td>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/0D87C5/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #0D87C5<br>
-      <b>RGB:</b> 13, 135, 197
+      <img src="https://singlecolorimage.com/get/00DBFF/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #00DBFF<br>
+      <b>RGB:</b> 0, 219, 255
     </td>
     <td align="center">
-      <img src="https://singlecolorimage.com/get/1D3366/100x100" width="100" height="100" style="border-radius:8px;"><br>
-      <b>Hex:</b> #1D3366<br>
-      <b>RGB:</b> 29, 51, 102
+      <img src="https://singlecolorimage.com/get/FFF500/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #FFF500<br>
+      <b>RGB:</b> 255, 245, 0
+    </td>
+    <td align="center">
+      <img src="https://singlecolorimage.com/get/303446/100x100" width="100" height="100" style="border-radius:8px;"><br>
+      <b>Hex:</b> #303446<br>
+      <b>RGB:</b> 48, 52, 70
     </td>
   </tr>
 </table>
 
-
-
 ---
-
 
 Ortus Brand Book 2025
