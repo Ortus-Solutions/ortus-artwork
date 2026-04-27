@@ -6,26 +6,129 @@ Official logo repository for **ColdBox** — from the Ortus Solutions brand fami
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Files |
-|----------|----------|--------|
-| **Full Color (Dark Text)** | <img src="./SVG/coldbox-logo-full-dark.svg" alt="Full Color Dark" width="160"> | SVG: [Download](./SVG/coldbox-logo-full-dark.svg)<br>**PNG:** [Large](./PNG/coldbox-logo-full-dark-L.png) • [Medium](./PNG/coldbox-logo-full-dark-M.png) • [Small](./PNG/coldbox-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/coldbox-logo-full-dark-L.jpg) • [Medium](./JPG/coldbox-logo-full-dark-M.jpg) • [Small](./JPG/coldbox-logo-full-dark-S.jpg) |
-| **Full Color (White Text)** | <img src="./SVG/coldbox-logo-full-light.svg" alt="Full Color Light" width="160"> | SVG: [Download](./SVG/coldbox-logo-full-light.svg)<br>**PNG:** [Large](./PNG/coldbox-logo-full-light-L.png) • [Medium](./PNG/coldbox-logo-full-light-M.png) • [Small](./PNG/coldbox-logo-full-light-S.png)|
-| **Monochrome (Dark)** | <img src="./SVG/coldbox-logo-mono-dark.svg" alt="Mono Dark" width="160"> | SVG: [Download](./SVG/coldbox-logo-mono-dark.svg)<br>**PNG:** [Large](./PNG/coldbox-logo-mono-dark-L.png) • [Medium](./PNG/coldbox-logo-mono-dark-M.png) • [Small](./PNG/coldbox-logo-mono-dark-S.png)<br>**JPG:** [Large](./JPG/coldbox-logo-mono-dark-L.jpg) • [Medium](./JPG/coldbox-logo-mono-dark-M.jpg) • [Small](./JPG/coldbox-logo-mono-dark-S.jpg) |
-| **Monochrome (White)** | <img src="./SVG/coldbox-logo-mono-light.svg" alt="Mono Light" width="160"> | SVG: [Download](./SVG/coldbox-logo-mono-light.svg)<br>**PNG:** [Large](./PNG/coldbox-logo-mono-light-L.png) • [Medium](./PNG/coldbox-logo-mono-light-M.png) • [Small](./PNG/coldbox-logo-mono-light-S.png)<br> |
-| **Icon – Full Color** | <img src="./SVG/coldbox-icon-full.svg" alt="Icon Full" width="160"> | SVG: [Download](./SVG/coldbox-icon-full.svg)<br>**PNG:** [Large](./PNG/coldbox-icon-full-L.png) • [Medium](./PNG/coldbox-icon-full-M.png) • [Small](./PNG/coldbox-icon-full-S.png)<br>**JPG:** [Large](./JPG/coldbox-icon-full-L.jpg) • [Medium](./JPG/coldbox-icon-full-M.jpg) • [Small](./JPG/coldbox-icon-full-S.jpg) |
-| **Icon – Mono (Dark)** | <img src="./SVG/coldbox-icon-mono-dark.svg" alt="Icon Mono Dark" width="160"> | SVG: [Download](./SVG/coldbox-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/coldbox-icon-mono-dark-L.png) • [Medium](./PNG/coldbox-icon-mono-dark-M.png) • [Small](./PNG/coldbox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/coldbox-icon-mono-dark-L.jpg) • [Medium](./JPG/coldbox-icon-mono-dark-M.jpg) • [Small](./JPG/coldbox-icon-mono-dark-S.jpg) |
-| **Icon – Mono (White)** | <img src="./SVG/coldbox-icon-mono-light.svg" alt="Icon Mono Light" width="160"> | SVG: [Download](./SVG/coldbox-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/coldbox-icon-mono-light-L.png) • [Medium](./PNG/coldbox-icon-mono-light-M.png) • [Small](./PNG/coldbox-icon-mono-light-S.png) |
-
+<table>
+    <tr>
+      <th>Variant</th>
+      <th>Preview</th>
+      <th>TONE</th>
+      <th>Files</th>
+    </tr>
+    <tr>
+      <td>Full Color (Dark Text)</td>
+      <td><img src="./PNG/coldbox-logo-full-light-md.png" width="220" alt=""></td>
+      <td>For Light Backgrounds</td>
+      <td>
+        SVG: <a href="./SVG/coldbox-logo-full-light-md.svg">Download</a><br>
+        PNG: <a href="./PNG/coldbox-logo-full-light-lg.png">Large</a> · 
+             <a href="./PNG/coldbox-logo-full-light-md.png">Medium</a> · 
+             <a href="./PNG/coldbox-logo-full-light-sm.png">Small</a><br>
+        JPG: <a href="./JPG/coldbox-logo-full-light-lg.jpg">Large</a> · 
+             <a href="./JPG/coldbox-logo-full-light-md.jpg">Medium</a> · 
+             <a href="./JPG/coldbox-logo-full-light-sm.jpg">Small</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Full Color (White Text)</td>
+      <td><img src="./PNG/coldbox-logo-full-dark-md.png" width="220" alt=""></td>
+      <td>For Dark Backgrounds</td>
+      <td>
+        SVG: <a href="./SVG/coldbox-logo-full-dark-md.svg">Download</a><br>
+        PNG: <a href="./PNG/coldbox-logo-full-dark-lg.png">Large</a> · 
+             <a href="./PNG/coldbox-logo-full-dark-md.png">Medium</a> · 
+             <a href="./PNG/coldbox-logo-full-dark-sm.png">Small</a><br>
+        JPG: <a href="./JPG/coldbox-logo-full-dark-lg.jpg">Large</a> · 
+             <a href="./JPG/coldbox-logo-full-dark-md.jpg">Medium</a> · 
+             <a href="./JPG/coldbox-logo-full-dark-sm.jpg">Small</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Monochrome (Dark)</td>
+      <td><img src="./PNG/coldbox-logo-mono-light-md.png" width="220" alt=""></td>
+      <td>For Light Backgrounds</td>
+      <td>
+        SVG: <a href="./SVG/coldbox-logo-mono-light-md.svg">Download</a><br>
+        PNG: <a href="./PNG/coldbox-logo-mono-light-lg.png">Large</a> · 
+             <a href="./PNG/coldbox-logo-mono-light-md.png">Medium</a> · 
+             <a href="./PNG/coldbox-logo-mono-light-sm.png">Small</a><br>
+        JPG: <a href="./JPG/coldbox-logo-mono-light-lg.jpg">Large</a> · 
+             <a href="./JPG/coldbox-logo-mono-light-md.jpg">Medium</a> · 
+             <a href="./JPG/coldbox-logo-mono-light-sm.jpg">Small</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Monochrome (White)</td>
+      <td><img src="./PNG/coldbox-logo-mono-dark-md.png" width="220" alt=""></td>
+      <td>For Dark Backgrounds</td>
+      <td>
+        SVG: <a href="./SVG/coldbox-logo-mono-dark-md.svg">Download</a><br>
+        PNG: <a href="./PNG/coldbox-logo-mono-dark-lg.png">Large</a> · 
+             <a href="./PNG/coldbox-logo-mono-dark-md.png">Medium</a> · 
+             <a href="./PNG/coldbox-logo-mono-dark-sm.png">Small</a><br>
+        JPG: <a href="./JPG/coldbox-logo-mono-dark-lg.jpg">Large</a> · 
+             <a href="./JPG/coldbox-logo-mono-dark-md.jpg">Medium</a> · 
+             <a href="./JPG/coldbox-logo-mono-dark-sm.jpg">Small</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Icon – Full Color</td>
+      <td><img src="./PNG/coldbox-icon-full-M.png" width="120" alt=""></td>
+      <td>Universal</td>
+      <td>
+        SVG: <a href="./SVG/coldbox-icon-full-M.svg">Download</a><br>
+        PNG: <a href="./PNG/coldbox-icon-full-L.png">Large</a> · 
+             <a href="./PNG/coldbox-icon-full-M.png">Medium</a> · 
+             <a href="./PNG/coldbox-icon-full-S.png">Small</a><br>
+        JPG: <a href="./JPG/coldbox-icon-full-L.jpg">Large</a> · 
+             <a href="./JPG/coldbox-icon-full-M.jpg">Medium</a> · 
+             <a href="./JPG/coldbox-icon-full-S.jpg">Small</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Icon – Mono (Dark)</td>
+      <td><img src="./PNG/coldbox-icon-mono-light-M.png" width="120" alt=""></td>
+      <td>For Light Backgrounds</td>
+      <td>
+        SVG: <a href="./SVG/coldbox-icon-mono-light-M.svg">Download</a><br>
+        PNG: <a href="./PNG/coldbox-icon-mono-light-L.png">Large</a> · 
+             <a href="./PNG/coldbox-icon-mono-light-M.png">Medium</a> · 
+             <a href="./PNG/coldbox-icon-mono-light-S.png">Small</a><br>
+        JPG: <a href="./JPG/coldbox-icon-mono-light-L.jpg">Large</a> · 
+             <a href="./JPG/coldbox-icon-mono-light-M.jpg">Medium</a> · 
+             <a href="./JPG/coldbox-icon-mono-light-S.jpg">Small</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Icon – Mono (White)</td>
+      <td><img src="./PNG/coldbox-icon-mono-dark-M.png" width="120" alt=""></td>
+      <td>For Dark Backgrounds</td>
+      <td>
+        SVG: <a href="./SVG/coldbox-icon-mono-dark-M.svg">Download</a><br>
+        PNG: <a href="./PNG/coldbox-icon-mono-dark-L.png">Large</a> · 
+             <a href="./PNG/coldbox-icon-mono-dark-M.png">Medium</a> · 
+             <a href="./PNG/coldbox-icon-mono-dark-S.png">Small</a><br>
+        JPG: <a href="./JPG/coldbox-icon-mono-dark-L.jpg">Large</a> · 
+             <a href="./JPG/coldbox-icon-mono-dark-M.jpg">Medium</a> · 
+             <a href="./JPG/coldbox-icon-mono-dark-S.jpg">Small</a>
+      </td>
+    </tr>
+</table>
 ---
 
 ## 📝 Notes
 
-- Use **Full Color (Dark Text)** for light backgrounds.  
-- Use **Full Color (White Text)** for dark backgrounds.  
-- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
-- File naming convention: **coldbox-[logo|icon]-[variant]-[tone]-[size].[format]**
+- Default layout is **horizontal**.  
+- Use **stack** layout only for vertical logo compositions.  
 
-Example: coldbox-logo-full-dark-M.svg
+- **Tone refers to usage context (background), not the logo color:**
+  - Use **tone: light** for light backgrounds (logo with dark text).
+  - Use **tone: dark** for dark backgrounds (logo with light/white text).
+
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+
+- File naming convention: **product-[type]-[layout]-[variant]-[tone]-[size].[format]**
+
+Example: `coldbox-logo-full-light-M.svg`  
+Example (stack): `coldbox-logo-stack-full-dark-M.svg`
 
 ---
 
