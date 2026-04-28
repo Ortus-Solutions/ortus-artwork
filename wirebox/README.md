@@ -32,23 +32,6 @@ Official logo repository for **WireBox**, the powerful and lightweight dependenc
 </tr><tr>
   <td>Logo Full Color</td>
   <td align="center">
-    <img src="./PNG/wirebox-logo-full-light-L-md.png" width="240" style="max-width:100%;">
-  </td>
-  <td>Use on light backgrounds</td>
-  <td>
-    <a href="./SVG/wirebox-logo-full-light-L.svg">SVG</a><br>
-    PNG:
-    <a href="./PNG/wirebox-logo-full-light-L-lg.png">Large</a> · 
-    <a href="./PNG/wirebox-logo-full-light-L-md.png">Medium</a> · 
-    <a href="./PNG/wirebox-logo-full-light-L-sm.png">Small</a>
-    <br>JPG:
-           <a href="./JPG/wirebox-logo-full-light-L-lg.jpg">Large</a> · 
-           <a href="./JPG/wirebox-logo-full-light-L-md.jpg">Medium</a> · 
-           <a href="./JPG/wirebox-logo-full-light-L-sm.jpg">Small</a>
-  </td>
-</tr><tr>
-  <td>Logo Full Color</td>
-  <td align="center">
     <img src="./PNG/wirebox-logo-full-light-md.png" width="240" style="max-width:100%;">
   </td>
   <td>Use on light backgrounds</td>
@@ -79,23 +62,6 @@ Official logo repository for **WireBox**, the powerful and lightweight dependenc
            <a href="./JPG/wirebox-logo-mono-dark-lg.jpg">Large</a> · 
            <a href="./JPG/wirebox-logo-mono-dark-md.jpg">Medium</a> · 
            <a href="./JPG/wirebox-logo-mono-dark-sm.jpg">Small</a>
-  </td>
-</tr><tr>
-  <td>Logo Monochrome</td>
-  <td align="center">
-    <img src="./PNG/wirebox-logo-mono-light-L-md.png" width="240" style="max-width:100%;">
-  </td>
-  <td>Use on light backgrounds</td>
-  <td>
-    <a href="./SVG/wirebox-logo-mono-light-L.svg">SVG</a><br>
-    PNG:
-    <a href="./PNG/wirebox-logo-mono-light-L-lg.png">Large</a> · 
-    <a href="./PNG/wirebox-logo-mono-light-L-md.png">Medium</a> · 
-    <a href="./PNG/wirebox-logo-mono-light-L-sm.png">Small</a>
-    <br>JPG:
-           <a href="./JPG/wirebox-logo-mono-light-L-lg.jpg">Large</a> · 
-           <a href="./JPG/wirebox-logo-mono-light-L-md.jpg">Medium</a> · 
-           <a href="./JPG/wirebox-logo-mono-light-L-sm.jpg">Small</a>
   </td>
 </tr><tr>
   <td>Logo Monochrome</td>
@@ -134,23 +100,6 @@ Official logo repository for **WireBox**, the powerful and lightweight dependenc
 </tr><tr>
   <td>Logo Stack Full Color</td>
   <td align="center">
-    <img src="./PNG/wirebox-logo-stack-full-light-1-md.png" width="100" style="max-width:100%;">
-  </td>
-  <td>Use on light backgrounds</td>
-  <td>
-    <a href="./SVG/wirebox-logo-stack-full-light-1.svg">SVG</a><br>
-    PNG:
-    <a href="./PNG/wirebox-logo-stack-full-light-1-lg.png">Large</a> · 
-    <a href="./PNG/wirebox-logo-stack-full-light-1-md.png">Medium</a> · 
-    <a href="./PNG/wirebox-logo-stack-full-light-1-sm.png">Small</a>
-    <br>JPG:
-           <a href="./JPG/wirebox-logo-stack-full-light-1-lg.jpg">Large</a> · 
-           <a href="./JPG/wirebox-logo-stack-full-light-1-md.jpg">Medium</a> · 
-           <a href="./JPG/wirebox-logo-stack-full-light-1-sm.jpg">Small</a>
-  </td>
-</tr><tr>
-  <td>Logo Stack Full Color</td>
-  <td align="center">
     <img src="./PNG/wirebox-logo-stack-full-light-md.png" width="100" style="max-width:100%;">
   </td>
   <td>Use on light backgrounds</td>
@@ -181,23 +130,6 @@ Official logo repository for **WireBox**, the powerful and lightweight dependenc
            <a href="./JPG/wirebox-logo-stack-mono-dark-lg.jpg">Large</a> · 
            <a href="./JPG/wirebox-logo-stack-mono-dark-md.jpg">Medium</a> · 
            <a href="./JPG/wirebox-logo-stack-mono-dark-sm.jpg">Small</a>
-  </td>
-</tr><tr>
-  <td>Logo Stack Monochrome</td>
-  <td align="center">
-    <img src="./PNG/wirebox-logo-stack-mono-light-1-md.png" width="100" style="max-width:100%;">
-  </td>
-  <td>Use on light backgrounds</td>
-  <td>
-    <a href="./SVG/wirebox-logo-stack-mono-light-1.svg">SVG</a><br>
-    PNG:
-    <a href="./PNG/wirebox-logo-stack-mono-light-1-lg.png">Large</a> · 
-    <a href="./PNG/wirebox-logo-stack-mono-light-1-md.png">Medium</a> · 
-    <a href="./PNG/wirebox-logo-stack-mono-light-1-sm.png">Small</a>
-    <br>JPG:
-           <a href="./JPG/wirebox-logo-stack-mono-light-1-lg.jpg">Large</a> · 
-           <a href="./JPG/wirebox-logo-stack-mono-light-1-md.jpg">Medium</a> · 
-           <a href="./JPG/wirebox-logo-stack-mono-light-1-sm.jpg">Small</a>
   </td>
 </tr><tr>
   <td>Logo Stack Monochrome</td>
@@ -249,23 +181,6 @@ Official logo repository for **WireBox**, the powerful and lightweight dependenc
            <a href="./JPG/wirebox-icon-mono-dark-lg.jpg">Large</a> · 
            <a href="./JPG/wirebox-icon-mono-dark-md.jpg">Medium</a> · 
            <a href="./JPG/wirebox-icon-mono-dark-sm.jpg">Small</a>
-  </td>
-</tr><tr>
-  <td>Icon Monochrome</td>
-  <td align="center">
-    <img src="./PNG/wirebox-icon-mono-light-L-md.png" width="100" style="max-width:100%;">
-  </td>
-  <td>Use on light backgrounds</td>
-  <td>
-    <a href="./SVG/wirebox-icon-mono-light-L.svg">SVG</a><br>
-    PNG:
-    <a href="./PNG/wirebox-icon-mono-light-L-lg.png">Large</a> · 
-    <a href="./PNG/wirebox-icon-mono-light-L-md.png">Medium</a> · 
-    <a href="./PNG/wirebox-icon-mono-light-L-sm.png">Small</a>
-    <br>JPG:
-           <a href="./JPG/wirebox-icon-mono-light-L-lg.jpg">Large</a> · 
-           <a href="./JPG/wirebox-icon-mono-light-L-md.jpg">Medium</a> · 
-           <a href="./JPG/wirebox-icon-mono-light-L-sm.jpg">Small</a>
   </td>
 </tr><tr>
   <td>Icon Monochrome</td>
