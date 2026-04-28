@@ -225,6 +225,7 @@ Official logo repository for **CacheBox** — part of the COLDBOX Ecosystem from
  
 Example: `cachebox-logo-full-light-md.svg`  
 Example (stack): `cachebox-logo-stack-full-dark-md.svg`
+
 ---
 
 ## 🎨 Color Palette  
