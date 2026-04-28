@@ -151,23 +151,6 @@ Official logo repository for **SocketBox**, the high-performance WebSocket modul
 </tr><tr>
   <td>Icon Full Color</td>
   <td align="center">
-    <img src="./PNG/socketbox-icon-full-dark-md.png" width="100" style="max-width:100%;">
-  </td>
-  <td>Use on dark backgrounds</td>
-  <td>
-    <a href="./SVG/socketbox-icon-full-dark.svg">SVG</a><br>
-    PNG:
-    <a href="./PNG/socketbox-icon-full-dark-lg.png">Large</a> · 
-    <a href="./PNG/socketbox-icon-full-dark-md.png">Medium</a> · 
-    <a href="./PNG/socketbox-icon-full-dark-sm.png">Small</a>
-    <br>JPG:
-           <a href="./JPG/socketbox-icon-full-dark-lg.jpg">Large</a> · 
-           <a href="./JPG/socketbox-icon-full-dark-md.jpg">Medium</a> · 
-           <a href="./JPG/socketbox-icon-full-dark-sm.jpg">Small</a>
-  </td>
-</tr><tr>
-  <td>Icon Full Color</td>
-  <td align="center">
     <img src="./PNG/socketbox-icon-full-md.png" width="100" style="max-width:100%;">
   </td>
   <td></td>
