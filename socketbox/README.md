@@ -6,26 +6,242 @@ Official logo repository for **SocketBox**, the high-performance WebSocket modul
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Download |
-|----------|----------|--------|
-| **Full Color (Dark Text)** | <img src="./SVG/socketbox-logo-full-dark.svg" alt="Full Color Dark" width="160"> | SVG: [Download](./SVG/socketbox-logo-full-dark.svg)<br>**PNG:** [Large](./PNG/socketbox-logo-full-dark-L.png) • [Medium](./PNG/socketbox-logo-full-dark-M.png) • [Small](./PNG/socketbox-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/socketbox-logo-full-dark-L.jpg) • [Medium](./JPG/socketbox-logo-full-dark-M.jpg) • [Small](./JPG/socketbox-logo-full-dark-S.jpg) |
-| **Full Color (White Text)** | <img src="./SVG/socketbox-logo-full-light.svg" alt="Full Color Light" width="160"> | SVG: [Download](./SVG/socketbox-logo-full-light.svg)<br>**PNG:** [Large](./PNG/socketbox-logo-full-light-L.png) • [Medium](./PNG/socketbox-logo-full-light-M.png) • [Small](./PNG/socketbox-logo-full-light-S.png) |
-| **Monochrome (Dark)** | <img src="./SVG/socketbox-logo-mono-dark.svg" alt="Mono Dark" width="160"> | SVG: [Download](./SVG/socketbox-logo-mono-dark.svg)<br>**PNG:** [Large](./PNG/socketbox-logo-mono-dark-L.png) • [Medium](./PNG/socketbox-logo-mono-dark-M.png) • [Small](./PNG/socketbox-logo-mono-dark-S.png)<br>**JPG:** [Large](./JPG/socketbox-logo-mono-dark-L.jpg) • [Medium](./JPG/socketbox-logo-mono-dark-M.jpg) • [Small](./JPG/socketbox-logo-mono-dark-S.jpg) |
-| **Monochrome (White)** | <img src="./SVG/socketbox-logo-mono-light.svg" alt="Mono Light" width="160"> | SVG: [Download](./SVG/socketbox-logo-mono-light.svg)<br>**PNG:** [Large](./PNG/socketbox-logo-mono-light-L.png) • [Medium](./PNG/socketbox-logo-mono-light-M.png) • [Small](./PNG/socketbox-logo-mono-light-S.png) |
-| **Icon – Full Color** | <img src="./SVG/socketbox-icon-full.svg" alt="Icon Full" width="160"> | SVG: [Download](./SVG/socketbox-icon-full.svg)<br>**PNG:** [Large](./PNG/socketbox-icon-full-L.png) • [Medium](./PNG/socketbox-icon-full-M.png) • [Small](./PNG/socketbox-icon-full-S.png)<br>**JPG:** [Large](./JPG/socketbox-icon-full-L.jpg) • [Medium](./JPG/socketbox-icon-full-M.jpg) • [Small](./JPG/socketbox-icon-full-S.jpg) |
-| **Icon – Mono (Dark)** | <img src="./SVG/socketbox-icon-mono-dark.svg" alt="Icon Mono Dark" width="160"> | SVG: [Download](./SVG/socketbox-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/socketbox-icon-mono-dark-L.png) • [Medium](./PNG/socketbox-icon-mono-dark-M.png) • [Small](./PNG/socketbox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/socketbox-icon-mono-dark-L.jpg) • [Medium](./JPG/socketbox-icon-mono-dark-M.jpg) • [Small](./JPG/socketbox-icon-mono-dark-S.jpg) |
-| **Icon – Mono (White)** | <img src="./SVG/socketbox-icon-mono-light.svg" alt="Icon Mono Light" width="160"> | SVG: [Download](./SVG/socketbox-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/socketbox-icon-mono-light-L.png) • [Medium](./PNG/socketbox-icon-mono-light-M.png) • [Small](./PNG/socketbox-icon-mono-light-S.png) |
+<table width="100%">
+<tr>
+  <th align="left" width="25%">Variant</th>
+  <th align="center" width="30%">Preview</th>
+  <th align="left" width="20%">Tone / Use</th>
+  <th align="left" width="25%">Download</th>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/socketbox-logo-full-dark-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-logo-full-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-logo-full-dark-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-logo-full-dark-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-logo-full-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-logo-full-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-logo-full-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-logo-full-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/socketbox-logo-full-light-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-logo-full-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-logo-full-light-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-logo-full-light-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-logo-full-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-logo-full-light-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-logo-full-light-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-logo-full-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Monochrome</td>
+  <td align="center">
+    <img src="./PNG/socketbox-logo-mono-dark-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-logo-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-logo-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-logo-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-logo-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-logo-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-logo-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-logo-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Monochrome</td>
+  <td align="center">
+    <img src="./PNG/socketbox-logo-mono-light-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-logo-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-logo-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-logo-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-logo-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-logo-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-logo-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-logo-mono-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Stack Full Color</td>
+  <td align="center">
+    <img src="./PNG/socketbox-logo-stack-full-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-logo-stack-full-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-logo-stack-full-dark-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-logo-stack-full-dark-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-logo-stack-full-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-logo-stack-full-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-logo-stack-full-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-logo-stack-full-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Stack Full Color</td>
+  <td align="center">
+    <img src="./PNG/socketbox-logo-stack-full-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-logo-stack-full-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-logo-stack-full-light-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-logo-stack-full-light-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-logo-stack-full-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-logo-stack-full-light-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-logo-stack-full-light-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-logo-stack-full-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Stack Monochrome</td>
+  <td align="center">
+    <img src="./PNG/socketbox-logo-stack-mono-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-logo-stack-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-logo-stack-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-logo-stack-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-logo-stack-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-logo-stack-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-logo-stack-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-logo-stack-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Stack Monochrome</td>
+  <td align="center">
+    <img src="./PNG/socketbox-logo-stack-mono-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-logo-stack-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-logo-stack-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-logo-stack-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-logo-stack-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-logo-stack-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-logo-stack-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-logo-stack-mono-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Full Color</td>
+  <td align="center">
+    <img src="./PNG/socketbox-icon-full-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-icon-full-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-icon-full-dark-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-icon-full-dark-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-icon-full-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-icon-full-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-icon-full-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-icon-full-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Full Color</td>
+  <td align="center">
+    <img src="./PNG/socketbox-icon-full-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/socketbox-icon-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-icon-full-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-icon-full-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-icon-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-icon-full-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-icon-full-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-icon-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/socketbox-icon-mono-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-icon-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-icon-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-icon-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-icon-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-icon-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-icon-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-icon-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/socketbox-icon-mono-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/socketbox-icon-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/socketbox-icon-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/socketbox-icon-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/socketbox-icon-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/socketbox-icon-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/socketbox-icon-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/socketbox-icon-mono-light-sm.jpg">Small</a>
+  </td>
+</tr></table>
 
 ---
 
 ## 📝 Notes
 
-- Use **Full Color (Dark Text)** for light backgrounds.  
-- Use **Full Color (White Text)** for dark backgrounds.  
-- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
-- File naming convention: **socketbox-[logo|icon]-[variant]-[tone]-[size].[format]**
+- Logo variants are designed for specific contexts and usage guidelines.
+  - Layout: 
+    - default: horizontal, no need to name it in file
+    - stack: vertical
+    - icon: symbol only
+  - Variant: `full` (full color), `mono` (monochrome)
+  - Tone: `light`, `dark`
+  - Size: `sm`, `md`, `lg`
+  - Format: `svg`, `png`, `jpg`
 
-Example: socketbox-logo-full-dark-M.svg
+- **Tone refers to usage context (background), not the logo color:**
+  - Use **tone: light** for light backgrounds (logo with dark text).
+  - Use **tone: dark** for dark backgrounds (logo with light/white text).
+
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+
+- File naming convention: **product-[type]-[layout]-[variant]-[tone]-[size].[format]**
+ 
+Example: `socketbox-logo-full-light-md.svg`  
+Example (stack): `socketbox-logo-stack-full-dark-md.svg`
 
 ---
 
