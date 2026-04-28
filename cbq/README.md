@@ -206,7 +206,10 @@ Official logo repository for **CBQ** — part of the COLDBOX Ecosystem from the 
 ## 📝 Notes
 
 - Logo variants are designed for specific contexts and usage guidelines.
-  - Layout: 'default' (horizontal), 'stack' (vertical), 'icon' (symbol only)
+  - Layout: 
+    - default: horizontal, no need to name it in file
+    - stack: vertical
+    - icon: symbol only
   - Variant: 'full' (full color), 'mono' (monochrome)
   - Tone: 'light', 'dark'
   - Size: 'sm', 'md', 'lg'
