@@ -6,15 +6,133 @@ Official logo repository for **CacheBox** — part of the COLDBOX Ecosystem from
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Download |
-|----------|----------|---------|
-| **Full Color (Dark Text)** | <img src="./SVG/cachebox-logo-full-dark.svg" alt="Full Color Dark" width="140"> | SVG: [Download](./SVG/cachebox-logo-full-dark.svg)<br>**PNG:** [Large](./PNG/cachebox-logo-full-dark-L.png) • [Medium](./PNG/cachebox-logo-full-dark-M.png) • [Small](./PNG/cachebox-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/cachebox-logo-full-dark-L.jpg) • [Medium](./JPG/cachebox-logo-full-dark-M.jpg) • [Small](./JPG/cachebox-logo-full-dark-S.jpg) |
-| **Full Color (White Text)** | <img src="./SVG/cachebox-logo-full-light.svg" alt="Full Color Light" width="140"> | SVG: [Download](./SVG/cachebox-logo-full-light.svg)<br>**PNG:** [Large](./PNG/cachebox-logo-full-light-L.png) • [Medium](./PNG/cachebox-logo-full-light-M.png) • [Small](./PNG/cachebox-logo-full-light-S.png) |
-| **Monochrome (Dark)** | <img src="./SVG/cachebox-logo-mono-dark.svg" alt="Mono Dark" width="140"> | SVG: [Download](./SVG/cachebox-logo-mono-dark.svg)<br>**PNG:** [Large](./PNG/cachebox-logo-mono-dark-L.png) • [Medium](./PNG/cachebox-logo-mono-dark-M.png) • [Small](./PNG/cachebox-logo-mono-dark-S.png)<br>**JPG:** [Large](./JPG/cachebox-logo-mono-dark-L.jpg) • [Medium](./JPG/cachebox-logo-mono-dark-M.jpg) • [Small](./JPG/cachebox-logo-mono-dark-S.jpg) |
-| **Monochrome (White)** | <img src="./SVG/cachebox-logo-mono-light.svg" alt="Mono Light" width="140"> | SVG: [Download](./SVG/cachebox-logo-mono-light.svg)<br>**PNG:** [Large](./PNG/cachebox-logo-mono-light-L.png) • [Medium](./PNG/cachebox-logo-mono-light-M.png) • [Small](./PNG/cachebox-logo-mono-light-S.png) |
-| **Icon – Full Color** | <img src="./SVG/cachebox-icon-full.svg" alt="Icon Full" width="140"> | SVG: [Download](./SVG/cachebox-icon-full.svg)<br>**PNG:** [Large](./PNG/cachebox-icon-full-L.png) • [Medium](./PNG/cachebox-icon-full-M.png) • [Small](./PNG/cachebox-icon-full-S.png)<br>**JPG:** [Large](./JPG/cachebox-icon-full-L.jpg) • [Medium](./JPG/cachebox-icon-full-M.jpg) • [Small](./JPG/cachebox-icon-full-S.jpg) |
-| **Icon – Mono (Dark)** | <img src="./SVG/cachebox-icon-mono-dark.svg" alt="Icon Mono Dark" width="140"> | SVG: [Download](./SVG/cachebox-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/cachebox-icon-mono-dark-L.png) • [Medium](./PNG/cachebox-icon-mono-dark-M.png) • [Small](./PNG/cachebox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/cachebox-icon-mono-dark-L.jpg) • [Medium](./JPG/cachebox-icon-mono-dark-M.jpg) • [Small](./JPG/cachebox-icon-mono-dark-S.jpg) |
-| **Icon – Mono (White)** | <img src="./SVG/cachebox-icon-mono-light.svg" alt="Icon Mono Light" width="140"> | SVG: [Download](./SVG/cachebox-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/cachebox-icon-mono-light-L.png) • [Medium](./PNG/cachebox-icon-mono-light-M.png) • [Small](./PNG/cachebox-icon-mono-light-S.png) |
+<table>
+<tr><td align="center">
+  <strong>cachebox-icon-full</strong><br><br>
+  <img src="./PNG/cachebox-icon-full-md.png" width="120"><br><br>
+  <em></em><br><br>
+  <a href="./SVG/cachebox-icon-full.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-icon-full-lg.png">L</a> • 
+       <a href="./PNG/cachebox-icon-full-md.png">M</a> • 
+       <a href="./PNG/cachebox-icon-full-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-icon-full-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-icon-full-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-icon-full-sm.jpg">S</a>)
+</td><td align="center">
+  <strong>cachebox-icon-mono-dark</strong><br><br>
+  <img src="./PNG/cachebox-icon-mono-dark-md.png" width="120"><br><br>
+  <em>Use on dark backgrounds</em><br><br>
+  <a href="./SVG/cachebox-icon-mono-dark.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-icon-mono-dark-lg.png">L</a> • 
+       <a href="./PNG/cachebox-icon-mono-dark-md.png">M</a> • 
+       <a href="./PNG/cachebox-icon-mono-dark-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-icon-mono-dark-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-icon-mono-dark-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-icon-mono-dark-sm.jpg">S</a>)
+</td><td align="center">
+  <strong>cachebox-icon-mono-light</strong><br><br>
+  <img src="./PNG/cachebox-icon-mono-light-md.png" width="120"><br><br>
+  <em>Use on light backgrounds</em><br><br>
+  <a href="./SVG/cachebox-icon-mono-light.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-icon-mono-light-lg.png">L</a> • 
+       <a href="./PNG/cachebox-icon-mono-light-md.png">M</a> • 
+       <a href="./PNG/cachebox-icon-mono-light-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-icon-mono-light-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-icon-mono-light-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-icon-mono-light-sm.jpg">S</a>)
+</td></tr>
+<tr><td align="center">
+  <strong>cachebox-logo-full-dark</strong><br><br>
+  <img src="./PNG/cachebox-logo-full-dark-md.png" width="200"><br><br>
+  <em>Use on dark backgrounds</em><br><br>
+  <a href="./SVG/cachebox-logo-full-dark.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-logo-full-dark-lg.png">L</a> • 
+       <a href="./PNG/cachebox-logo-full-dark-md.png">M</a> • 
+       <a href="./PNG/cachebox-logo-full-dark-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-logo-full-dark-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-logo-full-dark-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-logo-full-dark-sm.jpg">S</a>)
+</td><td align="center">
+  <strong>cachebox-logo-full-light</strong><br><br>
+  <img src="./PNG/cachebox-logo-full-light-md.png" width="200"><br><br>
+  <em>Use on light backgrounds</em><br><br>
+  <a href="./SVG/cachebox-logo-full-light.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-logo-full-light-lg.png">L</a> • 
+       <a href="./PNG/cachebox-logo-full-light-md.png">M</a> • 
+       <a href="./PNG/cachebox-logo-full-light-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-logo-full-light-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-logo-full-light-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-logo-full-light-sm.jpg">S</a>)
+</td><td align="center">
+  <strong>cachebox-logo-mono-dark</strong><br><br>
+  <img src="./PNG/cachebox-logo-mono-dark-md.png" width="200"><br><br>
+  <em>Use on dark backgrounds</em><br><br>
+  <a href="./SVG/cachebox-logo-mono-dark.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-logo-mono-dark-lg.png">L</a> • 
+       <a href="./PNG/cachebox-logo-mono-dark-md.png">M</a> • 
+       <a href="./PNG/cachebox-logo-mono-dark-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-logo-mono-dark-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-logo-mono-dark-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-logo-mono-dark-sm.jpg">S</a>)
+</td></tr>
+<tr><td align="center">
+  <strong>cachebox-logo-mono-light</strong><br><br>
+  <img src="./PNG/cachebox-logo-mono-light-md.png" width="200"><br><br>
+  <em>Use on light backgrounds</em><br><br>
+  <a href="./SVG/cachebox-logo-mono-light.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-logo-mono-light-lg.png">L</a> • 
+       <a href="./PNG/cachebox-logo-mono-light-md.png">M</a> • 
+       <a href="./PNG/cachebox-logo-mono-light-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-logo-mono-light-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-logo-mono-light-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-logo-mono-light-sm.jpg">S</a>)
+</td><td align="center">
+  <strong>cachebox-logo-stack-full-dark</strong><br><br>
+  <img src="./PNG/cachebox-logo-stack-full-dark-md.png" width="200"><br><br>
+  <em>Use on dark backgrounds</em><br><br>
+  <a href="./SVG/cachebox-logo-stack-full-dark.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-logo-stack-full-dark-lg.png">L</a> • 
+       <a href="./PNG/cachebox-logo-stack-full-dark-md.png">M</a> • 
+       <a href="./PNG/cachebox-logo-stack-full-dark-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-logo-stack-full-dark-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-logo-stack-full-dark-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-logo-stack-full-dark-sm.jpg">S</a>)
+</td><td align="center">
+  <strong>cachebox-logo-stack-full-light</strong><br><br>
+  <img src="./PNG/cachebox-logo-stack-full-light-md.png" width="200"><br><br>
+  <em>Use on light backgrounds</em><br><br>
+  <a href="./SVG/cachebox-logo-stack-full-light.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-logo-stack-full-light-lg.png">L</a> • 
+       <a href="./PNG/cachebox-logo-stack-full-light-md.png">M</a> • 
+       <a href="./PNG/cachebox-logo-stack-full-light-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-logo-stack-full-light-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-logo-stack-full-light-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-logo-stack-full-light-sm.jpg">S</a>)
+</td></tr>
+<tr><td align="center">
+  <strong>cachebox-logo-stack-mono-dark</strong><br><br>
+  <img src="./PNG/cachebox-logo-stack-mono-dark-md.png" width="200"><br><br>
+  <em>Use on dark backgrounds</em><br><br>
+  <a href="./SVG/cachebox-logo-stack-mono-dark.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-logo-stack-mono-dark-lg.png">L</a> • 
+       <a href="./PNG/cachebox-logo-stack-mono-dark-md.png">M</a> • 
+       <a href="./PNG/cachebox-logo-stack-mono-dark-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-logo-stack-mono-dark-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-logo-stack-mono-dark-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-logo-stack-mono-dark-sm.jpg">S</a>)
+</td><td align="center">
+  <strong>cachebox-logo-stack-mono-light</strong><br><br>
+  <img src="./PNG/cachebox-logo-stack-mono-light-md.png" width="200"><br><br>
+  <em>Use on light backgrounds</em><br><br>
+  <a href="./SVG/cachebox-logo-stack-mono-light.svg">SVG</a> |
+  PNG (<a href="./PNG/cachebox-logo-stack-mono-light-lg.png">L</a> • 
+       <a href="./PNG/cachebox-logo-stack-mono-light-md.png">M</a> • 
+       <a href="./PNG/cachebox-logo-stack-mono-light-sm.png">S</a>)
+  | JPG (<a href="./JPG/cachebox-logo-stack-mono-light-lg.jpg">L</a> • 
+                <a href="./JPG/cachebox-logo-stack-mono-light-md.jpg">M</a> • 
+                <a href="./JPG/cachebox-logo-stack-mono-light-sm.jpg">S</a>)
+</td></tr>
+</table>
 
 ---
 
