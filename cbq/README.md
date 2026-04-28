@@ -210,10 +210,10 @@ Official logo repository for **CBQ** — part of the COLDBOX Ecosystem from the 
     - default: horizontal, no need to name it in file
     - stack: vertical
     - icon: symbol only
-  - Variant: 'full' (full color), 'mono' (monochrome)
-  - Tone: 'light', 'dark'
-  - Size: 'sm', 'md', 'lg'
-  - Format: 'svg', 'png', 'jpg'
+  - Variant: `full` (full color), `mono` (monochrome)
+  - Tone: `light`, `dark`
+  - Size: `sm`, `md`, `lg`
+  - Format: `svg`, `png`, `jpg`
 
 - **Tone refers to usage context (background), not the logo color:**
   - Use **tone: light** for light backgrounds (logo with dark text).
@@ -225,6 +225,7 @@ Official logo repository for **CBQ** — part of the COLDBOX Ecosystem from the 
  
 Example: `cbq-logo-full-light-md.svg`  
 Example (stack): `cbq-logo-stack-full-dark-md.svg`
+
 
 ---
 
