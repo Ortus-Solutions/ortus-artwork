@@ -6,17 +6,17 @@ Official logo repository for **CacheBox** — part of the COLDBOX Ecosystem from
 
 ## 🖼️ Logo Variants
 
-<table>
+<table style="width: 100%;">
   <tr>
     <th align="left">Variant</th>
-    <th align="center">Preview</th>
+    <th align="center" style="width: 26%;">Preview</th>
     <th align="left">Tone / Use</th>
     <th align="left">Download</th>
   </tr>
   <tr>
     <td>Logo Full Color</td>
     <td align="center">
-      <img src="./PNG/cachebox-logo-full-dark-md.png" width="160">
+      <img src="./PNG/cachebox-logo-full-dark-md.png" width="240">
     </td>
     <td>Use on dark backgrounds</td>
     <td>
@@ -32,7 +32,7 @@ Official logo repository for **CacheBox** — part of the COLDBOX Ecosystem from
   <tr>
     <td>Logo Full Color</td>
     <td align="center">
-      <img src="./PNG/cachebox-logo-full-light-md.png" width="160">
+      <img src="./PNG/cachebox-logo-full-light-md.png" width="240">
     </td>
     <td>Use on light backgrounds</td>
     <td>
@@ -48,7 +48,7 @@ Official logo repository for **CacheBox** — part of the COLDBOX Ecosystem from
   <tr>
     <td>Logo Monochrome</td>
     <td align="center">
-      <img src="./PNG/cachebox-logo-mono-dark-md.png" width="160">
+      <img src="./PNG/cachebox-logo-mono-dark-md.png" width="240">
     </td>
     <td>Use on dark backgrounds</td>
     <td>
@@ -64,7 +64,7 @@ Official logo repository for **CacheBox** — part of the COLDBOX Ecosystem from
   <tr>
     <td>Logo Monochrome</td>
     <td align="center">
-      <img src="./PNG/cachebox-logo-mono-light-md.png" width="160">
+      <img src="./PNG/cachebox-logo-mono-light-md.png" width="240">
     </td>
     <td>Use on light backgrounds</td>
     <td>
