@@ -6,26 +6,225 @@ Official logo repository for **MatchBox**, built by Ortus Solutions.
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Download |
-|----------|----------|--------|
-| **Full Color (Dark Text)** | <img src="./SVG/matchbox-logo-full-dark.svg" alt="Full Color Dark" width="160"> | SVG: [Download](./SVG/matchbox-logo-full-dark.svg)<br>**PNG:** [Large](./PNG/matchbox-logo-full-dark-L.png) • [Medium](./PNG/matchbox-logo-full-dark-M.png) • [Small](./PNG/matchbox-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/matchbox-logo-full-dark-L.jpg) • [Medium](./JPG/matchbox-logo-full-dark-M.jpg) • [Small](./JPG/matchbox-logo-full-dark-S.jpg) |
-| **Full Color (White Text)** | <img src="./SVG/matchbox-logo-full-light.svg" alt="Full Color Light" width="160"> | SVG: [Download](./SVG/matchbox-logo-full-light.svg)<br>**PNG:** [Large](./PNG/matchbox-logo-full-light-L.png) • [Medium](./PNG/matchbox-logo-full-light-M.png) • [Small](./PNG/matchbox-logo-full-light-S.png) |
-| **Monochrome (Dark)** | <img src="./SVG/matchbox-logo-mono-dark.svg" alt="Mono Dark" width="160"> | SVG: [Download](./SVG/matchbox-logo-mono-dark.svg)<br>**PNG:** [Large](./PNG/matchbox-logo-mono-dark-L.png) • [Medium](./PNG/matchbox-logo-mono-dark-M.png) • [Small](./PNG/matchbox-logo-mono-dark-S.png)<br>**JPG:** [Large](./JPG/matchbox-logo-mono-dark-L.jpg) • [Medium](./JPG/matchbox-logo-mono-dark-M.jpg) • [Small](./JPG/matchbox-logo-mono-dark-S.jpg) |
-| **Monochrome (White)** | <img src="./SVG/matchbox-logo-mono-light.svg" alt="Mono Light" width="160"> | SVG: [Download](./SVG/matchbox-logo-mono-light.svg)<br>**PNG:** [Large](./PNG/matchbox-logo-mono-light-L.png) • [Medium](./PNG/matchbox-logo-mono-light-M.png) • [Small](./PNG/matchbox-logo-mono-light-S.png) |
-| **Icon – Full Color** | <img src="./SVG/matchbox-icon-full.svg" alt="Icon Full" width="160"> | SVG: [Download](./SVG/matchbox-icon-full.svg)<br>**PNG:** [Large](./PNG/matchbox-icon-full-L.png) • [Medium](./PNG/matchbox-icon-full-M.png) • [Small](./PNG/matchbox-icon-full-S.png)<br>**JPG:** [Large](./JPG/matchbox-icon-full-L.jpg) • [Medium](./JPG/matchbox-icon-full-M.jpg) • [Small](./JPG/matchbox-icon-full-S.jpg) |
-| **Icon – Mono (Dark)** | <img src="./SVG/matchbox-icon-mono-dark.svg" alt="Icon Mono Dark" width="160"> | SVG: [Download](./SVG/matchbox-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/matchbox-icon-mono-dark-L.png) • [Medium](./PNG/matchbox-icon-mono-dark-M.png) • [Small](./PNG/matchbox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/matchbox-icon-mono-dark-L.jpg) • [Medium](./JPG/matchbox-icon-mono-dark-M.jpg) • [Small](./JPG/matchbox-icon-mono-dark-S.jpg) |
-| **Icon – Mono (White)** | <img src="./SVG/matchbox-icon-mono-light.svg" alt="Icon Mono Light" width="160"> | SVG: [Download](./SVG/matchbox-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/matchbox-icon-mono-light-L.png) • [Medium](./PNG/matchbox-icon-mono-light-M.png) • [Small](./PNG/matchbox-icon-mono-light-S.png) |
+<table width="100%">
+<tr>
+  <th align="left" width="25%">Variant</th>
+  <th align="center" width="30%">Preview</th>
+  <th align="left" width="20%">Tone / Use</th>
+  <th align="left" width="25%">Download</th>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/matchbox-logo-full-dark-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-logo-full-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-logo-full-dark-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-logo-full-dark-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-logo-full-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-logo-full-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-logo-full-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-logo-full-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/matchbox-logo-full-light-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-logo-full-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-logo-full-light-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-logo-full-light-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-logo-full-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-logo-full-light-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-logo-full-light-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-logo-full-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Monochrome</td>
+  <td align="center">
+    <img src="./PNG/matchbox-logo-mono-dark-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-logo-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-logo-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-logo-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-logo-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-logo-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-logo-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-logo-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Monochrome</td>
+  <td align="center">
+    <img src="./PNG/matchbox-logo-mono-light-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-logo-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-logo-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-logo-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-logo-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-logo-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-logo-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-logo-mono-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Stack Full Color</td>
+  <td align="center">
+    <img src="./PNG/matchbox-logo-stack-full-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-logo-stack-full-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-logo-stack-full-dark-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-logo-stack-full-dark-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-logo-stack-full-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-logo-stack-full-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-logo-stack-full-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-logo-stack-full-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Stack Full Color</td>
+  <td align="center">
+    <img src="./PNG/matchbox-logo-stack-full-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-logo-stack-full-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-logo-stack-full-light-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-logo-stack-full-light-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-logo-stack-full-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-logo-stack-full-light-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-logo-stack-full-light-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-logo-stack-full-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Stack Monochrome</td>
+  <td align="center">
+    <img src="./PNG/matchbox-logo-stack-mono-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-logo-stack-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-logo-stack-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-logo-stack-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-logo-stack-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-logo-stack-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-logo-stack-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-logo-stack-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Stack Monochrome</td>
+  <td align="center">
+    <img src="./PNG/matchbox-logo-stack-mono-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-logo-stack-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-logo-stack-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-logo-stack-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-logo-stack-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-logo-stack-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-logo-stack-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-logo-stack-mono-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Full Color</td>
+  <td align="center">
+    <img src="./PNG/matchbox-icon-full-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/matchbox-icon-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-icon-full-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-icon-full-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-icon-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-icon-full-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-icon-full-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-icon-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/matchbox-icon-mono-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-icon-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-icon-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-icon-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-icon-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-icon-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-icon-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-icon-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/matchbox-icon-mono-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/matchbox-icon-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/matchbox-icon-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/matchbox-icon-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/matchbox-icon-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/matchbox-icon-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/matchbox-icon-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/matchbox-icon-mono-light-sm.jpg">Small</a>
+  </td>
+</tr></table>
 
 ---
 
 ## 📝 Notes
 
-- Use **Full Color (Dark Text)** for light backgrounds.  
-- Use **Full Color (White Text)** for dark backgrounds.  
-- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
-- File naming convention: **matchbox-logo-[variant]-[tone]-[size].[format]**
+- Logo variants are designed for specific contexts and usage guidelines.
+  - Layout: 
+    - default: horizontal, no need to name it in file
+    - stack: vertical
+    - icon: symbol only
+  - Variant: `full` (full color), `mono` (monochrome)
+  - Tone: `light`, `dark`
+  - Size: `sm`, `md`, `lg`
+  - Format: `svg`, `png`, `jpg`
 
-Example: `matchbox-logo-full-dark-M.svg`
+- **Tone refers to usage context (background), not the logo color:**
+  - Use **tone: light** for light backgrounds (logo with dark text).
+  - Use **tone: dark** for dark backgrounds (logo with light/white text).
+
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+
+- File naming convention: **product-[type]-[layout]-[variant]-[tone]-[size].[format]**
+ 
+Example: `matchbox-logo-full-light-md.svg`  
+Example (stack): `matchbox-logo-stack-full-dark-md.svg`
 
 
 ## 🎨 Color Palette  
