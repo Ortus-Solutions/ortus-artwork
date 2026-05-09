@@ -6,24 +6,106 @@
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Download |
-|---------|---------|----------|
-| Logo – Full | <img src="./PNG/cfmigrations-logo-full-M.png" width="160"/> | SVG: [Download](./SVG/cfmigrations-logo-full.svg)<br>**PNG:** [Large](./PNG/cfmigrations-logo-full-L.png) • [Medium](./PNG/cfmigrations-logo-full-M.png) • [Small](./PNG/cfmigrations-logo-full-S.png)<br>**JPG:** [Large](./JPG/cfmigrations-logo-full-L.jpg) • [Medium](./JPG/cfmigrations-logo-full-M.jpg) • [Small](./JPG/cfmigrations-logo-full-S.jpg) |
-| Icon – Full | <img src="./PNG/cfmigrations-icon-full-M.png" width="160"/> | SVG: [Download](./SVG/cfmigrations-icon-full.svg)<br>**PNG:** [Large](./PNG/cfmigrations-icon-full-L.png) • [Medium](./PNG/cfmigrations-icon-full-M.png) • [Small](./PNG/cfmigrations-icon-full-S.png)<br>**JPG:** [Large](./JPG/cfmigrations-icon-full-L.jpg) • [Medium](./JPG/cfmigrations-icon-full-M.jpg) • [Small](./JPG/cfmigrations-icon-full-S.jpg) |
-| Icon – Mono Dark | <img src="./PNG/cfmigrations-icon-mono-dark-M.png" width="160"/> | SVG: [Download](./SVG/cfmigrations-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/cfmigrations-icon-mono-dark-L.png) • [Medium](./PNG/cfmigrations-icon-mono-dark-M.png) • [Small](./PNG/cfmigrations-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/cfmigrations-icon-mono-dark-L.jpg) • [Medium](./JPG/cfmigrations-icon-mono-dark-M.jpg) • [Small](./JPG/cfmigrations-icon-mono-dark-S.jpg) |
-| Icon – Mono Light | <img src="./PNG/cfmigrations-icon-mono-light-M.png" width="160"/> | SVG: [Download](./SVG/cfmigrations-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/cfmigrations-icon-mono-light-L.png) • [Medium](./PNG/cfmigrations-icon-mono-light-M.png) • [Small](./PNG/cfmigrations-icon-mono-light-S.png) |
+<table width="100%">
+<tr>
+  <th align="left" width="25%">Variant</th>
+  <th align="center" width="30%">Preview</th>
+  <th align="left" width="20%">Tone / Use</th>
+  <th align="left" width="25%">Download</th>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/cfmigrations-logo-full-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/cfmigrations-logo-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cfmigrations-logo-full-lg.png">Large</a> · 
+    <a href="./PNG/cfmigrations-logo-full-md.png">Medium</a> · 
+    <a href="./PNG/cfmigrations-logo-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cfmigrations-logo-full-lg.jpg">Large</a> · 
+           <a href="./JPG/cfmigrations-logo-full-md.jpg">Medium</a> · 
+           <a href="./JPG/cfmigrations-logo-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Full Color</td>
+  <td align="center">
+    <img src="./PNG/cfmigrations-icon-full-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/cfmigrations-icon-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cfmigrations-icon-full-lg.png">Large</a> · 
+    <a href="./PNG/cfmigrations-icon-full-md.png">Medium</a> · 
+    <a href="./PNG/cfmigrations-icon-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cfmigrations-icon-full-lg.jpg">Large</a> · 
+           <a href="./JPG/cfmigrations-icon-full-md.jpg">Medium</a> · 
+           <a href="./JPG/cfmigrations-icon-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/cfmigrations-icon-mono-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/cfmigrations-icon-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cfmigrations-icon-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/cfmigrations-icon-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/cfmigrations-icon-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cfmigrations-icon-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/cfmigrations-icon-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/cfmigrations-icon-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/cfmigrations-icon-mono-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/cfmigrations-icon-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cfmigrations-icon-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/cfmigrations-icon-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/cfmigrations-icon-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cfmigrations-icon-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/cfmigrations-icon-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/cfmigrations-icon-mono-light-sm.jpg">Small</a>
+  </td>
+</tr></table>
 
 ---
 
 ## 📝 Notes
 
-- Folders included: `SVG`, `PNG`, `JPG`
-- File naming convention:  
-  `cfmigrations-[logo|icon]-[variant]-[tone]-[size].[format]`
-- Sizes available: **L**, **M**, **S**
-- Use **SVG** whenever possible for scalability and best quality.
-- Use **PNG** for digital applications.
-- Use **JPG** only when required for compatibility (except Mono Light, which does not include JPG versions).
+- Logo variants are designed for specific contexts and usage guidelines.
+  - Layout: 
+    - default: horizontal, no need to name it in file
+    - stack: vertical
+    - icon: symbol only
+  - Variant: `full` (full color), `mono` (monochrome)
+  - Tone: `light`, `dark`
+  - Size: `sm`, `md`, `lg`
+  - Format: `svg`, `png`, `jpg`
+
+- **Tone refers to usage context (background), not the logo color:**
+  - Use **tone: light** for light backgrounds (logo with dark text).
+  - Use **tone: dark** for dark backgrounds (logo with light/white text).
+
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+
+- File naming convention: **product-[type]-[layout]-[variant]-[tone]-[size].[format]**
+ 
+Example: `cfmigrations-logo-full-light-md.svg`  
+Example (stack): `cfmigrations-logo-stack-full-dark-md.svg`
 
 ---
 
