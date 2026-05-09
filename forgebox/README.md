@@ -6,22 +6,106 @@ Official logo repository for **ForgeBox** — the Ortus Solutions package manage
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Download |
-|----------|----------|--------|
-| **Full Logo** | <img src="./SVG/forgebox-logo-full.svg" alt="ForgeBox Full Logo" width="160"> | SVG: [Download](./SVG/forgebox-logo-full.svg)<br>**PNG:** [Large](./PNG/forgebox-logo-full-L.png) • [Medium](./PNG/forgebox-logo-full-M.png) • [Small](./PNG/forgebox-logo-full-S.png)<br>**JPG:** [Large](./JPG/forgebox-logo-full-L.jpg) • [Medium](./JPG/forgebox-logo-full-M.jpg) • [Small](./JPG/forgebox-logo-full-S.jpg) |
-| **Icon – Full Color** | <img src="./SVG/forgebox-icon-full.svg" alt="ForgeBox Icon Full" width="160"> | SVG: [Download](./SVG/forgebox-icon-full.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-full-L.png) • [Medium](./PNG/forgebox-icon-full-M.png) • [Small](./PNG/forgebox-icon-full-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-full-L.jpg) • [Medium](./JPG/forgebox-icon-full-M.jpg) • [Small](./JPG/forgebox-icon-full-S.jpg) |
-| **Icon – Mono (Dark)** | <img src="./SVG/forgebox-icon-mono-dark.svg" alt="ForgeBox Icon Mono Dark" width="160"> | SVG: [Download](./SVG/forgebox-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-dark-L.png) • [Medium](./PNG/forgebox-icon-mono-dark-M.png) • [Small](./PNG/forgebox-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/forgebox-icon-mono-dark-L.jpg) • [Medium](./JPG/forgebox-icon-mono-dark-M.jpg) • [Small](./JPG/forgebox-icon-mono-dark-S.jpg) |
-| **Icon – Mono (Light)** | <img src="./SVG/forgebox-icon-mono-light.svg" alt="ForgeBox Icon Mono Light" width="160"> | SVG: [Download](./SVG/forgebox-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/forgebox-icon-mono-light-L.png) • [Medium](./PNG/forgebox-icon-mono-light-M.png) • [Small](./PNG/forgebox-icon-mono-light-S.png) |
+<table width="100%">
+<tr>
+  <th align="left" width="25%">Variant</th>
+  <th align="center" width="30%">Preview</th>
+  <th align="left" width="20%">Tone / Use</th>
+  <th align="left" width="25%">Download</th>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/forgebox-logo-full-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/forgebox-logo-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/forgebox-logo-full-lg.png">Large</a> · 
+    <a href="./PNG/forgebox-logo-full-md.png">Medium</a> · 
+    <a href="./PNG/forgebox-logo-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/forgebox-logo-full-lg.jpg">Large</a> · 
+           <a href="./JPG/forgebox-logo-full-md.jpg">Medium</a> · 
+           <a href="./JPG/forgebox-logo-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Full Color</td>
+  <td align="center">
+    <img src="./PNG/forgebox-icon-full-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/forgebox-icon-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/forgebox-icon-full-lg.png">Large</a> · 
+    <a href="./PNG/forgebox-icon-full-md.png">Medium</a> · 
+    <a href="./PNG/forgebox-icon-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/forgebox-icon-full-lg.jpg">Large</a> · 
+           <a href="./JPG/forgebox-icon-full-md.jpg">Medium</a> · 
+           <a href="./JPG/forgebox-icon-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/forgebox-icon-mono-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/forgebox-icon-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/forgebox-icon-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/forgebox-icon-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/forgebox-icon-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/forgebox-icon-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/forgebox-icon-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/forgebox-icon-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/forgebox-icon-mono-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/forgebox-icon-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/forgebox-icon-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/forgebox-icon-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/forgebox-icon-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/forgebox-icon-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/forgebox-icon-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/forgebox-icon-mono-light-sm.jpg">Small</a>
+  </td>
+</tr></table>
 
 ---
 
 ## 📝 Notes
 
-- Use **Full Logo** for standard branding and marketing materials.  
-- Use **Icon** versions when a simplified or compact representation is required.  
-- File naming convention: **forgebox-[logo|icon]-[variant]-[size].[format]**
+- Logo variants are designed for specific contexts and usage guidelines.
+  - Layout: 
+    - default: horizontal, no need to name it in file
+    - stack: vertical
+    - icon: symbol only
+  - Variant: `full` (full color), `mono` (monochrome)
+  - Tone: `light`, `dark`
+  - Size: `sm`, `md`, `lg`
+  - Format: `svg`, `png`, `jpg`
 
-Example: `forgebox-logo-full-M.svg`
+- **Tone refers to usage context (background), not the logo color:**
+  - Use **tone: light** for light backgrounds (logo with dark text).
+  - Use **tone: dark** for dark backgrounds (logo with light/white text).
+
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+
+- File naming convention: **product-[type]-[layout]-[variant]-[tone]-[size].[format]**
+ 
+Example: `forgebox-logo-full-light-md.svg`  
+Example (stack): `forgebox-logo-stack-full-dark-md.svg`
 
 ---
 
