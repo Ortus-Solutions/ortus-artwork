@@ -8,11 +8,64 @@ It includes logos, visual systems, templates, and supporting materials to mainta
 
 # LOGOS
 
-| Variant | Preview | Download |
-|----------|----------|-----------|
-| **Logo-Full** | <img src="Logo/PNG/ortus20yr-logo-full-M.png" width="140"/> | **SVG:** [Download](Logo/SVG/ortus20yr-logo-full.svg)<br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-full-L.png) • [Medium](Logo/PNG/ortus20yr-logo-full-M.png) • [Small](Logo/PNG/ortus20yr-logo-full-S.png)<br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-full-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-full-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-full-S.jpg) |
-| **Logo-Mono-Dark** | <img src="Logo/PNG/ortus20yr-logo-mono-dark-M.png" width="140"/> | **SVG:** [Download](Logo/SVG/ortus20yr-logo-mono-dark.svg)<br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-dark-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-dark-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-dark-S.png)<br/>**JPG:** [Large](Logo/JPG/ortus20yr-logo-mono-dark-L.jpg) • [Medium](Logo/JPG/ortus20yr-logo-mono-dark-M.jpg) • [Small](Logo/JPG/ortus20yr-logo-mono-dark-S.jpg) |
-| **Logo-Mono-Light** | <img src="Logo/PNG/ortus20yr-logo-mono-light-M.png" width="140"/> | **SVG:** [Download](Logo/SVG/ortus20yr-logo-mono-light.svg)<br/>**PNG:** [Large](Logo/PNG/ortus20yr-logo-mono-light-L.png) • [Medium](Logo/PNG/ortus20yr-logo-mono-light-M.png) • [Small](Logo/PNG/ortus20yr-logo-mono-light-S.png) |
+<table width="100%">
+<tr>
+  <th align="left" width="25%">Variant</th>
+  <th align="center" width="30%">Preview</th>
+  <th align="left" width="20%">Tone / Use</th>
+  <th align="left" width="25%">Download</th>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./logo/PNG/ortus20yr-logo-full-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/ortus20yr-logo-full.svg">SVG</a><br>
+    PNG:
+    <a href="./logo/PNG/ortus20yr-logo-full-lg.png">Large</a> · 
+    <a href="./logo/PNG/ortus20yr-logo-full-md.png">Medium</a> · 
+    <a href="./logo/PNG/ortus20yr-logo-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/ortus20yr-logo-full-lg.jpg">Large</a> · 
+           <a href="./JPG/ortus20yr-logo-full-md.jpg">Medium</a> · 
+           <a href="./JPG/ortus20yr-logo-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Monochrome</td>
+  <td align="center">
+    <img src="./logo/PNG/ortus20yr-logo-mono-dark-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/ortus20yr-logo-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./logo/PNG/ortus20yr-logo-mono-dark-lg.png">Large</a> · 
+    <a href="./logo/PNG/ortus20yr-logo-mono-dark-md.png">Medium</a> · 
+    <a href="./logo/PNG/ortus20yr-logo-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/ortus20yr-logo-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/ortus20yr-logo-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/ortus20yr-logo-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Monochrome</td>
+  <td align="center">
+    <img src="./logo/PNG/ortus20yr-logo-mono-light-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/ortus20yr-logo-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./logo/PNG/ortus20yr-logo-mono-light-lg.png">Large</a> · 
+    <a href="./logo/PNG/ortus20yr-logo-mono-light-md.png">Medium</a> · 
+    <a href="./logo/PNG/ortus20yr-logo-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/ortus20yr-logo-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/ortus20yr-logo-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/ortus20yr-logo-mono-light-sm.jpg">Small</a>
+  </td>
+</tr></table>
 
 
 ## 📝 Notes
