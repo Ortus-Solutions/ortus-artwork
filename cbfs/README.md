@@ -7,24 +7,106 @@ This package contains the primary logo and icon assets for use across digital an
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Download |
-|----------|----------|---------|
-| Logo – Full | <img src="./PNG/cbfs-logo-full-M.png" width="160"/> | SVG: [Download](./SVG/cbfs-logo-full.svg)<br>**PNG:** [Large](./PNG/cbfs-logo-full-L.png) • [Medium](./PNG/cbfs-logo-full-M.png) • [Small](./PNG/cbfs-logo-full-S.png)<br>**JPG:** [Large](./JPG/cbfs-logo-full-L.jpg) • [Medium](./JPG/cbfs-logo-full-M.jpg) • [Small](./JPG/cbfs-logo-full-S.jpg) |
-| Icon – Full | <img src="./PNG/cbfs-icon-full-M.png" width="160"/> | SVG: [Download](./SVG/cbfs-icon-full.svg)<br>**PNG:** [Large](./PNG/cbfs-icon-full-L.png) • [Medium](./PNG/cbfs-icon-full-M.png) • [Small](./PNG/cbfs-icon-full-S.png)<br>**JPG:** [Large](./JPG/cbfs-icon-full-L.jpg) • [Medium](./JPG/cbfs-icon-full-M.jpg) • [Small](./JPG/cbfs-icon-full-S.jpg) |
-| Icon – Mono Dark | <img src="./PNG/cbfs-icon-mono-dark-M.png" width="160"/> | SVG: [Download](./SVG/cbfs-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/cbfs-icon-mono-dark-L.png) • [Medium](./PNG/cbfs-icon-mono-dark-M.png) • [Small](./PNG/cbfs-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/cbfs-icon-mono-dark-L.jpg) • [Medium](./JPG/cbfs-icon-mono-dark-M.jpg) • [Small](./JPG/cbfs-icon-mono-dark-S.jpg) |
-| Icon – Mono Light | <img src="./PNG/cbfs-icon-mono-light-M.png" width="160"/> | SVG: [Download](./SVG/cbfs-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/cbfs-icon-mono-light-L.png) • [Medium](./PNG/cbfs-icon-mono-light-M.png) • [Small](./PNG/cbfs-icon-mono-light-S.png) |
+<table width="100%">
+<tr>
+  <th align="left" width="25%">Variant</th>
+  <th align="center" width="30%">Preview</th>
+  <th align="left" width="20%">Tone / Use</th>
+  <th align="left" width="25%">Download</th>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/cbfs-logo-full-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/cbfs-logo-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbfs-logo-full-lg.png">Large</a> · 
+    <a href="./PNG/cbfs-logo-full-md.png">Medium</a> · 
+    <a href="./PNG/cbfs-logo-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbfs-logo-full-lg.jpg">Large</a> · 
+           <a href="./JPG/cbfs-logo-full-md.jpg">Medium</a> · 
+           <a href="./JPG/cbfs-logo-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Full Color</td>
+  <td align="center">
+    <img src="./PNG/cbfs-icon-full-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/cbfs-icon-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbfs-icon-full-lg.png">Large</a> · 
+    <a href="./PNG/cbfs-icon-full-md.png">Medium</a> · 
+    <a href="./PNG/cbfs-icon-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbfs-icon-full-lg.jpg">Large</a> · 
+           <a href="./JPG/cbfs-icon-full-md.jpg">Medium</a> · 
+           <a href="./JPG/cbfs-icon-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/cbfs-icon-mono-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/cbfs-icon-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbfs-icon-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/cbfs-icon-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/cbfs-icon-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbfs-icon-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/cbfs-icon-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/cbfs-icon-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/cbfs-icon-mono-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/cbfs-icon-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbfs-icon-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/cbfs-icon-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/cbfs-icon-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbfs-icon-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/cbfs-icon-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/cbfs-icon-mono-light-sm.jpg">Small</a>
+  </td>
+</tr></table>
 
 ---
 
 ## 📝 Notes
 
-- Folders included: `SVG`, `PNG`, `JPG`
-- File naming convention:  
-  `cbfs-[logo|icon]-[variant]-[tone]-[size].[format]`
-- Sizes available: **L**, **M**, **S**
-- Use **SVG** whenever possible for scalability and best quality.
-- Use **PNG** for digital applications.
-- Use **JPG** only when required for compatibility.
+- Logo variants are designed for specific contexts and usage guidelines.
+  - Layout: 
+    - default: horizontal, no need to name it in file
+    - stack: vertical
+    - icon: symbol only
+  - Variant: `full` (full color), `mono` (monochrome)
+  - Tone: `light`, `dark`
+  - Size: `sm`, `md`, `lg`
+  - Format: `svg`, `png`, `jpg`
+
+- **Tone refers to usage context (background), not the logo color:**
+  - Use **tone: light** for light backgrounds (logo with dark text).
+  - Use **tone: dark** for dark backgrounds (logo with light/white text).
+
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+
+- File naming convention: **product-[type]-[layout]-[variant]-[tone]-[size].[format]**
+ 
+Example: `cbfs-logo-full-light-md.svg`  
+Example (stack): `cbfs-logo-stack-full-dark-md.svg`
 
 ---
 
