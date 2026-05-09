@@ -6,26 +6,122 @@
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Download |
-|---------|---------|---------|
-| Logo – Full Dark | <img src="./PNG/cbsecurity-passkeys-logo-full-dark-M.png" width="140"/> | SVG: [Download](./SVG/cbsecurity-passkeys-logo-full-dark.svg)<br>**PNG:** [Large](./PNG/cbsecurity-passkeys-logo-full-dark-L.png) • [Medium](./PNG/cbsecurity-passkeys-logo-full-dark-M.png) • [Small](./PNG/cbsecurity-passkeys-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/cbsecurity-passkeys-logo-full-dark-L.jpg) • [Medium](./JPG/cbsecurity-passkeys-logo-full-dark-M.jpg) • [Small](./JPG/cbsecurity-passkeys-logo-full-dark-S.jpg) |
-| Logo – Full Light | <img src="./PNG/cbsecurity-passkeys-logo-full-light-M.png" width="140"/> | SVG: [Download](./SVG/cbsecurity-passkeys-logo-full-light.svg)<br>**PNG:** [Large](./PNG/cbsecurity-passkeys-logo-full-light-L.png) • [Medium](./PNG/cbsecurity-passkeys-logo-full-light-M.png) • [Small](./PNG/cbsecurity-passkeys-logo-full-light-S.png) |
-| Icon – Full | <img src="./PNG/cbsecurity-passkeys-icon-full-M.png" width="140"/> | SVG: [Download](./SVG/cbsecurity-passkeys-icon-full.svg)<br>**PNG:** [Large](./PNG/cbsecurity-passkeys-icon-full-L.png) • [Medium](./PNG/cbsecurity-passkeys-icon-full-M.png) • [Small](./PNG/cbsecurity-passkeys-icon-full-S.png)<br>**JPG:** [Large](./JPG/cbsecurity-passkeys-icon-full-L.jpg) • [Medium](./JPG/cbsecurity-passkeys-icon-full-M.jpg) • [Small](./JPG/cbsecurity-passkeys-icon-full-S.jpg) |
-| Icon – Mono Dark | <img src="./PNG/cbsecurity-passkeys-icon-mono-dark-M.png" width="140"/> | SVG: [Download](./SVG/cbsecurity-passkeys-icon-mono-dark.svg)<br>**PNG:** [Large](./PNG/cbsecurity-passkeys-icon-mono-dark-L.png) • [Medium](./PNG/cbsecurity-passkeys-icon-mono-dark-M.png) • [Small](./PNG/cbsecurity-passkeys-icon-mono-dark-S.png)<br>**JPG:** [Large](./JPG/cbsecurity-passkeys-icon-mono-dark-L.jpg) • [Medium](./JPG/cbsecurity-passkeys-icon-mono-dark-M.jpg) • [Small](./JPG/cbsecurity-passkeys-icon-mono-dark-S.jpg) |
-| Icon – Mono Light | <img src="./PNG/cbsecurity-passkeys-icon-mono-light-M.png" width="140"/> | SVG: [Download](./SVG/cbsecurity-passkeys-icon-mono-light.svg)<br>**PNG:** [Large](./PNG/cbsecurity-passkeys-icon-mono-light-L.png) • [Medium](./PNG/cbsecurity-passkeys-icon-mono-light-M.png) • [Small](./PNG/cbsecurity-passkeys-icon-mono-light-S.png) |
-
+<table width="100%">
+<tr>
+  <th align="left" width="25%">Variant</th>
+  <th align="center" width="30%">Preview</th>
+  <th align="left" width="20%">Tone / Use</th>
+  <th align="left" width="25%">Download</th>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/cbsecurity-passkeys-logo-full-dark-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/cbsecurity-passkeys-logo-full-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbsecurity-passkeys-logo-full-dark-lg.png">Large</a> · 
+    <a href="./PNG/cbsecurity-passkeys-logo-full-dark-md.png">Medium</a> · 
+    <a href="./PNG/cbsecurity-passkeys-logo-full-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbsecurity-passkeys-logo-full-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/cbsecurity-passkeys-logo-full-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/cbsecurity-passkeys-logo-full-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/cbsecurity-passkeys-logo-full-light-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/cbsecurity-passkeys-logo-full-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbsecurity-passkeys-logo-full-light-lg.png">Large</a> · 
+    <a href="./PNG/cbsecurity-passkeys-logo-full-light-md.png">Medium</a> · 
+    <a href="./PNG/cbsecurity-passkeys-logo-full-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbsecurity-passkeys-logo-full-light-lg.jpg">Large</a> · 
+           <a href="./JPG/cbsecurity-passkeys-logo-full-light-md.jpg">Medium</a> · 
+           <a href="./JPG/cbsecurity-passkeys-logo-full-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Full Color</td>
+  <td align="center">
+    <img src="./PNG/cbsecurity-passkeys-icon-full-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td></td>
+  <td>
+    <a href="./SVG/cbsecurity-passkeys-icon-full.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbsecurity-passkeys-icon-full-lg.png">Large</a> · 
+    <a href="./PNG/cbsecurity-passkeys-icon-full-md.png">Medium</a> · 
+    <a href="./PNG/cbsecurity-passkeys-icon-full-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbsecurity-passkeys-icon-full-lg.jpg">Large</a> · 
+           <a href="./JPG/cbsecurity-passkeys-icon-full-md.jpg">Medium</a> · 
+           <a href="./JPG/cbsecurity-passkeys-icon-full-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/cbsecurity-passkeys-icon-mono-dark-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/cbsecurity-passkeys-icon-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbsecurity-passkeys-icon-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/cbsecurity-passkeys-icon-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/cbsecurity-passkeys-icon-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbsecurity-passkeys-icon-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/cbsecurity-passkeys-icon-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/cbsecurity-passkeys-icon-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Icon Monochrome</td>
+  <td align="center">
+    <img src="./PNG/cbsecurity-passkeys-icon-mono-light-md.png" width="100" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/cbsecurity-passkeys-icon-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/cbsecurity-passkeys-icon-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/cbsecurity-passkeys-icon-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/cbsecurity-passkeys-icon-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/cbsecurity-passkeys-icon-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/cbsecurity-passkeys-icon-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/cbsecurity-passkeys-icon-mono-light-sm.jpg">Small</a>
+  </td>
+</tr></table>
 ---
 
 ## 📝 Notes
 
-- Folders included: `SVG`, `PNG`, `JPG`
-- File naming convention:  
-  `cbsecurity-passkeys-[logo|icon]-[variant]-[tone]-[size].[format]`
-- Sizes available: **L**, **M**, **S**
-- Use **SVG** whenever possible for scalability and best quality.
-- Use **PNG** for digital applications.
-- Use **JPG** only when required for compatibility (except Mono Light, which does not include JPG versions).
+- Logo variants are designed for specific contexts and usage guidelines.
+  - Layout: 
+    - default: horizontal, no need to name it in file
+    - stack: vertical
+    - icon: symbol only
+  - Variant: `full` (full color), `mono` (monochrome)
+  - Tone: `light`, `dark`
+  - Size: `sm`, `md`, `lg`
+  - Format: `svg`, `png`, `jpg`
 
+- **Tone refers to usage context (background), not the logo color:**
+  - Use **tone: light** for light backgrounds (logo with dark text).
+  - Use **tone: dark** for dark backgrounds (logo with light/white text).
+
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+
+- File naming convention: **product-[type]-[layout]-[variant]-[tone]-[size].[format]**
+ 
+Example: `cbsecurity_passkeys-logo-full-light-md.svg`  
+Example (stack): `cbsecurity_passkeys-logo-stack-full-dark-md.svg`
 ---
 
 ## 🎨 Color Palette
