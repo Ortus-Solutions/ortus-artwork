@@ -108,6 +108,7 @@ This package contains the primary logo and icon assets for use across digital an
 Example: `cbfs-logo-full-light-md.svg`  
 Example (stack): `cbfs-logo-stack-full-dark-md.svg`
 
+
 ---
 
 ## 🎨 Color Palette
