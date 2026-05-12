@@ -6,23 +6,106 @@ Official logo repository for **BOXLANG Ultimate** — The enterprise edition off
 
 ## 🖼️ Logo Variants
 
-| Variant | Preview | Download |
-|----------|----------|---------|
-| **Full Color (Dark Text)** | <img src="./SVG/bxultimate-logo-full-dark.svg" alt="Full Color Dark" width="140"> | SVG: [Download](./SVG/bxultimate-logo-full-dark.svg)<br>**PNG:** [Large](./PNG/bxultimate-logo-full-dark-L.png) • [Medium](./PNG/bxultimate-logo-full-dark-M.png) • [Small](./PNG/bxultimate-logo-full-dark-S.png)<br>**JPG:** [Large](./JPG/bxultimate-logo-full-dark-L.jpg) • [Medium](./JPG/bxultimate-logo-full-dark-M.jpg) • [Small](./JPG/bxultimate-logo-full-dark-S.jpg) |
-| **Full Color (White Text)** | <img src="./SVG/bxultimate-logo-full-light.svg" alt="Full Color Light" width="140"> | SVG: [Download](./SVG/bxultimate-logo-full-light.svg)<br>**PNG:** [Large](./PNG/bxultimate-logo-full-light-L.png) • [Medium](./PNG/bxultimate-logo-full-light-M.png) • [Small](./PNG/bxultimate-logo-full-light-S.png) |
-| **Monochrome (Dark)** | <img src="./SVG/bxultimate-logo-mono-dark.svg" alt="Mono Dark" width="140"> | SVG: [Download](./SVG/bxultimate-logo-mono-dark.svg)<br>**PNG:** [Large](./PNG/bxultimate-logo-mono-dark-L.png) • [Medium](./PNG/bxultimate-logo-mono-dark-M.png) • [Small](./PNG/bxultimate-logo-mono-dark-S.png)<br>**JPG:** [Large](./JPG/bxultimate-logo-mono-dark-L.jpg) • [Medium](./JPG/bxultimate-logo-mono-dark-M.jpg) • [Small](./JPG/bxultimate-logo-mono-dark-S.jpg) |
-| **Monochrome (White)** | <img src="./SVG/bxultimate-logo-mono-light.svg" alt="Mono Light" width="140"> | SVG: [Download](./SVG/bxultimate-logo-mono-light.svg)<br>**PNG:** [Large](./PNG/bxultimate-logo-mono-light-L.png) • [Medium](./PNG/bxultimate-logo-mono-light-M.png) • [Small](./PNG/bxultimate-logo-mono-light-S.png) |
+<table width="100%">
+<tr>
+  <th align="left" width="25%">Variant</th>
+  <th align="center" width="30%">Preview</th>
+  <th align="left" width="20%">Tone / Use</th>
+  <th align="left" width="25%">Download</th>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/boxlang-ultimate-logo-full-dark-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/boxlang-ultimate-logo-full-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/boxlang-ultimate-logo-full-dark-lg.png">Large</a> · 
+    <a href="./PNG/boxlang-ultimate-logo-full-dark-md.png">Medium</a> · 
+    <a href="./PNG/boxlang-ultimate-logo-full-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/boxlang-ultimate-logo-full-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/boxlang-ultimate-logo-full-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/boxlang-ultimate-logo-full-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Full Color</td>
+  <td align="center">
+    <img src="./PNG/boxlang-ultimate-logo-full-light-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/boxlang-ultimate-logo-full-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/boxlang-ultimate-logo-full-light-lg.png">Large</a> · 
+    <a href="./PNG/boxlang-ultimate-logo-full-light-md.png">Medium</a> · 
+    <a href="./PNG/boxlang-ultimate-logo-full-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/boxlang-ultimate-logo-full-light-lg.jpg">Large</a> · 
+           <a href="./JPG/boxlang-ultimate-logo-full-light-md.jpg">Medium</a> · 
+           <a href="./JPG/boxlang-ultimate-logo-full-light-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Monochrome</td>
+  <td align="center">
+    <img src="./PNG/boxlang-ultimate-logo-mono-dark-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on dark backgrounds</td>
+  <td>
+    <a href="./SVG/boxlang-ultimate-logo-mono-dark.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/boxlang-ultimate-logo-mono-dark-lg.png">Large</a> · 
+    <a href="./PNG/boxlang-ultimate-logo-mono-dark-md.png">Medium</a> · 
+    <a href="./PNG/boxlang-ultimate-logo-mono-dark-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/boxlang-ultimate-logo-mono-dark-lg.jpg">Large</a> · 
+           <a href="./JPG/boxlang-ultimate-logo-mono-dark-md.jpg">Medium</a> · 
+           <a href="./JPG/boxlang-ultimate-logo-mono-dark-sm.jpg">Small</a>
+  </td>
+</tr><tr>
+  <td>Logo Monochrome</td>
+  <td align="center">
+    <img src="./PNG/boxlang-ultimate-logo-mono-light-md.png" width="240" style="max-width:100%;">
+  </td>
+  <td>Use on light backgrounds</td>
+  <td>
+    <a href="./SVG/boxlang-ultimate-logo-mono-light.svg">SVG</a><br>
+    PNG:
+    <a href="./PNG/boxlang-ultimate-logo-mono-light-lg.png">Large</a> · 
+    <a href="./PNG/boxlang-ultimate-logo-mono-light-md.png">Medium</a> · 
+    <a href="./PNG/boxlang-ultimate-logo-mono-light-sm.png">Small</a>
+    <br>JPG:
+           <a href="./JPG/boxlang-ultimate-logo-mono-light-lg.jpg">Large</a> · 
+           <a href="./JPG/boxlang-ultimate-logo-mono-light-md.jpg">Medium</a> · 
+           <a href="./JPG/boxlang-ultimate-logo-mono-light-sm.jpg">Small</a>
+  </td>
+</tr></table>
 
 ---
 
 ## 📝 Notes
 
-- Use **Full Color (Dark Text)** for light backgrounds.  
-- Use **Full Color (White Text)** for dark backgrounds.  
-- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
-- File naming convention: **bxultimate-[logo|icon]-[variant]-[tone]-[size].[format]**
+- Logo variants are designed for specific contexts and usage guidelines.
+  - Layout: 
+    - default: horizontal, no need to name it in file
+    - stack: vertical
+    - icon: symbol only
+  - Variant: `full` (full color), `mono` (monochrome)
+  - Tone: `light`, `dark`
+  - Size: `sm`, `md`, `lg`
+  - Format: `svg`, `png`, `jpg`
 
-Example: bxultimate-logo-full-dark-M.svg
+- **Tone refers to usage context (background), not the logo color:**
+  - Use **tone: light** for light backgrounds (logo with dark text).
+  - Use **tone: dark** for dark backgrounds (logo with light/white text).
+
+- Use **Monochrome** versions when color use is restricted (e.g., single-color print or embossing).  
+
+- File naming convention: **product-[type]-[layout]-[variant]-[tone]-[size].[format]**
+ 
+Example: `boxlang-ultimate-logo-full-light-md.svg`  
+Example (stack): `boxlang-ultimate-logo-stack-full-dark-md.svg`
 
 ---
 
