@@ -407,12 +407,12 @@ Official modules and extensions available for **BOXLANG**.
 <td><a href="modules/SVG/icon-module-bx-csv.svg">SVG</a> | <a href="modules/PNG/icon-module-bx-csv.png">PNG</a> | <a href="modules/JPG/icon-module-bx-csv.jpg">JPG</a></td>
 </tr>
 <tr>
-<td><img src="modules/SVG/icon-module-bx-couchbase.svg"/></td>
+<td><img src="modules/SVG/icon-module-couchbase.svg"/></td>
 <td>bx-couchbase</td>
 <td>Caching</td>
 <td>This module provides enterprise-grade caching, session storage, and AI vector memory capabilities powered by the Couchbase distributed NoSQL database.</td>
 <td>BoxLang+/++</td>
-<td><a href="modules/SVG/icon-module-bx-couchbase.svg">SVG</a> | <a href="modules/PNG/icon-module-bx-couchbase.png">PNG</a> | <a href="modules/JPG/icon-module-bx-couchbase.jpg">JPG</a></td>
+<td><a href="modules/SVG/icon-module-couchbase.svg">SVG</a> | <a href="modules/PNG/icon-module-couchbase.png">PNG</a> | <a href="modules/JPG/icon-module-couchbase.jpg">JPG</a></td>
 </tr>
 <tr>
 <td><img src="modules/SVG/icon-module-bx-docbox.svg"/></td>
