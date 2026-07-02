@@ -140,16 +140,15 @@ Official logo repository for **BoxLang**, the powerful, modern CFML-compatible l
 
 ## Slides
 
-<h2>Slides</h2>
-Official BoxLang presentation decks available in PDF, PowerPoint, and Canva formats.
+<p>Official BoxLang presentation decks available in PDF, PowerPoint, and Canva formats.</p>
 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th>Preview</th>
       <th>Name</th>
       <th>Version</th>
-      <th>Download</th>
+      <th>Resources</th>
     </tr>
   </thead>
   <tbody>
