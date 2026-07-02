@@ -133,7 +133,68 @@ Official logo repository for **BoxLang**, the powerful, modern CFML-compatible l
   </td>
 </tr></table>
 
+
+
 ---
+
+
+## Slides
+
+<h2>Slides</h2>
+<p>Official BoxLang presentation decks available in PDF, PowerPoint, and Canva formats.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Preview</th>
+      <th>Name</th>
+      <th>Version</th>
+      <th>Download</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="slides/thumbnail-boxlang-visionary-licenses-v1-2025.png" alt="Visionary Licenses" width="220">
+      </td>
+      <td>Visionary Licenses</td>
+      <td>v1 · 2025</td>
+      <td>
+        <a href="slides/boxlang-visionary-licenses-v1-2025.pdf">PDF</a> |
+        <a href="slides/boxlang-visionary-licenses-v1-2025.pptx">PPTX</a> |
+        <a href="https://canva.link/s3iw9cl6cpzfer5">Canva</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="slides/thumbnail-guide-to-choose-graphics-for-boxlang-v1-2025.png" alt="Guide to Choose Graphics" width="220">
+      </td>
+      <td>Guide to Choose Graphics</td>
+      <td>v1 · 2025</td>
+      <td>
+        <a href="slides/guide-to-choose-graphics-for-boxlang-v1-2025.pdf">PDF</a> |
+        <a href="slides/guide-to-choose-graphics-for-boxlang-v1-2025.pptx">PPTX</a> |
+        <a href="https://canva.link/nxfu8f7yjdkimjw">Canva</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="slides/thumbnail-welcome-to-boxlang-v1-2025.png" alt="Welcome to BoxLang" width="220">
+      </td>
+      <td>Welcome to BoxLang</td>
+      <td>v1 · 2025</td>
+      <td>
+        <a href="slides/welcome-to-boxlang-v1-2025.pdf">PDF</a> |
+        <a href="slides/welcome-to-boxlang-v1-2025.pptx">PPTX</a> |
+        <a href="https://canva.link/vczoroh6xicfdoa">Canva</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
 
 ## 📦 Modules
 
