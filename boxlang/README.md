@@ -138,7 +138,7 @@ Official logo repository for **BoxLang**, the powerful, modern CFML-compatible l
 ---
 
 
-## Slides
+## 📑 Slides
 
 <p>Official BoxLang presentation decks available in PDF, PowerPoint, and Canva formats.</p>
 
