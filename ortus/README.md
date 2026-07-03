@@ -203,6 +203,73 @@ Official logo repository for **Ortus Solutions** — the creative force behind t
 
 ---
 
+
+<h2>📑 Slides</h2>
+
+<p>Official Ortus presentation decks available in PDF, PowerPoint, and Canva formats.</p>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th>Preview</th>
+      <th>Name</th>
+      <th>Version</th>
+      <th>Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="slides/thumbnail-ortus-case-studies-v1-2024.png" alt="Ortus Case Studies" width="220">
+      </td>
+      <td>Case Studies</td>
+      <td>v1 · 2024</td>
+      <td>
+        <a href="slides/ortus-case-studies-v1-2024.pdf">PDF</a> |
+        <a href="slides/ortus-case-studies-v1-2024.pptx">PPTX</a> |
+        <a href="https://canva.link/pp42jw389pmgszo">Canva</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="slides/thumbnail-ortus-government-v1-2025.png" alt="Ortus Government" width="220">
+      </td>
+      <td>Government</td>
+      <td>v1 · 2025</td>
+      <td>
+        <a href="slides/ortus-government-v1-2025.pdf">PDF</a> |
+        <a href="slides/ortus-government-v1-2025.pptx">PPTX</a> |
+        <a href="https://canva.link/t5o81qe7d6mnr10">Canva</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="slides/thumbnail-ortus-profile-commercial-v1-2026.png" alt="Ortus Profile Commercial" width="220">
+      </td>
+      <td>Profile Commercial</td>
+      <td>v1 · 2026</td>
+      <td>
+        <a href="slides/ortus-profile-commercial-v1-2026.pdf">PDF</a> |
+        <a href="slides/ortus-profile-commercial-v1-2026.pptx">PPTX</a> |
+        <a href="https://canva.link/d2r2wxnbc4bo5zn">Canva</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="slides/thumbnail-ortus-slides-template-2025.png" alt="Ortus Slides Template" width="220">
+      </td>
+      <td>Slides Template</td>
+      <td>2025</td>
+      <td>
+        <a href="https://canva.link/hwerj3hiotmfobd">Canva</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
 ## 📝 Notes
 
 - Logo variants are designed for specific contexts and usage guidelines.
