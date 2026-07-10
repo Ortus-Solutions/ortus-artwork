@@ -248,6 +248,36 @@ box install oba
 
 ---
 
+# Test Current Development Version
+
+The OBA module is currently under active development and is not yet available on ForgeBox.
+
+To test the latest development version, install it directly from the GitHub feature branch:
+
+```bash
+box install git+https://github.com/Ortus-Solutions/ortus-artwork#feature/oba-module
+```
+
+This will install the module into your application's `modules/` directory as:
+
+```
+modules/oba
+```
+
+After installation, restart your server:
+
+```bash
+box server restart
+```
+
+Once the module is published to ForgeBox, installation will simply be:
+
+```bash
+box install oba
+```
+
+---
+
 # License
 
 This project is part of the **Ortus Branding Assets** repository maintained by Ortus Solutions.
