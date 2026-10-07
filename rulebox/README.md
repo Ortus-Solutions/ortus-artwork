@@ -7,7 +7,6 @@ Official logo repository for **RuleBox**, a natural-language rules engine for Bo
 ---
 
 ## Logo Variants
-
 <table width="100%">
 <tr>
   <th align="left" width="25%">Variant</th>
@@ -17,36 +16,19 @@ Official logo repository for **RuleBox**, a natural-language rules engine for Bo
 </tr><tr>
   <td>Logo Full Color</td>
   <td align="center">
-    <img src="./PNG/rulebox-logo-full-dark-md.png" width="240" style="max-width:100%;">
+    <img src="./PNG/rulebox-logo-full-md.png" width="240" style="max-width:100%;">
   </td>
-  <td>Use on dark backgrounds</td>
+  <td></td>
   <td>
-    <a href="./SVG/rulebox-logo-full-dark.svg">SVG</a><br>
+    <a href="./SVG/rulebox-logo-full.svg">SVG</a><br>
     PNG:
-    <a href="./PNG/rulebox-logo-full-dark-lg.png">Large</a> · 
-    <a href="./PNG/rulebox-logo-full-dark-md.png">Medium</a> · 
-    <a href="./PNG/rulebox-logo-full-dark-sm.png">Small</a>
+    <a href="./PNG/rulebox-logo-full-lg.png">Large</a> · 
+    <a href="./PNG/rulebox-logo-full-md.png">Medium</a> · 
+    <a href="./PNG/rulebox-logo-full-sm.png">Small</a>
     <br>JPG:
-           <a href="./JPG/rulebox-logo-full-dark-lg.jpg">Large</a> · 
-           <a href="./JPG/rulebox-logo-full-dark-md.jpg">Medium</a> · 
-           <a href="./JPG/rulebox-logo-full-dark-sm.jpg">Small</a>
-  </td>
-</tr><tr>
-  <td>Logo Full Color</td>
-  <td align="center">
-    <img src="./PNG/rulebox-logo-full-light-md.png" width="240" style="max-width:100%;">
-  </td>
-  <td>Use on light backgrounds</td>
-  <td>
-    <a href="./SVG/rulebox-logo-full-light.svg">SVG</a><br>
-    PNG:
-    <a href="./PNG/rulebox-logo-full-light-lg.png">Large</a> · 
-    <a href="./PNG/rulebox-logo-full-light-md.png">Medium</a> · 
-    <a href="./PNG/rulebox-logo-full-light-sm.png">Small</a>
-    <br>JPG:
-           <a href="./JPG/rulebox-logo-full-light-lg.jpg">Large</a> · 
-           <a href="./JPG/rulebox-logo-full-light-md.jpg">Medium</a> · 
-           <a href="./JPG/rulebox-logo-full-light-sm.jpg">Small</a>
+           <a href="./JPG/rulebox-logo-full-lg.jpg">Large</a> · 
+           <a href="./JPG/rulebox-logo-full-md.jpg">Medium</a> · 
+           <a href="./JPG/rulebox-logo-full-sm.jpg">Small</a>
   </td>
 </tr><tr>
   <td>Logo Monochrome</td>
@@ -138,7 +120,6 @@ Official logo repository for **RuleBox**, a natural-language rules engine for Bo
 ---
 
 ## Notes
-
 - Logo variants are designed for specific contexts and usage guidelines.
   - Layout: 
     - default: horizontal, no need to name it in file
